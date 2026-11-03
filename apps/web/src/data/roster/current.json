@@ -512,7 +512,7 @@
       "position": "TE",
       "positionGroup": "TE",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 235,
       "yearsExp": 1
     },
@@ -766,7 +766,7 @@
       "position": "C",
       "positionGroup": "OL",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 305,
       "yearsExp": 1
     },
@@ -1168,33 +1168,6 @@
       "yearsExp": 1
     },
     {
-      "birthDate": "1999-11-10",
-      "college": "Oklahoma State",
-      "depthChartPosition": "DE",
-      "draft": {
-        "club": "JAX",
-        "overall": 130,
-        "year": 2023
-      },
-      "firstName": "Tyler",
-      "fullName": "Tyler Lacy",
-      "gsisId": "00-0038940",
-      "heightIn": 76,
-      "ids": {
-        "espn": "4361861",
-        "pfr": "LacyTy00"
-      },
-      "injury": null,
-      "jersey": 93,
-      "lastName": "Lacy",
-      "position": "DE",
-      "positionGroup": "DL",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 300,
-      "yearsExp": 3
-    },
-    {
       "birthDate": "2003-04-17",
       "college": "LSU; Missouri",
       "depthChartPosition": "DT",
@@ -1217,7 +1190,7 @@
       "position": "DT",
       "positionGroup": "DL",
       "rookieYear": 2024,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 282,
       "yearsExp": 2
     },
@@ -1322,29 +1295,6 @@
       "yearsExp": 6
     },
     {
-      "birthDate": "1998-11-07",
-      "college": "Saginaw Valley State",
-      "depthChartPosition": "OLB",
-      "draft": null,
-      "firstName": "Trevor",
-      "fullName": "Trevor Nowaske",
-      "gsisId": "00-0038660",
-      "heightIn": 75,
-      "ids": {
-        "espn": "5144894",
-        "pfr": "NowaTr00"
-      },
-      "injury": null,
-      "jersey": 53,
-      "lastName": "Nowaske",
-      "position": "LB",
-      "positionGroup": "EDGE",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 235,
-      "yearsExp": 3
-    },
-    {
       "birthDate": "2004-10-08",
       "college": "USC; Texas A&M",
       "depthChartPosition": "DE",
@@ -1416,6 +1366,33 @@
       "status": "RES",
       "weightLb": 270,
       "yearsExp": 5
+    },
+    {
+      "birthDate": "1999-11-10",
+      "college": "Oklahoma State",
+      "depthChartPosition": "DE",
+      "draft": {
+        "club": "JAX",
+        "overall": 130,
+        "year": 2023
+      },
+      "firstName": "Tyler",
+      "fullName": "Tyler Lacy",
+      "gsisId": "00-0038940",
+      "heightIn": 76,
+      "ids": {
+        "espn": "4361861",
+        "pfr": "LacyTy00"
+      },
+      "injury": null,
+      "jersey": 93,
+      "lastName": "Lacy",
+      "position": "DE",
+      "positionGroup": "EDGE",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 300,
+      "yearsExp": 3
     },
     {
       "birthDate": "2000-08-09",
@@ -1502,7 +1479,7 @@
       "position": "DE",
       "positionGroup": "EDGE",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 275,
       "yearsExp": 1
     },
@@ -1709,7 +1686,7 @@
         "pfr": "RakeEn00"
       },
       "injury": {
-        "practiceStatus": "Limited Participation in Practice",
+        "practiceStatus": "Full Participation in Practice",
         "primary": null,
         "reportStatus": null
       },
@@ -1766,7 +1743,11 @@
         "espn": "4371973",
         "pfr": "McCrRo01"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Foot",
+        "reportStatus": "Questionable"
+      },
       "jersey": 21,
       "lastName": "McCreary",
       "position": "CB",
@@ -1870,6 +1851,29 @@
       "rookieYear": 2023,
       "status": "DEV",
       "weightLb": 200,
+      "yearsExp": 3
+    },
+    {
+      "birthDate": "1998-11-07",
+      "college": "Saginaw Valley State",
+      "depthChartPosition": "OLB",
+      "draft": null,
+      "firstName": "Trevor",
+      "fullName": "Trevor Nowaske",
+      "gsisId": "00-0038660",
+      "heightIn": 75,
+      "ids": {
+        "espn": "5144894",
+        "pfr": "NowaTr00"
+      },
+      "injury": null,
+      "jersey": 53,
+      "lastName": "Nowaske",
+      "position": "LB",
+      "positionGroup": "CB",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 235,
       "yearsExp": 3
     },
     {
@@ -2014,8 +2018,8 @@
       },
       "injury": {
         "practiceStatus": "Limited Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "primary": "Knee",
+        "reportStatus": "Out"
       },
       "jersey": 31,
       "lastName": "Joseph",
@@ -2072,7 +2076,7 @@
       "position": "SAF",
       "positionGroup": "S",
       "rookieYear": 2026,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 201,
       "yearsExp": 0
     },
