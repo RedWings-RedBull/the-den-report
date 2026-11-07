@@ -1,0 +1,19 @@
+{
+  "gameId": "2026_08_MIN_DET",
+  "gradesVersion": "1.1.0",
+  "pipelineVersion": "1.0.0",
+  "season": 2026,
+  "sources": {
+    "depth_charts": "2026-11-07 08:54:17 EST",
+    "ftn_charting": "2026-11-07 01:01:29 EST",
+    "nextgen_stats": "2026-11-06 10:14:17 EST",
+    "pbp": "2026-11-07 10:40:04 EST",
+    "pfr_advstats": "2026-11-06 13:02:41 EST",
+    "players": "2026-11-07 09:35:36 EST",
+    "schedules": "2026-11-07 12:36:34 EST",
+    "snap_counts": "2026-11-06 07:02:26 EST",
+    "stats_player": "2026-11-07 10:42:15 EST"
+  },
+  "tier": "final",
+  "week": 8
+}

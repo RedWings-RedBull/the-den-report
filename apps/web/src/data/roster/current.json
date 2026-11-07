@@ -121,11 +121,7 @@
         "espn": "4429795",
         "pfr": "GibbJa01"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 0,
       "lastName": "Gibbs",
       "position": "RB",
@@ -176,9 +172,9 @@
         "pfr": "SaylJa00"
       },
       "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Neck",
+        "reportStatus": "Questionable"
       },
       "jersey": 25,
       "lastName": "Saylors",
@@ -229,7 +225,11 @@
         "espn": "4912274",
         "pfr": "VakiSi00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": "Ankle",
+        "reportStatus": "Questionable"
+      },
       "jersey": 33,
       "lastName": "Vaki",
       "position": "RB",
@@ -307,9 +307,9 @@
         "pfr": "StxxAm00"
       },
       "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Rib",
+        "reportStatus": "Questionable"
       },
       "jersey": 14,
       "lastName": "St. Brown",
@@ -396,29 +396,6 @@
       "status": "DEV",
       "weightLb": 185,
       "yearsExp": 1
-    },
-    {
-      "birthDate": "1999-12-09",
-      "college": "Tulane; Notre Dame",
-      "depthChartPosition": "WR",
-      "draft": null,
-      "firstName": "Lawrence",
-      "fullName": "Lawrence Keys",
-      "gsisId": "00-0039474",
-      "heightIn": 71,
-      "ids": {
-        "espn": null,
-        "pfr": null
-      },
-      "injury": null,
-      "jersey": 80,
-      "lastName": "Keys",
-      "position": "WR",
-      "positionGroup": "WR",
-      "rookieYear": 2024,
-      "status": "CUT",
-      "weightLb": 170,
-      "yearsExp": 2
     },
     {
       "birthDate": "1996-07-29",
@@ -656,11 +633,7 @@
         "espn": null,
         "pfr": null
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 58,
       "lastName": "Sewell",
       "position": "OT",
@@ -737,7 +710,11 @@
         "espn": null,
         "pfr": null
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": "Ankle",
+        "reportStatus": "Out"
+      },
       "jersey": 64,
       "lastName": "Mays",
       "position": "C",
@@ -1053,11 +1030,7 @@
         "espn": "4361662",
         "pfr": "McNeAl00"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 54,
       "lastName": "McNeill",
       "position": "DT",
@@ -1153,11 +1126,7 @@
         "espn": "4431615",
         "pfr": "WillTy02"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 91,
       "lastName": "Williams",
       "position": "DT",
@@ -1166,33 +1135,6 @@
       "status": "ACT",
       "weightLb": 328,
       "yearsExp": 1
-    },
-    {
-      "birthDate": "1999-11-10",
-      "college": "Oklahoma State",
-      "depthChartPosition": "DE",
-      "draft": {
-        "club": "JAX",
-        "overall": 130,
-        "year": 2023
-      },
-      "firstName": "Tyler",
-      "fullName": "Tyler Lacy",
-      "gsisId": "00-0038940",
-      "heightIn": 76,
-      "ids": {
-        "espn": "4361861",
-        "pfr": "LacyTy00"
-      },
-      "injury": null,
-      "jersey": 93,
-      "lastName": "Lacy",
-      "position": "DE",
-      "positionGroup": "DL",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 300,
-      "yearsExp": 3
     },
     {
       "birthDate": "2003-04-17",
@@ -1317,7 +1259,7 @@
       "position": "LB",
       "positionGroup": "EDGE",
       "rookieYear": 2020,
-      "status": "DEV",
+      "status": "ACT",
       "weightLb": 235,
       "yearsExp": 6
     },
@@ -1418,6 +1360,33 @@
       "yearsExp": 5
     },
     {
+      "birthDate": "1999-11-10",
+      "college": "Oklahoma State",
+      "depthChartPosition": "DE",
+      "draft": {
+        "club": "JAX",
+        "overall": 130,
+        "year": 2023
+      },
+      "firstName": "Tyler",
+      "fullName": "Tyler Lacy",
+      "gsisId": "00-0038940",
+      "heightIn": 76,
+      "ids": {
+        "espn": "4361861",
+        "pfr": "LacyTy00"
+      },
+      "injury": null,
+      "jersey": 93,
+      "lastName": "Lacy",
+      "position": "DE",
+      "positionGroup": "EDGE",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 300,
+      "yearsExp": 3
+    },
+    {
       "birthDate": "2000-08-09",
       "college": "Michigan",
       "depthChartPosition": "DE",
@@ -1434,11 +1403,7 @@
         "espn": "4372099",
         "pfr": "HutcAi00"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 97,
       "lastName": "Hutchinson",
       "position": "DE",
@@ -1466,9 +1431,9 @@
         "pfr": "WonnDJ00"
       },
       "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": "Concussion",
+        "reportStatus": "Out"
       },
       "jersey": 98,
       "lastName": "Wonnum",
@@ -1534,6 +1499,33 @@
       "yearsExp": 4
     },
     {
+      "birthDate": "1999-06-04",
+      "college": "Auburn",
+      "depthChartPosition": "ILB",
+      "draft": {
+        "club": "TB",
+        "overall": 176,
+        "year": 2021
+      },
+      "firstName": "K.J.",
+      "fullName": "K.J. Britt",
+      "gsisId": "00-0036643",
+      "heightIn": 72,
+      "ids": {
+        "espn": "4242521",
+        "pfr": "BritKJ00"
+      },
+      "injury": null,
+      "jersey": 40,
+      "lastName": "Britt",
+      "position": "LB",
+      "positionGroup": "LB",
+      "rookieYear": 2021,
+      "status": "ACT",
+      "weightLb": 240,
+      "yearsExp": 5
+    },
+    {
       "birthDate": "2004-02-09",
       "college": "Michigan",
       "depthChartPosition": "MLB",
@@ -1556,7 +1548,7 @@
       "position": "LB",
       "positionGroup": "LB",
       "rookieYear": 2026,
-      "status": "ACT",
+      "status": "RES",
       "weightLb": 238,
       "yearsExp": 0
     },
@@ -1631,7 +1623,11 @@
         "espn": "4569465",
         "pfr": "CampJa04"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": "Neck",
+        "reportStatus": "Out"
+      },
       "jersey": 46,
       "lastName": "Campbell",
       "position": "LB",
@@ -1639,6 +1635,33 @@
       "rookieYear": 2023,
       "status": "ACT",
       "weightLb": 243,
+      "yearsExp": 3
+    },
+    {
+      "birthDate": "2000-09-29",
+      "college": "Auburn",
+      "depthChartPosition": "MLB",
+      "draft": {
+        "club": "AZ",
+        "overall": 168,
+        "year": 2023
+      },
+      "firstName": "Owen",
+      "fullName": "Owen Pappoe",
+      "gsisId": "00-0038600",
+      "heightIn": 72,
+      "ids": {
+        "espn": "4567219",
+        "pfr": "PappOw00"
+      },
+      "injury": null,
+      "jersey": 51,
+      "lastName": "Pappoe",
+      "position": "LB",
+      "positionGroup": "LB",
+      "rookieYear": 2023,
+      "status": "DEV",
+      "weightLb": 230,
       "yearsExp": 3
     },
     {
@@ -1681,7 +1704,11 @@
         "espn": "4038432",
         "pfr": "OgboAm00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Full Participation in Practice",
+        "primary": null,
+        "reportStatus": null
+      },
       "jersey": 57,
       "lastName": "Ogbongbemiga",
       "position": "LB",
@@ -1708,11 +1735,7 @@
         "espn": "4566092",
         "pfr": "RakeEn00"
       },
-      "injury": {
-        "practiceStatus": "Limited Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 2,
       "lastName": "Rakestraw",
       "position": "CB",
@@ -1739,7 +1762,11 @@
         "espn": "3139387",
         "pfr": "ReedD.00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": "Hip",
+        "reportStatus": "Out"
+      },
       "jersey": 4,
       "lastName": "Reed",
       "position": "CB",
@@ -1793,7 +1820,11 @@
         "espn": "3910229",
         "pfr": "Ya-SRo00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Full Participation in Practice",
+        "primary": null,
+        "reportStatus": null
+      },
       "jersey": 23,
       "lastName": "Ya-Sin",
       "position": "CB",
@@ -2014,8 +2045,8 @@
       },
       "injury": {
         "practiceStatus": "Limited Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "primary": "Knee",
+        "reportStatus": "Out"
       },
       "jersey": 31,
       "lastName": "Joseph",
@@ -2043,7 +2074,11 @@
         "espn": "4692025",
         "pfr": "BranBr00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Full Participation in Practice",
+        "primary": null,
+        "reportStatus": null
+      },
       "jersey": 32,
       "lastName": "Branch",
       "position": "CB",
@@ -2056,7 +2091,7 @@
     {
       "birthDate": "2003-07-14",
       "college": "USC; N.C. State; Coffeyville CC",
-      "depthChartPosition": "FS",
+      "depthChartPosition": "SS",
       "draft": null,
       "firstName": "Bishop",
       "fullName": "Bishop Fitzgerald",
@@ -2072,7 +2107,7 @@
       "position": "SAF",
       "positionGroup": "S",
       "rookieYear": 2026,
-      "status": "ACT",
+      "status": "CUT",
       "weightLb": 201,
       "yearsExp": 0
     },
@@ -2175,5 +2210,5 @@
   ],
   "season": 2026,
   "team": "DET",
-  "week": 8
+  "week": 9
 }

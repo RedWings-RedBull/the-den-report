@@ -1,0 +1,32 @@
+{
+  "away": {
+    "score": 15,
+    "team": "MIN"
+  },
+  "gameId": "2026_08_MIN_DET",
+  "home": {
+    "score": 19,
+    "team": "DET"
+  },
+  "kickoffUtc": "2026-11-01T18:00:00Z",
+  "line": {
+    "spread": 3,
+    "total": 46.5
+  },
+  "overtime": false,
+  "season": 2026,
+  "team": {
+    "opponent": "MIN",
+    "result": "W",
+    "side": "home"
+  },
+  "tier": "final",
+  "venue": {
+    "roof": "dome",
+    "stadium": "Ford Field",
+    "surface": "",
+    "temp": null,
+    "wind": null
+  },
+  "week": 8
+}
