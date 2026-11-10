@@ -1,0 +1,32 @@
+{
+  "away": {
+    "score": 19,
+    "team": "DET"
+  },
+  "gameId": "2026_09_DET_MIA",
+  "home": {
+    "score": 9,
+    "team": "MIA"
+  },
+  "kickoffUtc": "2026-11-08T18:00:00Z",
+  "line": {
+    "spread": -6.5,
+    "total": 49.5
+  },
+  "overtime": false,
+  "season": 2026,
+  "team": {
+    "opponent": "MIA",
+    "result": "W",
+    "side": "away"
+  },
+  "tier": "provisional",
+  "venue": {
+    "roof": "outdoors",
+    "stadium": "Hard Rock Stadium",
+    "surface": "",
+    "temp": null,
+    "wind": null
+  },
+  "week": 9
+}

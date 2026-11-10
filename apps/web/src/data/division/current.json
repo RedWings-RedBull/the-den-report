@@ -3,9 +3,9 @@
   "division": "NFC North",
   "odds": [
     {
-      "division": 0.123,
-      "expectedWins": 10.595,
-      "playoffs": 0.774,
+      "division": 0.324,
+      "expectedWins": 11.518,
+      "playoffs": 0.903,
       "team": "CHI",
       "winDistribution": [
         0,
@@ -14,24 +14,24 @@
         0,
         0,
         0,
-        0.003,
-        0.016,
-        0.063,
-        0.15,
-        0.239,
-        0.256,
-        0.172,
-        0.076,
-        0.022,
-        0.003,
+        0,
+        0.001,
+        0.011,
+        0.057,
+        0.159,
+        0.26,
+        0.274,
+        0.173,
+        0.058,
+        0.009,
         0,
         0
       ]
     },
     {
-      "division": 0.114,
-      "expectedWins": 10.026,
-      "playoffs": 0.65,
+      "division": 0.299,
+      "expectedWins": 10.976,
+      "playoffs": 0.783,
       "team": "DET",
       "winDistribution": [
         0,
@@ -39,25 +39,25 @@
         0,
         0,
         0,
+        0,
         0.001,
-        0.009,
-        0.045,
+        0.007,
+        0.038,
+        0.11,
+        0.217,
+        0.263,
+        0.213,
         0.112,
-        0.203,
-        0.248,
-        0.202,
-        0.122,
-        0.045,
-        0.012,
-        0.001,
+        0.034,
+        0.005,
         0,
         0
       ]
     },
     {
-      "division": 0.039,
-      "expectedWins": 9.499,
-      "playoffs": 0.529,
+      "division": 0.107,
+      "expectedWins": 10.274,
+      "playoffs": 0.667,
       "team": "GB",
       "winDistribution": [
         0,
@@ -65,25 +65,25 @@
         0,
         0,
         0,
-        0.002,
-        0.016,
-        0.067,
-        0.171,
-        0.246,
-        0.248,
-        0.164,
-        0.07,
-        0.017,
-        0.002,
+        0,
+        0.003,
+        0.018,
+        0.075,
+        0.189,
+        0.273,
+        0.255,
+        0.139,
+        0.044,
+        0.004,
         0,
         0,
         0
       ]
     },
     {
-      "division": 0.725,
-      "expectedWins": 12.616,
-      "playoffs": 0.975,
+      "division": 0.269,
+      "expectedWins": 11.02,
+      "playoffs": 0.836,
       "team": "MIN",
       "winDistribution": [
         0,
@@ -93,17 +93,17 @@
         0,
         0,
         0,
-        0,
+        0.005,
+        0.03,
+        0.107,
+        0.22,
+        0.265,
+        0.224,
+        0.109,
+        0.036,
         0.004,
-        0.021,
-        0.063,
-        0.146,
-        0.23,
-        0.245,
-        0.179,
-        0.085,
-        0.023,
-        0.003
+        0,
+        0
       ]
     }
   ],
@@ -111,244 +111,244 @@
     {
       "defense": {
         "epaPerPlay": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
-          "n": 351,
-          "value": -0.002
+          "leaguePercentile": 70.313,
+          "leagueRank": 10,
+          "n": 473,
+          "value": -0.049
         },
         "explosiveRate": {
-          "leaguePercentile": 26.563,
-          "leagueRank": 24,
-          "n": 351,
-          "value": 0.105
+          "leaguePercentile": 32.813,
+          "leagueRank": 22,
+          "n": 473,
+          "value": 0.099
         },
         "fourthDown": {
-          "att": 9,
-          "conv": 2
+          "att": 13,
+          "conv": 4
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 54.688,
-          "leagueRank": 15,
-          "n": 227,
-          "value": 0.041
+          "leaguePercentile": 79.688,
+          "leagueRank": 7,
+          "n": 303,
+          "value": -0.032
         },
         "penalties": {
-          "count": 53,
-          "yards": 411
+          "count": 72,
+          "yards": 570
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
-          "n": 124,
+          "leaguePercentile": 54.688,
+          "leagueRank": 15,
+          "n": 170,
           "value": -0.08
         },
         "sackRate": {
           "leaguePercentile": 92.188,
           "leagueRank": 3,
-          "n": 227,
-          "value": 0.084
+          "n": 303,
+          "value": 0.086
         },
         "successRate": {
-          "leaguePercentile": 76.563,
-          "leagueRank": 8,
-          "n": 351,
-          "value": 0.416
+          "leaguePercentile": 89.063,
+          "leagueRank": 4,
+          "n": 473,
+          "value": 0.402
         },
         "thirdDownRate": {
           "leaguePercentile": 98.438,
           "leagueRank": 1,
-          "n": 69,
-          "value": 0.261
+          "n": 92,
+          "value": 0.228
         },
-        "turnovers": 8
+        "turnovers": 11
       },
       "offense": {
         "epaPerPlay": {
-          "leaguePercentile": 67.188,
-          "leagueRank": 11,
-          "n": 497,
-          "value": 0.047
+          "leaguePercentile": 60.938,
+          "leagueRank": 13,
+          "n": 624,
+          "value": 0.037
         },
         "explosiveRate": {
-          "leaguePercentile": 73.438,
-          "leagueRank": 9,
-          "n": 497,
-          "value": 0.105
+          "leaguePercentile": 67.188,
+          "leagueRank": 11,
+          "n": 624,
+          "value": 0.098
         },
         "fourthDown": {
-          "att": 17,
-          "conv": 10
+          "att": 18,
+          "conv": 11
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 73.438,
-          "leagueRank": 9,
-          "n": 277,
-          "value": 0.133
+          "leaguePercentile": 64.063,
+          "leagueRank": 12,
+          "n": 354,
+          "value": 0.093
         },
         "penalties": {
-          "count": 53,
-          "yards": 411
+          "count": 72,
+          "yards": 570
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 57.813,
-          "leagueRank": 14,
-          "n": 220,
-          "value": -0.06
+          "leaguePercentile": 67.188,
+          "leagueRank": 11,
+          "n": 270,
+          "value": -0.037
         },
         "sackRate": {
-          "leaguePercentile": 42.188,
-          "leagueRank": 19,
-          "n": 277,
-          "value": 0.065
+          "leaguePercentile": 60.938,
+          "leagueRank": 13,
+          "n": 354,
+          "value": 0.056
         },
         "successRate": {
-          "leaguePercentile": 70.313,
-          "leagueRank": 10,
-          "n": 497,
-          "value": 0.467
+          "leaguePercentile": 76.563,
+          "leagueRank": 8,
+          "n": 624,
+          "value": 0.47
         },
         "thirdDownRate": {
-          "leaguePercentile": 79.688,
-          "leagueRank": 7,
-          "n": 100,
-          "value": 0.44
+          "leaguePercentile": 89.063,
+          "leagueRank": 4,
+          "n": 128,
+          "value": 0.453
         },
-        "turnovers": 13
+        "turnovers": 19
       },
       "record": {
         "l": 2,
         "t": 0,
-        "w": 5
+        "w": 7
       },
       "team": "CHI"
     },
     {
       "defense": {
         "epaPerPlay": {
-          "leaguePercentile": 4.688,
-          "leagueRank": 31,
-          "n": 420,
-          "value": 0.134
-        },
-        "explosiveRate": {
-          "leaguePercentile": 1.563,
-          "leagueRank": 32,
-          "n": 420,
-          "value": 0.112
-        },
-        "fourthDown": {
-          "att": 12,
-          "conv": 10
-        },
-        "passEpaPerDropback": {
           "leaguePercentile": 14.063,
           "leagueRank": 28,
-          "n": 291,
-          "value": 0.224
+          "n": 519,
+          "value": 0.08
+        },
+        "explosiveRate": {
+          "leaguePercentile": 14.063,
+          "leagueRank": 28,
+          "n": 519,
+          "value": 0.11
+        },
+        "fourthDown": {
+          "att": 15,
+          "conv": 11
+        },
+        "passEpaPerDropback": {
+          "leaguePercentile": 17.188,
+          "leagueRank": 27,
+          "n": 355,
+          "value": 0.165
         },
         "penalties": {
-          "count": 40,
-          "yards": 308
+          "count": 56,
+          "yards": 447
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 45.313,
-          "leagueRank": 18,
-          "n": 129,
-          "value": -0.069
+          "leaguePercentile": 64.063,
+          "leagueRank": 12,
+          "n": 164,
+          "value": -0.105
         },
         "sackRate": {
           "leaguePercentile": 79.688,
           "leagueRank": 7,
-          "n": 291,
-          "value": 0.072
+          "n": 355,
+          "value": 0.076
         },
         "successRate": {
-          "leaguePercentile": 23.438,
-          "leagueRank": 25,
-          "n": 420,
-          "value": 0.455
+          "leaguePercentile": 42.188,
+          "leagueRank": 19,
+          "n": 519,
+          "value": 0.439
         },
         "thirdDownRate": {
-          "leaguePercentile": 14.063,
-          "leagueRank": 28,
-          "n": 86,
-          "value": 0.477
+          "leaguePercentile": 17.188,
+          "leagueRank": 27,
+          "n": 108,
+          "value": 0.444
         },
-        "turnovers": 6
+        "turnovers": 8
       },
       "offense": {
         "epaPerPlay": {
-          "leaguePercentile": 89.063,
-          "leagueRank": 4,
-          "n": 395,
-          "value": 0.14
+          "leaguePercentile": 82.813,
+          "leagueRank": 6,
+          "n": 517,
+          "value": 0.102
         },
         "explosiveRate": {
-          "leaguePercentile": 79.688,
-          "leagueRank": 7,
-          "n": 395,
-          "value": 0.106
+          "leaguePercentile": 85.938,
+          "leagueRank": 5,
+          "n": 517,
+          "value": 0.108
         },
         "fourthDown": {
-          "att": 13,
-          "conv": 8
+          "att": 17,
+          "conv": 12
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 92.188,
-          "leagueRank": 3,
-          "n": 240,
-          "value": 0.282
+          "leaguePercentile": 85.938,
+          "leagueRank": 5,
+          "n": 299,
+          "value": 0.211
         },
         "penalties": {
-          "count": 40,
-          "yards": 308
+          "count": 56,
+          "yards": 447
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
-          "n": 155,
-          "value": -0.08
+          "leaguePercentile": 60.938,
+          "leagueRank": 13,
+          "n": 218,
+          "value": -0.048
         },
         "sackRate": {
-          "leaguePercentile": 64.063,
-          "leagueRank": 12,
-          "n": 240,
-          "value": 0.05
+          "leaguePercentile": 42.188,
+          "leagueRank": 19,
+          "n": 299,
+          "value": 0.064
         },
         "successRate": {
-          "leaguePercentile": 95.313,
-          "leagueRank": 2,
-          "n": 395,
-          "value": 0.496
+          "leaguePercentile": 89.063,
+          "leagueRank": 4,
+          "n": 517,
+          "value": 0.487
         },
         "thirdDownRate": {
-          "leaguePercentile": 50,
-          "leagueRank": 16,
-          "n": 69,
-          "value": 0.391
+          "leaguePercentile": 35.938,
+          "leagueRank": 21,
+          "n": 94,
+          "value": 0.372
         },
-        "turnovers": 3
+        "turnovers": 5
       },
       "record": {
         "l": 2,
         "t": 0,
-        "w": 4
+        "w": 6
       },
       "team": "DET"
     },
     {
       "defense": {
         "epaPerPlay": {
-          "leaguePercentile": 89.063,
-          "leagueRank": 4,
-          "n": 530,
-          "value": -0.069
+          "leaguePercentile": 82.813,
+          "leagueRank": 6,
+          "n": 592,
+          "value": -0.076
         },
         "explosiveRate": {
-          "leaguePercentile": 92.188,
-          "leagueRank": 3,
-          "n": 530,
-          "value": 0.06
+          "leaguePercentile": 82.813,
+          "leagueRank": 6,
+          "n": 592,
+          "value": 0.074
         },
         "fourthDown": {
           "att": 19,
@@ -357,208 +357,208 @@
         "passEpaPerDropback": {
           "leaguePercentile": 85.938,
           "leagueRank": 5,
-          "n": 325,
-          "value": -0.052
+          "n": 372,
+          "value": -0.073
         },
         "penalties": {
-          "count": 71,
-          "yards": 591
+          "count": 74,
+          "yards": 605
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 60.938,
-          "leagueRank": 13,
-          "n": 205,
-          "value": -0.095
+          "leaguePercentile": 51.563,
+          "leagueRank": 16,
+          "n": 220,
+          "value": -0.08
         },
         "sackRate": {
-          "leaguePercentile": 64.063,
-          "leagueRank": 12,
-          "n": 325,
-          "value": 0.068
+          "leaguePercentile": 67.188,
+          "leagueRank": 11,
+          "n": 372,
+          "value": 0.07
         },
         "successRate": {
-          "leaguePercentile": 48.438,
-          "leagueRank": 17,
-          "n": 530,
+          "leaguePercentile": 54.688,
+          "leagueRank": 15,
+          "n": 592,
           "value": 0.436
         },
         "thirdDownRate": {
-          "leaguePercentile": 42.188,
-          "leagueRank": 19,
-          "n": 111,
-          "value": 0.414
+          "leaguePercentile": 32.813,
+          "leagueRank": 22,
+          "n": 120,
+          "value": 0.417
         },
-        "turnovers": 15
+        "turnovers": 19
       },
       "offense": {
         "epaPerPlay": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
-          "n": 490,
-          "value": 0.005
+          "leaguePercentile": 64.063,
+          "leagueRank": 12,
+          "n": 555,
+          "value": 0.038
         },
         "explosiveRate": {
-          "leaguePercentile": 54.688,
-          "leagueRank": 15,
-          "n": 490,
-          "value": 0.09
+          "leaguePercentile": 73.438,
+          "leagueRank": 9,
+          "n": 555,
+          "value": 0.099
         },
         "fourthDown": {
-          "att": 15,
+          "att": 16,
           "conv": 10
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 64.063,
-          "leagueRank": 12,
-          "n": 328,
-          "value": 0.127
+          "leaguePercentile": 82.813,
+          "leagueRank": 6,
+          "n": 361,
+          "value": 0.185
         },
         "penalties": {
-          "count": 71,
-          "yards": 591
+          "count": 74,
+          "yards": 605
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 1.563,
-          "leagueRank": 32,
-          "n": 162,
-          "value": -0.244
+          "leaguePercentile": 4.688,
+          "leagueRank": 31,
+          "n": 194,
+          "value": -0.236
         },
         "sackRate": {
-          "leaguePercentile": 76.563,
-          "leagueRank": 8,
-          "n": 328,
-          "value": 0.043
+          "leaguePercentile": 73.438,
+          "leagueRank": 9,
+          "n": 361,
+          "value": 0.047
         },
         "successRate": {
-          "leaguePercentile": 20.313,
-          "leagueRank": 26,
-          "n": 490,
-          "value": 0.404
+          "leaguePercentile": 26.563,
+          "leagueRank": 24,
+          "n": 555,
+          "value": 0.411
         },
         "thirdDownRate": {
-          "leaguePercentile": 39.063,
-          "leagueRank": 20,
-          "n": 107,
-          "value": 0.383
+          "leaguePercentile": 45.313,
+          "leagueRank": 18,
+          "n": 119,
+          "value": 0.378
         },
         "turnovers": 11
       },
       "record": {
         "l": 3,
         "t": 0,
-        "w": 5
+        "w": 6
       },
       "team": "GB"
     },
     {
       "defense": {
         "epaPerPlay": {
-          "leaguePercentile": 98.438,
-          "leagueRank": 1,
-          "n": 339,
-          "value": -0.193
+          "leaguePercentile": 95.313,
+          "leagueRank": 2,
+          "n": 481,
+          "value": -0.149
         },
         "explosiveRate": {
-          "leaguePercentile": 85.938,
-          "leagueRank": 5,
-          "n": 339,
-          "value": 0.077
+          "leaguePercentile": 67.188,
+          "leagueRank": 11,
+          "n": 481,
+          "value": 0.087
         },
         "fourthDown": {
-          "att": 11,
-          "conv": 5
+          "att": 12,
+          "conv": 6
         },
         "passEpaPerDropback": {
           "leaguePercentile": 98.438,
           "leagueRank": 1,
-          "n": 206,
-          "value": -0.216
+          "n": 271,
+          "value": -0.179
         },
         "penalties": {
-          "count": 34,
-          "yards": 274
+          "count": 43,
+          "yards": 334
         },
         "rushEpaPerAtt": {
-          "leaguePercentile": 89.063,
-          "leagueRank": 4,
-          "n": 133,
-          "value": -0.157
+          "leaguePercentile": 67.188,
+          "leagueRank": 11,
+          "n": 210,
+          "value": -0.11
         },
         "sackRate": {
           "leaguePercentile": 98.438,
           "leagueRank": 1,
-          "n": 206,
-          "value": 0.102
+          "n": 271,
+          "value": 0.107
         },
         "successRate": {
           "leaguePercentile": 98.438,
           "leagueRank": 1,
-          "n": 339,
-          "value": 0.351
+          "n": 481,
+          "value": 0.376
         },
         "thirdDownRate": {
           "leaguePercentile": 92.188,
           "leagueRank": 3,
-          "n": 78,
-          "value": 0.282
+          "n": 109,
+          "value": 0.312
         },
-        "turnovers": 11
+        "turnovers": 13
       },
       "offense": {
         "epaPerPlay": {
-          "leaguePercentile": 10.938,
-          "leagueRank": 29,
-          "n": 352,
-          "value": -0.096
+          "leaguePercentile": 4.688,
+          "leagueRank": 31,
+          "n": 447,
+          "value": -0.162
         },
         "explosiveRate": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
-          "n": 352,
-          "value": 0.088
+          "leaguePercentile": 42.188,
+          "leagueRank": 19,
+          "n": 447,
+          "value": 0.087
         },
         "fourthDown": {
-          "att": 5,
+          "att": 8,
           "conv": 4
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 26.563,
-          "leagueRank": 24,
-          "n": 199,
-          "value": -0.016
-        },
-        "penalties": {
-          "count": 34,
-          "yards": 274
-        },
-        "rushEpaPerAtt": {
-          "leaguePercentile": 14.063,
-          "leagueRank": 28,
-          "n": 153,
-          "value": -0.2
-        },
-        "sackRate": {
-          "leaguePercentile": 7.813,
-          "leagueRank": 30,
-          "n": 199,
-          "value": 0.09
-        },
-        "successRate": {
-          "leaguePercentile": 4.688,
-          "leagueRank": 31,
-          "n": 352,
-          "value": 0.361
-        },
-        "thirdDownRate": {
           "leaguePercentile": 17.188,
           "leagueRank": 27,
-          "n": 90,
-          "value": 0.367
+          "n": 266,
+          "value": -0.112
         },
-        "turnovers": 4
+        "penalties": {
+          "count": 43,
+          "yards": 334
+        },
+        "rushEpaPerAtt": {
+          "leaguePercentile": 7.813,
+          "leagueRank": 30,
+          "n": 181,
+          "value": -0.234
+        },
+        "sackRate": {
+          "leaguePercentile": 20.313,
+          "leagueRank": 26,
+          "n": 266,
+          "value": 0.086
+        },
+        "successRate": {
+          "leaguePercentile": 7.813,
+          "leagueRank": 30,
+          "n": 447,
+          "value": 0.362
+        },
+        "thirdDownRate": {
+          "leaguePercentile": 7.813,
+          "leagueRank": 30,
+          "n": 108,
+          "value": 0.333
+        },
+        "turnovers": 8
       },
       "record": {
-        "l": 0,
+        "l": 2,
         "t": 0,
         "w": 6
       },
@@ -567,45 +567,16 @@
   ],
   "season": 2026,
   "simulation": {
-    "gamesRemaining": 164,
+    "gamesRemaining": 136,
     "runs": 10000,
     "seed": 20260101
   },
   "standings": [
     {
       "conference": {
-        "l": 0,
-        "t": 0,
-        "w": 4
-      },
-      "division": {
-        "l": 0,
-        "t": 0,
-        "w": 2
-      },
-      "l": 0,
-      "lastFive": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "pct": 1,
-      "pointsAgainst": 74,
-      "pointsFor": 125,
-      "rank": 1,
-      "resolvedBy": null,
-      "streak": "W6",
-      "t": 0,
-      "team": "MIN",
-      "w": 6
-    },
-    {
-      "conference": {
         "l": 2,
         "t": 0,
-        "w": 3
+        "w": 5
       },
       "division": {
         "l": 2,
@@ -616,48 +587,77 @@
       "lastFive": [
         "W",
         "W",
-        "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
-      "pct": 0.714,
-      "pointsAgainst": 143,
-      "pointsFor": 180,
-      "rank": 2,
+      "pct": 0.778,
+      "pointsAgainst": 184,
+      "pointsFor": 241,
+      "rank": 1,
       "resolvedBy": null,
-      "streak": "W2",
+      "streak": "W4",
       "t": 0,
       "team": "CHI",
-      "w": 5
+      "w": 7
     },
     {
       "conference": {
         "l": 1,
         "t": 0,
-        "w": 3
+        "w": 4
       },
       "division": {
         "l": 0,
         "t": 0,
-        "w": 1
+        "w": 2
       },
       "l": 2,
       "lastFive": [
         "W",
         "W",
-        "L",
+        "W",
         "W",
         "L"
       ],
-      "pct": 0.667,
-      "pointsAgainst": 165,
-      "pointsFor": 184,
-      "rank": 3,
-      "resolvedBy": null,
-      "streak": "W2",
+      "pct": 0.75,
+      "pointsAgainst": 189,
+      "pointsFor": 222,
+      "rank": 2,
+      "resolvedBy": "head-to-head",
+      "streak": "W4",
       "t": 0,
       "team": "DET",
-      "w": 4
+      "w": 6
+    },
+    {
+      "conference": {
+        "l": 1,
+        "t": 0,
+        "w": 4
+      },
+      "division": {
+        "l": 1,
+        "t": 0,
+        "w": 2
+      },
+      "l": 2,
+      "lastFive": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "pct": 0.75,
+      "pointsAgainst": 116,
+      "pointsFor": 146,
+      "rank": 3,
+      "resolvedBy": "head-to-head",
+      "streak": "L2",
+      "t": 0,
+      "team": "MIN",
+      "w": 6
     },
     {
       "conference": {
@@ -673,50 +673,41 @@
       "l": 3,
       "lastFive": [
         "W",
-        "L",
         "W",
+        "L",
         "W",
         "W"
       ],
-      "pct": 0.625,
-      "pointsAgainst": 164,
-      "pointsFor": 171,
+      "pct": 0.667,
+      "pointsAgainst": 191,
+      "pointsFor": 216,
       "rank": 4,
       "resolvedBy": null,
-      "streak": "W1",
+      "streak": "W2",
       "t": 0,
       "team": "GB",
-      "w": 5
+      "w": 6
     }
   ],
-  "throughWeek": 8,
+  "throughWeek": 9,
   "upcoming": [
     {
-      "away": "CAR",
+      "away": "NE",
       "divGame": false,
-      "gameId": "2026_08_CAR_GB",
-      "home": "GB",
-      "kickoffUtc": "2026-10-30T00:15:00Z",
-      "spread": 3.5,
-      "week": 8
+      "gameId": "2026_10_NE_DET",
+      "home": "DET",
+      "kickoffUtc": "2026-11-15T14:30:00Z",
+      "spread": 2.5,
+      "week": 10
     },
     {
       "away": "MIN",
       "divGame": true,
-      "gameId": "2026_08_MIN_DET",
-      "home": "DET",
-      "kickoffUtc": "2026-11-01T18:00:00Z",
-      "spread": 3,
-      "week": 8
-    },
-    {
-      "away": "CHI",
-      "divGame": false,
-      "gameId": "2026_08_CHI_SEA",
-      "home": "SEA",
-      "kickoffUtc": "2026-11-03T01:15:00Z",
-      "spread": 3,
-      "week": 8
+      "gameId": "2026_10_MIN_GB",
+      "home": "GB",
+      "kickoffUtc": "2026-11-15T18:00:00Z",
+      "spread": 3.5,
+      "week": 10
     }
   ]
 }
