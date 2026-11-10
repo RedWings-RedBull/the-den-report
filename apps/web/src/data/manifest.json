@@ -31,6 +31,14 @@
       "season": 2026,
       "tier": "final",
       "week": 7
+    },
+    {
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "result": "W",
+      "season": 2026,
+      "tier": "provisional",
+      "week": 9
     }
   ]
 }
