@@ -1,0 +1,189 @@
+{
+  "gameId": "2026_09_DET_MIA",
+  "plays": [
+    {
+      "clock": "13:48",
+      "desc": "(13:48) (Shotgun) 16-J.Goff pass short middle to 14-A.St. Brown to MIA 38 for 16 yards (10-J.Rodriguez).",
+      "down": 3,
+      "epa": 2.16,
+      "playId": 126,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [],
+      "wpa": 0.1,
+      "yardline100": 54,
+      "ydstogo": 4
+    },
+    {
+      "clock": "11:36",
+      "desc": "(11:36) (Shotgun) 16-J.Goff pass short left to 18-I.TeSlaa to MIA 22 for 9 yards (9-J.Uche).",
+      "down": 4,
+      "epa": 3.011,
+      "playId": 238,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "fourth-down"
+      ],
+      "wpa": 0.111,
+      "yardline100": 31,
+      "ydstogo": 3
+    },
+    {
+      "clock": "05:14",
+      "desc": "(5:14) 16-J.Goff pass short right intended for 14-A.St. Brown INTERCEPTED by 3-C.Johnson (9-J.Uche) [9-J.Uche] at MIA 40. 3-C.Johnson to DET 39 for 21 yards (14-A.St. Brown).",
+      "down": 1,
+      "epa": -6.018,
+      "playId": 576,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "turnover"
+      ],
+      "wpa": -0.18,
+      "yardline100": 53,
+      "ydstogo": 10
+    },
+    {
+      "clock": "14:55",
+      "desc": "(14:55) (Punt formation) 3-J.Fox pass short left to 17-T.Martin to DET 41 for 11 yards (4-J.Marshall).",
+      "down": 4,
+      "epa": 3.144,
+      "playId": 970,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "fourth-down"
+      ],
+      "wpa": 0.098,
+      "yardline100": 70,
+      "ydstogo": 7
+    },
+    {
+      "clock": "03:33",
+      "desc": "(3:33) 39-J.Bates 40 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 4,
+      "epa": 0.64,
+      "playId": 1608,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": 0.016,
+      "yardline100": 22,
+      "ydstogo": 10
+    },
+    {
+      "clock": "00:03",
+      "desc": "(:03) 31-Z.Gonzalez 38 yard field goal is No Good, Hit Right Upright, Center-46-T.Addington, Holder-48-B.Pinion.",
+      "down": 2,
+      "epa": -2.634,
+      "playId": 1975,
+      "posteam": "MIA",
+      "qtr": 2,
+      "tags": [
+        "fg"
+      ],
+      "wpa": -0.09,
+      "yardline100": 20,
+      "ydstogo": 20
+    },
+    {
+      "clock": "09:17",
+      "desc": "(9:17) 39-J.Bates 33 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 4,
+      "epa": 0.206,
+      "playId": 2370,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": 0.034,
+      "yardline100": 14,
+      "ydstogo": 10
+    },
+    {
+      "clock": "07:13",
+      "desc": "(7:13) (Shotgun) 2-M.Willis pass short left to 7-C.Douglas pushed ob at DET 38 for 12 yards (36-C.Clark).",
+      "down": 3,
+      "epa": 2.413,
+      "playId": 2544,
+      "posteam": "MIA",
+      "qtr": 3,
+      "tags": [],
+      "wpa": 0.11,
+      "yardline100": 50,
+      "ydstogo": 11
+    },
+    {
+      "clock": "04:06",
+      "desc": "(4:06) 31-Z.Gonzalez 52 yard field goal is GOOD, Center-46-T.Addington, Holder-48-B.Pinion.",
+      "down": 4,
+      "epa": 2.114,
+      "playId": 2696,
+      "posteam": "MIA",
+      "qtr": 3,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": 0.071,
+      "yardline100": 34,
+      "ydstogo": 6
+    },
+    {
+      "clock": "01:25",
+      "desc": "(1:25) 79-L.Borom reported in as eligible. 0-J.Gibbs right end for 8 yards, TOUCHDOWN.",
+      "down": 4,
+      "epa": 3.269,
+      "playId": 2872,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "td",
+        "fourth-down"
+      ],
+      "wpa": 0.086,
+      "yardline100": 8,
+      "ydstogo": 1
+    },
+    {
+      "clock": "14:55",
+      "desc": "(14:55) (Punt formation) 48-B.Pinion pass short middle to 30-K.Allen to DET 18 for 46 yards (35-J.Bachie; 17-T.Martin).",
+      "down": 4,
+      "epa": 5.328,
+      "playId": 3081,
+      "posteam": "MIA",
+      "qtr": 4,
+      "tags": [
+        "fourth-down",
+        "explosive"
+      ],
+      "wpa": 0.177,
+      "yardline100": 64,
+      "ydstogo": 3
+    },
+    {
+      "clock": "09:30",
+      "desc": "(9:30) 31-Z.Gonzalez 34 yard field goal is GOOD, Center-46-T.Addington, Holder-48-B.Pinion.",
+      "down": 4,
+      "epa": 0.303,
+      "playId": 3237,
+      "posteam": "MIA",
+      "qtr": 4,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": -0.03,
+      "yardline100": 16,
+      "ydstogo": 16
+    }
+  ],
+  "season": 2026,
+  "week": 9
+}
