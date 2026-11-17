@@ -1,0 +1,32 @@
+{
+  "away": {
+    "score": 10,
+    "team": "NE"
+  },
+  "gameId": "2026_10_NE_DET",
+  "home": {
+    "score": 35,
+    "team": "DET"
+  },
+  "kickoffUtc": "2026-11-15T14:30:00Z",
+  "line": {
+    "spread": 2.5,
+    "total": 50.5
+  },
+  "overtime": false,
+  "season": 2026,
+  "team": {
+    "opponent": "NE",
+    "result": "W",
+    "side": "home"
+  },
+  "tier": "provisional",
+  "venue": {
+    "roof": "dome",
+    "stadium": "FC Bayern Munich Stadium",
+    "surface": "",
+    "temp": null,
+    "wind": null
+  },
+  "week": 10
+}
