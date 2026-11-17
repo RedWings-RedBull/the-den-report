@@ -4,18 +4,6 @@
     "components": [
       {
         "direction": "lower",
-        "key": "ol.pressureRateAllowed",
-        "label": "Pressure rate allowed",
-        "n": 29,
-        "percentile": 12.5,
-        "poolN": 28,
-        "source": "pfr",
-        "unit": "pct",
-        "value": 0.31,
-        "weight": 0.3
-      },
-      {
-        "direction": "lower",
         "key": "ol.sackRate",
         "label": "Sack rate allowed",
         "n": 29,
@@ -31,24 +19,12 @@
         "key": "ol.protectionVsFour",
         "label": "Protection vs four rushers",
         "n": 5,
-        "percentile": 26.786,
-        "poolN": 28,
+        "percentile": 28.846,
+        "poolN": 26,
         "source": "ftn",
         "unit": "pct",
         "value": 0.2,
         "weight": 0.1
-      },
-      {
-        "direction": "higher",
-        "key": "ol.yardsBeforeContact",
-        "label": "Rush yards before contact",
-        "n": 36,
-        "percentile": 83.929,
-        "poolN": 28,
-        "source": "pfr",
-        "unit": "yds",
-        "value": 2.722,
-        "weight": 0.2
       },
       {
         "direction": "lower",
@@ -112,9 +88,9 @@
       "k": 0,
       "n": 67,
       "qualified": true,
-      "rawComposite": 42.857,
+      "rawComposite": 45.055,
       "reason": null,
-      "value": 42.857
+      "value": 45.055
     }
   },
   "pools": {
@@ -220,7 +196,7 @@
               "key": "qb.sackRate",
               "label": "QB-fault sack rate",
               "n": 29,
-              "percentile": 62.5,
+              "percentile": 64.286,
               "poolN": 28,
               "source": "pbp",
               "unit": "pct",
@@ -240,23 +216,11 @@
               "weight": 0.1
             },
             {
-              "direction": "lower",
-              "key": "qb.badThrowPct",
-              "label": "Bad throw %",
-              "n": 29,
-              "percentile": 37.5,
-              "poolN": 28,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.16,
-              "weight": 0.1
-            },
-            {
               "direction": "higher",
               "key": "qb.ngsCpoe",
               "label": "NGS completion % above expectation",
               "n": 29,
-              "percentile": 42.593,
+              "percentile": 46.296,
               "poolN": 27,
               "source": "ngs",
               "unit": "pct",
@@ -269,9 +233,9 @@
             "k": 15,
             "n": 29,
             "qualified": true,
-            "rawComposite": 44.362,
+            "rawComposite": 45.528,
             "reason": null,
-            "value": 46.284
+            "value": 47.053
           },
           "gsisId": "00-0033106",
           "jersey": 16,
@@ -284,7 +248,7 @@
         }
       ],
       "slot": "QB",
-      "tileGrade": 46.284,
+      "tileGrade": 47.053,
       "unit": "offense",
       "unitOnly": false
     },
@@ -332,18 +296,6 @@
             },
             {
               "direction": "higher",
-              "key": "rb.contact",
-              "label": "Yards after contact + broken tackles",
-              "n": 23,
-              "percentile": 89.773,
-              "poolN": 44,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 3.943,
-              "weight": 0.15
-            },
-            {
-              "direction": "higher",
               "key": "rb.recEpaPerTarget",
               "label": "Receiving EPA per target",
               "n": 4,
@@ -360,9 +312,9 @@
             "k": 8,
             "n": 23,
             "qualified": true,
-            "rawComposite": 57.803,
+            "rawComposite": 52.161,
             "reason": null,
-            "value": 55.789
+            "value": 51.604
           },
           "gsisId": "00-0039139",
           "jersey": 0,
@@ -413,18 +365,6 @@
             },
             {
               "direction": "higher",
-              "key": "rb.contact",
-              "label": "Yards after contact + broken tackles",
-              "n": 11,
-              "percentile": 92.045,
-              "poolN": 44,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 3.973,
-              "weight": 0.15
-            },
-            {
-              "direction": "higher",
               "key": "rb.recEpaPerTarget",
               "label": "Receiving EPA per target",
               "n": 1,
@@ -441,9 +381,9 @@
             "k": 8,
             "n": 11,
             "qualified": true,
-            "rawComposite": 72.159,
+            "rawComposite": 68.65,
             "reason": null,
-            "value": 62.829
+            "value": 60.797
           },
           "gsisId": "00-0039364",
           "jersey": 33,
@@ -456,7 +396,7 @@
         }
       ],
       "slot": "RB",
-      "tileGrade": 57.667,
+      "tileGrade": 54.055,
       "unit": "offense",
       "unitOnly": false
     },
@@ -531,8 +471,8 @@
               "key": "wr.dropRate",
               "label": "Drop rate",
               "n": 7,
-              "percentile": 59.524,
-              "poolN": 84,
+              "percentile": 60.39,
+              "poolN": 77,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -544,7 +484,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 38,
+              "poolN": 32,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -556,9 +496,9 @@
             "k": 5,
             "n": 8,
             "qualified": true,
-            "rawComposite": 71.684,
+            "rawComposite": 71.775,
             "reason": null,
-            "value": 63.344
+            "value": 63.4
           },
           "gsisId": "00-0036963",
           "jersey": 14,
@@ -576,7 +516,7 @@
         }
       ],
       "slot": "WR1",
-      "tileGrade": 63.344,
+      "tileGrade": 63.4,
       "unit": "offense",
       "unitOnly": false
     },
@@ -651,8 +591,8 @@
               "key": "wr.dropRate",
               "label": "Drop rate",
               "n": 4,
-              "percentile": 59.524,
-              "poolN": 84,
+              "percentile": 60.39,
+              "poolN": 77,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -663,8 +603,8 @@
               "key": "wr.contestedCatchRate",
               "label": "Contested catch rate",
               "n": 1,
-              "percentile": 26.316,
-              "poolN": 38,
+              "percentile": 26.563,
+              "poolN": 32,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -676,9 +616,9 @@
             "k": 5,
             "n": 6,
             "qualified": true,
-            "rawComposite": 66.837,
+            "rawComposite": 66.935,
             "reason": null,
-            "value": 59.184
+            "value": 59.238
           },
           "gsisId": "00-0037240",
           "jersey": 1,
@@ -696,7 +636,7 @@
         }
       ],
       "slot": "WR2",
-      "tileGrade": 59.184,
+      "tileGrade": 59.238,
       "unit": "offense",
       "unitOnly": false
     },
@@ -772,7 +712,7 @@
               "label": "Drop rate",
               "n": 0,
               "percentile": null,
-              "poolN": 84,
+              "poolN": 77,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -784,7 +724,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 38,
+              "poolN": 32,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -877,7 +817,7 @@
               "label": "Drop rate",
               "n": 0,
               "percentile": null,
-              "poolN": 84,
+              "poolN": 77,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -889,7 +829,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 38,
+              "poolN": 32,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -991,8 +931,8 @@
               "key": "te.dropRate",
               "label": "Drop rate",
               "n": 3,
-              "percentile": 58.511,
-              "poolN": 47,
+              "percentile": 58.889,
+              "poolN": 45,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -1003,8 +943,8 @@
               "key": "te.contestedCatchRate",
               "label": "Contested catch rate",
               "n": 1,
-              "percentile": 27.273,
-              "poolN": 22,
+              "percentile": 28.571,
+              "poolN": 21,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -1016,9 +956,9 @@
             "k": 5,
             "n": 5,
             "qualified": true,
-            "rawComposite": 52.085,
+            "rawComposite": 52.188,
             "reason": null,
-            "value": 51.043
+            "value": 51.094
           },
           "gsisId": "00-0039065",
           "jersey": 87,
@@ -1097,7 +1037,7 @@
               "label": "Drop rate",
               "n": 0,
               "percentile": null,
-              "poolN": 47,
+              "poolN": 45,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -1109,7 +1049,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 22,
+              "poolN": 21,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -1201,8 +1141,8 @@
               "key": "te.dropRate",
               "label": "Drop rate",
               "n": 1,
-              "percentile": 58.511,
-              "poolN": 47,
+              "percentile": 58.889,
+              "poolN": 45,
               "source": "ftn",
               "unit": "pct",
               "value": 0,
@@ -1214,7 +1154,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 22,
+              "poolN": 21,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -1226,9 +1166,9 @@
             "k": 5,
             "n": 1,
             "qualified": true,
-            "rawComposite": 49.762,
+            "rawComposite": 49.802,
             "reason": null,
-            "value": 49.96
+            "value": 49.967
           },
           "gsisId": "00-0034270",
           "jersey": 83,
@@ -1241,7 +1181,7 @@
         }
       ],
       "slot": "TE",
-      "tileGrade": 50.775,
+      "tileGrade": 50.815,
       "unit": "offense",
       "unitOnly": false
     },
@@ -1284,7 +1224,7 @@
         }
       ],
       "slot": "LT",
-      "tileGrade": 42.857,
+      "tileGrade": 45.055,
       "unit": "offense",
       "unitOnly": true
     },
@@ -1314,7 +1254,7 @@
         }
       ],
       "slot": "LG",
-      "tileGrade": 42.857,
+      "tileGrade": 45.055,
       "unit": "offense",
       "unitOnly": true
     },
@@ -1364,7 +1304,7 @@
         }
       ],
       "slot": "C",
-      "tileGrade": 42.857,
+      "tileGrade": 45.055,
       "unit": "offense",
       "unitOnly": true
     },
@@ -1394,7 +1334,7 @@
         }
       ],
       "slot": "RG",
-      "tileGrade": 42.857,
+      "tileGrade": 45.055,
       "unit": "offense",
       "unitOnly": true
     },
@@ -1444,7 +1384,7 @@
         }
       ],
       "slot": "RT",
-      "tileGrade": 42.857,
+      "tileGrade": 45.055,
       "unit": "offense",
       "unitOnly": true
     },
@@ -1454,18 +1394,6 @@
       "players": [
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 34,
-              "percentile": 20.37,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.029,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -1513,18 +1441,6 @@
               "unit": "pct",
               "value": 0.125,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 50,
-              "percentile": 63.194,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -1532,9 +1448,9 @@
             "k": 25,
             "n": 50,
             "qualified": true,
-            "rawComposite": 45.19,
+            "rawComposite": 58.168,
             "reason": null,
-            "value": 46.794
+            "value": 55.446
           },
           "gsisId": "00-0037236",
           "jersey": 97,
@@ -1547,18 +1463,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 15,
-              "percentile": 9.877,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -1606,18 +1510,6 @@
               "unit": "pct",
               "value": 0.142,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 22,
-              "percentile": 63.194,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -1625,9 +1517,9 @@
             "k": 25,
             "n": 22,
             "qualified": true,
-            "rawComposite": 31.542,
+            "rawComposite": 41.543,
             "reason": null,
-            "value": 41.36
+            "value": 46.041
           },
           "gsisId": "00-0041441",
           "jersey": 8,
@@ -1640,18 +1532,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 5,
-              "percentile": 9.877,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -1699,18 +1579,6 @@
               "unit": "pct",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 8,
-              "percentile": 63.194,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -1718,7 +1586,7 @@
             "k": 25,
             "n": 8,
             "qualified": false,
-            "rawComposite": 22.112,
+            "rawComposite": 25.825,
             "reason": "below 15 defensive snaps",
             "value": null
           },
@@ -1733,28 +1601,16 @@
         }
       ],
       "slot": "EDGE_L",
-      "tileGrade": 45.133,
+      "tileGrade": 52.572,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "neutral",
+      "bin": "warm",
       "label": "Left interior",
       "players": [
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "idl.pressureRate",
-              "label": "Pressure rate",
-              "n": 27,
-              "percentile": 31.538,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.037,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "idl.sacks",
@@ -1802,28 +1658,16 @@
               "unit": "pct",
               "value": 0.078,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "idl.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 40,
-              "percentile": 66.949,
-              "poolN": 59,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "warm",
             "k": 25,
             "n": 40,
             "qualified": true,
-            "rawComposite": 59.239,
+            "rawComposite": 74.755,
             "reason": null,
-            "value": 55.685
+            "value": 65.234
           },
           "gsisId": "00-0036624",
           "jersey": 54,
@@ -1836,18 +1680,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "idl.pressureRate",
-              "label": "Pressure rate",
-              "n": 18,
-              "percentile": 51.538,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.054,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "idl.sacks",
@@ -1895,18 +1727,6 @@
               "unit": "pct",
               "value": 0.231,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "idl.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 27,
-              "percentile": 66.949,
-              "poolN": 59,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -1914,9 +1734,9 @@
             "k": 25,
             "n": 27,
             "qualified": true,
-            "rawComposite": 73.298,
+            "rawComposite": 86.52,
             "reason": null,
-            "value": 62.097
+            "value": 68.962
           },
           "gsisId": "00-0041447",
           "jersey": 50,
@@ -1929,7 +1749,7 @@
         }
       ],
       "slot": "IDL_L",
-      "tileGrade": 58.269,
+      "tileGrade": 66.736,
       "unit": "defense",
       "unitOnly": false
     },
@@ -1939,18 +1759,6 @@
       "players": [
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "idl.pressureRate",
-              "label": "Pressure rate",
-              "n": 17,
-              "percentile": 56.154,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.059,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "idl.sacks",
@@ -1998,18 +1806,6 @@
               "unit": "pct",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "idl.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 25,
-              "percentile": null,
-              "poolN": 59,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -2017,9 +1813,9 @@
             "k": 25,
             "n": 25,
             "qualified": true,
-            "rawComposite": 45.39,
+            "rawComposite": 39.111,
             "reason": null,
-            "value": 47.695
+            "value": 44.555
           },
           "gsisId": "00-0040672",
           "jersey": 91,
@@ -2032,18 +1828,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "idl.pressureRate",
-              "label": "Pressure rate",
-              "n": 5,
-              "percentile": null,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "idl.sacks",
@@ -2091,18 +1875,6 @@
               "unit": "pct",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "idl.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 7,
-              "percentile": null,
-              "poolN": 59,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -2125,7 +1897,7 @@
         }
       ],
       "slot": "IDL_R",
-      "tileGrade": 47.695,
+      "tileGrade": 44.555,
       "unit": "defense",
       "unitOnly": false
     },
@@ -2135,18 +1907,6 @@
       "players": [
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 18,
-              "percentile": null,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -2194,18 +1954,6 @@
               "unit": "pct",
               "value": 0.24,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 26,
-              "percentile": null,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -2228,18 +1976,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 14,
-              "percentile": 63.58,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.074,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -2287,18 +2023,6 @@
               "unit": "pct",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 20,
-              "percentile": null,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -2306,9 +2030,9 @@
             "k": 25,
             "n": 20,
             "qualified": true,
-            "rawComposite": 44.06,
+            "rawComposite": 32.673,
             "reason": null,
-            "value": 47.36
+            "value": 42.299
           },
           "gsisId": "00-0038940",
           "jersey": 93,
@@ -2321,18 +2045,6 @@
         },
         {
           "components": [
-            {
-              "direction": "higher",
-              "key": "edge.pressureRate",
-              "label": "Pressure rate",
-              "n": 11,
-              "percentile": 9.877,
-              "poolN": 81,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.35
-            },
             {
               "direction": "higher",
               "key": "edge.sacks",
@@ -2380,18 +2092,6 @@
               "unit": "pct",
               "value": 0.195,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "edge.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 16,
-              "percentile": 63.194,
-              "poolN": 72,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.05
             }
           ],
           "grade": {
@@ -2399,9 +2099,9 @@
             "k": 25,
             "n": 16,
             "qualified": true,
-            "rawComposite": 32.73,
+            "rawComposite": 43.523,
             "reason": null,
-            "value": 43.261
+            "value": 47.472
           },
           "gsisId": "00-0036335",
           "jersey": 98,
@@ -2414,12 +2114,12 @@
         }
       ],
       "slot": "EDGE_R",
-      "tileGrade": 46.289,
+      "tileGrade": 45.744,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "neutral",
+      "bin": "cool",
       "label": "Linebacker 1",
       "players": [
         {
@@ -2459,52 +2159,16 @@
               "unit": "count",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 41,
-              "percentile": 71.875,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.coverage",
-              "label": "Coverage",
-              "n": 0,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "score",
-              "value": null,
-              "weight": 0.2
-            },
-            {
-              "direction": "higher",
-              "key": "lb.blitzPressureRate",
-              "label": "Blitz pressure rate",
-              "n": 6,
-              "percentile": 32,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "cool",
             "k": 25,
             "n": 41,
             "qualified": true,
-            "rawComposite": 35.986,
+            "rawComposite": 26.923,
             "reason": null,
-            "value": 41.294
+            "value": 35.664
           },
           "gsisId": "00-0039018",
           "jersey": 46,
@@ -2552,42 +2216,6 @@
               "unit": "count",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 15,
-              "percentile": 71.875,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.coverage",
-              "label": "Coverage",
-              "n": 1,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "score",
-              "value": null,
-              "weight": 0.2
-            },
-            {
-              "direction": "higher",
-              "key": "lb.blitzPressureRate",
-              "label": "Blitz pressure rate",
-              "n": 0,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.1
             }
           ],
           "grade": {
@@ -2595,7 +2223,7 @@
             "k": 25,
             "n": 15,
             "qualified": false,
-            "rawComposite": 79.633,
+            "rawComposite": 81.748,
             "reason": "below 20 defensive snaps",
             "value": null
           },
@@ -2610,7 +2238,7 @@
         }
       ],
       "slot": "LB1",
-      "tileGrade": 41.294,
+      "tileGrade": 35.664,
       "unit": "defense",
       "unitOnly": false
     },
@@ -2655,42 +2283,6 @@
               "unit": "count",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 28,
-              "percentile": null,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.coverage",
-              "label": "Coverage",
-              "n": 0,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "score",
-              "value": null,
-              "weight": 0.2
-            },
-            {
-              "direction": "higher",
-              "key": "lb.blitzPressureRate",
-              "label": "Blitz pressure rate",
-              "n": 0,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.1
             }
           ],
           "grade": {
@@ -2748,42 +2340,6 @@
               "unit": "count",
               "value": 3,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 17,
-              "percentile": 71.875,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "lb.coverage",
-              "label": "Coverage",
-              "n": 1,
-              "percentile": null,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "score",
-              "value": null,
-              "weight": 0.2
-            },
-            {
-              "direction": "higher",
-              "key": "lb.blitzPressureRate",
-              "label": "Blitz pressure rate",
-              "n": 4,
-              "percentile": 76,
-              "poolN": 50,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.25,
-              "weight": 0.1
             }
           ],
           "grade": {
@@ -2791,7 +2347,7 @@
             "k": 25,
             "n": 17,
             "qualified": false,
-            "rawComposite": 91.438,
+            "rawComposite": 99.58,
             "reason": "below 20 defensive snaps",
             "value": null
           },
@@ -2811,47 +2367,11 @@
       "unitOnly": false
     },
     {
-      "bin": "warm",
+      "bin": "na",
       "label": "Left cornerback",
       "players": [
         {
           "components": [
-            {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 5,
-              "percentile": 80.159,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 0.385,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 5,
-              "percentile": 99.231,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": 0,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 5,
-              "percentile": 90.769,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.2,
-              "weight": 0.15
-            },
             {
               "direction": "higher",
               "key": "cb.ballProduction",
@@ -2863,40 +2383,16 @@
               "unit": "rate",
               "value": 0.14,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 42,
-              "percentile": 3.371,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.5,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 5,
-              "percentile": 61.538,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "warm",
+            "bin": "na",
             "k": 25,
             "n": 42,
             "qualified": true,
-            "rawComposite": 78.753,
-            "reason": null,
-            "value": 68.024
+            "rawComposite": 98.352,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0034384",
           "jersey": 4,
@@ -2915,42 +2411,6 @@
         {
           "components": [
             {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 3,
-              "percentile": 2.381,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 3.571,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 3,
-              "percentile": 54.615,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": 81.9,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 3,
-              "percentile": 83.846,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.333,
-              "weight": 0.15
-            },
-            {
               "direction": "higher",
               "key": "cb.ballProduction",
               "label": "Ball production",
@@ -2961,40 +2421,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 21,
-              "percentile": 69.663,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 3,
-              "percentile": 61.538,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 21,
             "qualified": true,
-            "rawComposite": 42.032,
-            "reason": null,
-            "value": 46.363
+            "rawComposite": 31.319,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0036124",
           "jersey": 30,
@@ -3007,52 +2443,16 @@
         }
       ],
       "slot": "CB_L",
-      "tileGrade": 60.804,
+      "tileGrade": null,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "neutral",
+      "bin": "na",
       "label": "Right cornerback",
       "players": [
         {
           "components": [
-            {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 1.654,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": 118.7,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 1,
-              "weight": 0.15
-            },
             {
               "direction": "higher",
               "key": "cb.ballProduction",
@@ -3064,40 +2464,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 24,
-              "percentile": 69.663,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 24,
             "qualified": true,
-            "rawComposite": 49.164,
-            "reason": null,
-            "value": 49.591
+            "rawComposite": 31.319,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0035637",
           "jersey": 23,
@@ -3111,42 +2487,6 @@
         {
           "components": [
             {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 0,
-              "percentile": null,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": null,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 0,
-              "percentile": null,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": null,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 0,
-              "percentile": null,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.15
-            },
-            {
               "direction": "higher",
               "key": "cb.ballProduction",
               "label": "Ball production",
@@ -3157,30 +2497,6 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 1,
-              "percentile": null,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": null,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 0,
-              "percentile": null,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": null,
-              "weight": 0.1
             }
           ],
           "grade": {
@@ -3203,52 +2519,16 @@
         }
       ],
       "slot": "CB_R",
-      "tileGrade": 49.591,
+      "tileGrade": null,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "cool",
+      "bin": "na",
       "label": "Nickel",
       "players": [
         {
           "components": [
-            {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 8,
-              "percentile": 16.667,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 2.08,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 8,
-              "percentile": 5.385,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": 134.4,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 8,
-              "percentile": 26.154,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.75,
-              "weight": 0.15
-            },
             {
               "direction": "higher",
               "key": "cb.ballProduction",
@@ -3260,40 +2540,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 41,
-              "percentile": 24.719,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.2,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 8,
-              "percentile": 12.308,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": 1,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "cool",
+            "bin": "na",
             "k": 25,
             "n": 41,
             "qualified": true,
-            "rawComposite": 18.4,
-            "reason": null,
-            "value": 30.37
+            "rawComposite": 31.319,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0038125",
           "jersey": 21,
@@ -3307,42 +2563,6 @@
         {
           "components": [
             {
-              "direction": "lower",
-              "key": "s.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 32,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 1.471,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "s.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "score",
-              "value": 139.6,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "s.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 1,
-              "weight": 0.15
-            },
-            {
               "direction": "higher",
               "key": "s.ballProduction",
               "label": "Ball production",
@@ -3353,30 +2573,6 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "s.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 8,
-              "percentile": 67.969,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "s.tdAllowed",
-              "label": "TDs allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "count",
-              "value": 1,
-              "weight": 0.1
             }
           ],
           "grade": {
@@ -3384,7 +2580,7 @@
             "k": 25,
             "n": 8,
             "qualified": false,
-            "rawComposite": 49.751,
+            "rawComposite": 36.364,
             "reason": "below 20 defensive snaps",
             "value": null
           },
@@ -3399,52 +2595,16 @@
         }
       ],
       "slot": "NB",
-      "tileGrade": 30.37,
+      "tileGrade": null,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "neutral",
+      "bin": "na",
       "label": "Safety 1",
       "players": [
         {
           "components": [
-            {
-              "direction": "lower",
-              "key": "s.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 1,
-              "percentile": null,
-              "poolN": 32,
-              "source": "pfr",
-              "unit": "yds",
-              "value": null,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "s.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "score",
-              "value": 39.6,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "s.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.15
-            },
             {
               "direction": "higher",
               "key": "s.ballProduction",
@@ -3456,40 +2616,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "s.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 28,
-              "percentile": 67.969,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "s.tdAllowed",
-              "label": "TDs allowed",
-              "n": 1,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 28,
             "qualified": true,
-            "rawComposite": 49.645,
-            "reason": null,
-            "value": 49.812
+            "rawComposite": 36.364,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0041445",
           "jersey": 6,
@@ -3503,42 +2639,6 @@
         {
           "components": [
             {
-              "direction": "lower",
-              "key": "s.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 32,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 1.407,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "s.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "score",
-              "value": 89.6,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "s.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.5,
-              "weight": 0.15
-            },
-            {
               "direction": "higher",
               "key": "s.ballProduction",
               "label": "Ball production",
@@ -3549,40 +2649,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "s.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 23,
-              "percentile": 67.969,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "s.tdAllowed",
-              "label": "TDs allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 23,
             "qualified": true,
-            "rawComposite": 49.751,
-            "reason": null,
-            "value": 49.881
+            "rawComposite": 36.364,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0039141",
           "jersey": 32,
@@ -3595,52 +2671,16 @@
         }
       ],
       "slot": "S1",
-      "tileGrade": 49.843,
+      "tileGrade": null,
       "unit": "defense",
       "unitOnly": false
     },
     {
-      "bin": "neutral",
+      "bin": "na",
       "label": "Safety 2",
       "players": [
         {
           "components": [
-            {
-              "direction": "lower",
-              "key": "s.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 2,
-              "percentile": null,
-              "poolN": 32,
-              "source": "pfr",
-              "unit": "yds",
-              "value": null,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "s.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "score",
-              "value": 39.6,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "s.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.15
-            },
             {
               "direction": "higher",
               "key": "s.ballProduction",
@@ -3652,40 +2692,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "s.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 53,
-              "percentile": 10.156,
-              "poolN": 64,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.25,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "s.tdAllowed",
-              "label": "TDs allowed",
-              "n": 2,
-              "percentile": 50,
-              "poolN": 33,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 53,
             "qualified": true,
-            "rawComposite": 41.386,
-            "reason": null,
-            "value": 44.147
+            "rawComposite": 36.364,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0033294",
           "jersey": 36,
@@ -3698,7 +2714,7 @@
         }
       ],
       "slot": "S2",
-      "tileGrade": 44.147,
+      "tileGrade": null,
       "unit": "defense",
       "unitOnly": false
     },
@@ -3873,42 +2889,6 @@
         {
           "components": [
             {
-              "direction": "lower",
-              "key": "cb.yardsPerCoverageSnap",
-              "label": "Yards allowed per coverage snap",
-              "n": 3,
-              "percentile": 2.381,
-              "poolN": 63,
-              "source": "pfr",
-              "unit": "yds",
-              "value": 3.571,
-              "weight": 0.3
-            },
-            {
-              "direction": "lower",
-              "key": "cb.passerRatingAllowed",
-              "label": "Passer rating allowed",
-              "n": 3,
-              "percentile": 54.615,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "score",
-              "value": 81.9,
-              "weight": 0.2
-            },
-            {
-              "direction": "lower",
-              "key": "cb.completionPctAllowed",
-              "label": "Completion % allowed",
-              "n": 3,
-              "percentile": 83.846,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0.333,
-              "weight": 0.15
-            },
-            {
               "direction": "higher",
               "key": "cb.ballProduction",
               "label": "Ball production",
@@ -3919,40 +2899,16 @@
               "unit": "rate",
               "value": 0,
               "weight": 0.15
-            },
-            {
-              "direction": "lower",
-              "key": "cb.missedTacklePct",
-              "label": "Missed tackle %",
-              "n": 21,
-              "percentile": 69.663,
-              "poolN": 89,
-              "source": "pfr",
-              "unit": "pct",
-              "value": 0,
-              "weight": 0.1
-            },
-            {
-              "direction": "lower",
-              "key": "cb.tdAllowed",
-              "label": "TDs allowed",
-              "n": 3,
-              "percentile": 61.538,
-              "poolN": 65,
-              "source": "pfr",
-              "unit": "count",
-              "value": 0,
-              "weight": 0.1
             }
           ],
           "grade": {
-            "bin": "neutral",
+            "bin": "na",
             "k": 25,
             "n": 21,
             "qualified": true,
-            "rawComposite": 42.032,
-            "reason": null,
-            "value": 46.363
+            "rawComposite": 31.319,
+            "reason": "PFR pending",
+            "value": null
           },
           "gsisId": "00-0036124",
           "jersey": 30,
@@ -4131,7 +3087,7 @@
               "label": "Drop rate",
               "n": 0,
               "percentile": null,
-              "poolN": 84,
+              "poolN": 77,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -4143,7 +3099,7 @@
               "label": "Contested catch rate",
               "n": 0,
               "percentile": null,
-              "poolN": 38,
+              "poolN": 32,
               "source": "ftn",
               "unit": "pct",
               "value": null,
@@ -4220,6 +3176,6 @@
       "unitOnly": false
     }
   ],
-  "tier": "final",
+  "tier": "provisional",
   "week": 8
 }

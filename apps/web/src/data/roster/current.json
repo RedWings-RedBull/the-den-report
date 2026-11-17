@@ -489,7 +489,7 @@
       "position": "TE",
       "positionGroup": "TE",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 235,
       "yearsExp": 1
     },
@@ -743,7 +743,7 @@
       "position": "C",
       "positionGroup": "OL",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 305,
       "yearsExp": 1
     },
@@ -1159,7 +1159,7 @@
       "position": "DT",
       "positionGroup": "DL",
       "rookieYear": 2024,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 282,
       "yearsExp": 2
     },
@@ -1262,29 +1262,6 @@
       "status": "ACT",
       "weightLb": 235,
       "yearsExp": 6
-    },
-    {
-      "birthDate": "1998-11-07",
-      "college": "Saginaw Valley State",
-      "depthChartPosition": "OLB",
-      "draft": null,
-      "firstName": "Trevor",
-      "fullName": "Trevor Nowaske",
-      "gsisId": "00-0038660",
-      "heightIn": 75,
-      "ids": {
-        "espn": "5144894",
-        "pfr": "NowaTr00"
-      },
-      "injury": null,
-      "jersey": 53,
-      "lastName": "Nowaske",
-      "position": "LB",
-      "positionGroup": "EDGE",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 235,
-      "yearsExp": 3
     },
     {
       "birthDate": "2004-10-08",
@@ -1467,7 +1444,7 @@
       "position": "DE",
       "positionGroup": "EDGE",
       "rookieYear": 2025,
-      "status": "ACT",
+      "status": "INA",
       "weightLb": 275,
       "yearsExp": 1
     },
@@ -1735,7 +1712,11 @@
         "espn": "4566092",
         "pfr": "RakeEn00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Full Participation in Practice",
+        "primary": null,
+        "reportStatus": null
+      },
       "jersey": 2,
       "lastName": "Rakestraw",
       "position": "CB",
@@ -1793,7 +1774,11 @@
         "espn": "4371973",
         "pfr": "McCrRo01"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Foot",
+        "reportStatus": "Questionable"
+      },
       "jersey": 21,
       "lastName": "McCreary",
       "position": "CB",
@@ -1901,6 +1886,29 @@
       "rookieYear": 2023,
       "status": "DEV",
       "weightLb": 200,
+      "yearsExp": 3
+    },
+    {
+      "birthDate": "1998-11-07",
+      "college": "Saginaw Valley State",
+      "depthChartPosition": "OLB",
+      "draft": null,
+      "firstName": "Trevor",
+      "fullName": "Trevor Nowaske",
+      "gsisId": "00-0038660",
+      "heightIn": 75,
+      "ids": {
+        "espn": "5144894",
+        "pfr": "NowaTr00"
+      },
+      "injury": null,
+      "jersey": 53,
+      "lastName": "Nowaske",
+      "position": "LB",
+      "positionGroup": "CB",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 235,
       "yearsExp": 3
     },
     {
@@ -2107,7 +2115,7 @@
       "position": "SAF",
       "positionGroup": "S",
       "rookieYear": 2026,
-      "status": "CUT",
+      "status": "INA",
       "weightLb": 201,
       "yearsExp": 0
     },

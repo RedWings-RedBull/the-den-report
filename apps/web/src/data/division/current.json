@@ -3,9 +3,9 @@
   "division": "NFC North",
   "odds": [
     {
-      "division": 0.281,
-      "expectedWins": 11.269,
-      "playoffs": 0.903,
+      "division": 0.286,
+      "expectedWins": 11.286,
+      "playoffs": 0.898,
       "team": "CHI",
       "winDistribution": [
         0,
@@ -14,24 +14,24 @@
         0,
         0,
         0,
-        0.001,
-        0.004,
+        0,
+        0.003,
         0.022,
-        0.078,
-        0.181,
-        0.273,
-        0.244,
-        0.145,
-        0.047,
-        0.004,
+        0.082,
+        0.182,
+        0.264,
+        0.245,
+        0.144,
+        0.051,
+        0.006,
         0,
         0
       ]
     },
     {
-      "division": 0.179,
-      "expectedWins": 10.324,
-      "playoffs": 0.726,
+      "division": 0.196,
+      "expectedWins": 10.446,
+      "playoffs": 0.737,
       "team": "DET",
       "winDistribution": [
         0,
@@ -39,25 +39,25 @@
         0,
         0,
         0,
-        0,
-        0.005,
-        0.025,
-        0.089,
-        0.172,
-        0.25,
-        0.24,
-        0.144,
-        0.059,
-        0.014,
+        0.001,
+        0.003,
+        0.022,
+        0.075,
+        0.171,
+        0.235,
+        0.247,
+        0.159,
+        0.068,
+        0.017,
         0.002,
         0,
         0
       ]
     },
     {
-      "division": 0.055,
-      "expectedWins": 9.539,
-      "playoffs": 0.558,
+      "division": 0.038,
+      "expectedWins": 9.486,
+      "playoffs": 0.526,
       "team": "GB",
       "winDistribution": [
         0,
@@ -65,25 +65,32 @@
         0,
         0,
         0,
-        0.001,
+        0.002,
         0.015,
-        0.061,
-        0.163,
-        0.248,
-        0.257,
-        0.168,
-        0.071,
-        0.015,
-        0.001,
+        0.065,
+        0.159,
+        0.249,
+        0.254,
+        0.17,
+        0.069,
+        0.016,
+        0.068,
+        0.172,
+        0.247,
+        0.247,
+        0.162,
+        0.068,
+        0.016,
+        0.002,
         0,
         0,
         0
       ]
     },
     {
-      "division": 0.485,
-      "expectedWins": 11.722,
-      "playoffs": 0.937,
+      "division": 0.464,
+      "expectedWins": 11.68,
+      "playoffs": 0.93,
       "team": "MIN",
       "winDistribution": [
         0,
@@ -94,14 +101,14 @@
         0,
         0,
         0.003,
-        0.014,
-        0.055,
-        0.137,
-        0.224,
-        0.257,
-        0.19,
-        0.091,
-        0.025,
+        0.015,
+        0.061,
+        0.14,
+        0.227,
+        0.253,
+        0.185,
+        0.09,
+        0.023,
         0.003,
         0
       ]
@@ -170,8 +177,8 @@
           "value": 0.063
         },
         "explosiveRate": {
-          "leaguePercentile": 73.438,
-          "leagueRank": 9,
+          "leaguePercentile": 70.313,
+          "leagueRank": 10,
           "n": 566,
           "value": 0.101
         },
@@ -202,8 +209,8 @@
           "value": 0.061
         },
         "successRate": {
-          "leaguePercentile": 79.688,
-          "leagueRank": 7,
+          "leaguePercentile": 76.563,
+          "leagueRank": 8,
           "n": 566,
           "value": 0.473
         },
@@ -322,8 +329,8 @@
           "value": 0.494
         },
         "thirdDownRate": {
-          "leaguePercentile": 57.813,
-          "leagueRank": 14,
+          "leaguePercentile": 54.688,
+          "leagueRank": 15,
           "n": 82,
           "value": 0.39
         },
@@ -392,8 +399,8 @@
       },
       "offense": {
         "epaPerPlay": {
-          "leaguePercentile": 51.563,
-          "leagueRank": 16,
+          "leaguePercentile": 48.438,
+          "leagueRank": 17,
           "n": 490,
           "value": 0.005
         },
@@ -567,7 +574,7 @@
   ],
   "season": 2026,
   "simulation": {
-    "gamesRemaining": 150,
+    "gamesRemaining": 151,
     "runs": 10000,
     "seed": 20260101
   },
@@ -697,7 +704,7 @@
       "gameId": "2026_09_DET_MIA",
       "home": "MIA",
       "kickoffUtc": "2026-11-08T18:00:00Z",
-      "spread": -6.5,
+      "spread": -7,
       "week": 9
     },
     {
@@ -724,7 +731,7 @@
       "gameId": "2026_09_BUF_MIN",
       "home": "MIN",
       "kickoffUtc": "2026-11-10T01:15:00Z",
-      "spread": -3,
+      "spread": -3.5,
       "week": 9
     }
   ]

@@ -61,12 +61,12 @@
       "team": "DET"
     },
     {
-      "gsisId": "00-0039018",
-      "name": "Jack Campbell",
-      "position": "LB",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Neck",
-      "reportStatus": "Out",
+      "gsisId": "00-0039862",
+      "name": "Ennis Rakestraw Jr.",
+      "position": "CB",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
       "team": "DET"
     },
     {
@@ -118,19 +118,10 @@
       "gsisId": "00-0040182",
       "name": "Dante Trader Jr.",
       "position": "S",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0039874",
-      "name": "Jaylen Wright",
-      "position": "RB",
       "practiceStatus": "Limited Participation in Practice",
-      "primary": "Quadricep",
-      "reportStatus": "Questionable",
-      "team": "MIA"
+      "primary": "Knee",
+      "reportStatus": "Out",
+      "team": "DET"
     },
     {
       "gsisId": "00-0041521",
@@ -142,35 +133,26 @@
       "team": "MIA"
     },
     {
-      "gsisId": "00-0041096",
-      "name": "Kaytron Allen",
-      "position": "RB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": "Quadricep",
-      "reportStatus": "Questionable",
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0036682",
-      "name": "Malik Herring",
-      "position": "DE",
+      "gsisId": "00-0038125",
+      "name": "Roger McCreary",
+      "position": "CB",
       "practiceStatus": "Limited Participation in Practice",
-      "primary": "Neck",
+      "primary": "Foot",
       "reportStatus": "Questionable",
-      "team": "MIA"
+      "team": "DET"
     },
     {
-      "gsisId": "00-0038128",
-      "name": "Malik Willis",
-      "position": "QB",
+      "gsisId": "00-0040672",
+      "name": "Tyleik Williams",
+      "position": "DT",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "MIA"
     },
     {
-      "gsisId": "00-0041528",
-      "name": "Michael Taaffe",
+      "gsisId": "00-0040182",
+      "name": "Dante Trader Jr.",
       "position": "S",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
@@ -178,13 +160,67 @@
       "team": "MIA"
     },
     {
-      "gsisId": "00-0038521",
-      "name": "Reese Taylor",
-      "position": "CB",
+      "gsisId": "00-0037252",
+      "name": "Greg Dulcich",
+      "position": "TE",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "MIA"
+    },
+    {
+      "gsisId": "00-0038728",
+      "name": "Jared Wayne",
+      "position": "WR",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0039874",
+      "name": "Jaylen Wright",
+      "position": "RB",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0039156",
+      "name": "Julius Brents",
+      "position": "CB",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": "Neck",
+      "reportStatus": "Questionable",
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0041521",
+      "name": "Kadyn Proctor",
+      "position": "T",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": "Concussion",
+      "reportStatus": "Out",
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0039880",
+      "name": "Malik Washington",
+      "position": "WR",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0036616",
+      "name": "Christian Darrisaw",
+      "position": "T",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIN"
     },
     {
       "gsisId": "00-0037686",
@@ -205,9 +241,45 @@
       "team": "MIA"
     },
     {
-      "gsisId": "00-0034285",
-      "name": "Zach Sieler",
-      "position": "DT",
+      "gsisId": "00-0029606",
+      "name": "Harrison Smith",
+      "position": "S",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0038578",
+      "name": "Jay Ward",
+      "position": "S",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": "Knee",
+      "reportStatus": "Questionable",
+      "team": "MIN"
+    },
+    {
+      "gsisId": "00-0040500",
+      "name": "Joe Huber",
+      "position": "G",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0037686",
+      "name": "Tucker Addington",
+      "position": "LS",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0041524",
+      "name": "Will Kacmarek",
+      "position": "TE",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
@@ -250,7 +322,7 @@
       "edge": "team",
       "label": "Third downs",
       "oppRank": 31,
-      "teamRank": 14
+      "teamRank": 15
     }
   ],
   "kickoffUtc": "2026-11-08T18:00:00Z",
@@ -302,8 +374,8 @@
     }
   ],
   "line": {
-    "spread": -6.5,
-    "total": 49.5
+    "spread": -7,
+    "total": 50.5
   },
   "opp": {
     "defense": {
@@ -367,8 +439,8 @@
         "value": -0.045
       },
       "explosiveRate": {
-        "leaguePercentile": 85.938,
-        "leagueRank": 5,
+        "leaguePercentile": 82.813,
+        "leagueRank": 6,
         "n": 397,
         "value": 0.106
       },
@@ -530,8 +602,8 @@
         "value": 0.494
       },
       "thirdDownRate": {
-        "leaguePercentile": 57.813,
-        "leagueRank": 14,
+        "leaguePercentile": 54.688,
+        "leagueRank": 15,
         "n": 82,
         "value": 0.39
       },
