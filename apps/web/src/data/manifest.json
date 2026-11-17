@@ -39,6 +39,14 @@
       "season": 2026,
       "tier": "provisional",
       "week": 8
+    },
+    {
+      "gameId": "2026_10_NE_DET",
+      "opponent": "NE",
+      "result": "W",
+      "season": 2026,
+      "tier": "provisional",
+      "week": 10
     }
   ]
 }
