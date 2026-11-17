@@ -169,36 +169,45 @@
       "team": "MIA"
     },
     {
-      "gsisId": "00-0038128",
-      "name": "Malik Willis",
-      "position": "QB",
+      "gsisId": "00-0036616",
+      "name": "Christian Darrisaw",
+      "position": "T",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIN"
+    },
+    {
+      "gsisId": "00-0040215",
+      "name": "Gavin Bartholomew",
+      "position": "TE",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "MIN"
     },
     {
-      "gsisId": "00-0041528",
-      "name": "Michael Taaffe",
+      "gsisId": "00-0029606",
+      "name": "Harrison Smith",
       "position": "S",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "MIA"
     },
     {
-      "gsisId": "00-0038521",
-      "name": "Reese Taylor",
-      "position": "CB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": "Quadricep",
+      "gsisId": "00-0038578",
+      "name": "Jay Ward",
+      "position": "S",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": "Knee",
       "reportStatus": "Questionable",
-      "team": "MIA"
+      "team": "MIN"
     },
     {
-      "gsisId": "00-0038603",
-      "name": "Rob Beal Jr.",
-      "position": "DE",
+      "gsisId": "00-0040500",
+      "name": "Joe Huber",
+      "position": "G",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
