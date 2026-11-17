@@ -1,0 +1,176 @@
+{
+  "gameId": "2026_08_MIN_DET",
+  "plays": [
+    {
+      "clock": "04:55",
+      "desc": "(4:55) (Shotgun) 16-J.Goff pass deep middle to 1-J.Williams to MIN 9 for 46 yards (7-B.Murphy). PENALTY on DET-1-J.Williams, Taunting, 15 yards, enforced at MIN 9.",
+      "down": 3,
+      "epa": 3.855,
+      "playId": 651,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "explosive",
+        "penalty"
+      ],
+      "wpa": 0.115,
+      "yardline100": 55,
+      "ydstogo": 13
+    },
+    {
+      "clock": "02:21",
+      "desc": "(2:21) 39-J.Bates 25 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 4,
+      "epa": 0.045,
+      "playId": 840,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": 0.002,
+      "yardline100": 7,
+      "ydstogo": 5
+    },
+    {
+      "clock": "14:29",
+      "desc": "(14:29) (No Huddle) 1-K.Murray pass short left to 18-J.Jefferson for 1 yard, TOUCHDOWN.",
+      "down": 1,
+      "epa": 0.538,
+      "playId": 1086,
+      "posteam": "MIN",
+      "qtr": 2,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.015,
+      "yardline100": 1,
+      "ydstogo": 1
+    },
+    {
+      "clock": "01:51",
+      "desc": "(1:51) 1-K.Murray pass short left intended for 3-J.Addison INTERCEPTED by 4-D.Reed [93-T.Lacy] at DET 38. 4-D.Reed pushed ob at MIN 30 for 32 yards (75-B.O'Neill). The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED. 1-K.Murray pass short left intended for 3-J.Addison INTERCEPTED by 4-D.Reed [93-T.Lacy] at DET 38. 4-D.Reed to DET 38 for no gain (3-J.Addison).",
+      "down": 1,
+      "epa": -3.854,
+      "playId": 1919,
+      "posteam": "MIN",
+      "qtr": 2,
+      "tags": [
+        "turnover"
+      ],
+      "wpa": -0.088,
+      "yardline100": 53,
+      "ydstogo": 10
+    },
+    {
+      "clock": "00:05",
+      "desc": "(:05) 39-J.Bates 37 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 1,
+      "epa": 0.303,
+      "playId": 2242,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "fg"
+      ],
+      "wpa": -0.085,
+      "yardline100": 19,
+      "ydstogo": 10
+    },
+    {
+      "clock": "09:54",
+      "desc": "(9:54) 39-J.Bates 46 yard field goal is No Good, Hit Left Upright, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 4,
+      "epa": -3.464,
+      "playId": 2581,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": -0.133,
+      "yardline100": 28,
+      "ydstogo": 5
+    },
+    {
+      "clock": "04:50",
+      "desc": "(4:50) 0-J.Gibbs up the middle for 30 yards, TOUCHDOWN.",
+      "down": 1,
+      "epa": 2.695,
+      "playId": 2812,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "td",
+        "explosive"
+      ],
+      "wpa": 0.103,
+      "yardline100": 30,
+      "ydstogo": 10
+    },
+    {
+      "clock": "14:34",
+      "desc": "(14:34) (Shotgun) 1-K.Murray pass incomplete short left to 3-J.Addison (4-D.Reed) [97-A.Hutchinson].",
+      "down": 4,
+      "epa": -3.592,
+      "playId": 3215,
+      "posteam": "MIN",
+      "qtr": 4,
+      "tags": [
+        "fourth-down"
+      ],
+      "wpa": -0.086,
+      "yardline100": 25,
+      "ydstogo": 5
+    },
+    {
+      "clock": "10:16",
+      "desc": "(10:16) 1-K.Murray pass deep middle to 3-J.Addison to DET 10 for 51 yards (30-K.Dorsey).",
+      "down": 1,
+      "epa": 3.035,
+      "playId": 3484,
+      "posteam": "MIN",
+      "qtr": 4,
+      "tags": [
+        "explosive"
+      ],
+      "wpa": 0.159,
+      "yardline100": 61,
+      "ydstogo": 10
+    },
+    {
+      "clock": "08:48",
+      "desc": "(8:48) 1-K.Murray pass short middle to 87-T.Hockenson for 8 yards, TOUCHDOWN.",
+      "down": 2,
+      "epa": 2.216,
+      "playId": 3536,
+      "posteam": "MIN",
+      "qtr": 4,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.11,
+      "yardline100": 8,
+      "ydstogo": 8
+    },
+    {
+      "clock": "04:40",
+      "desc": "(4:40) (Shotgun) 16-J.Goff pass short left to 1-J.Williams for 7 yards, TOUCHDOWN.",
+      "down": 1,
+      "epa": 1.528,
+      "playId": 3743,
+      "posteam": "DET",
+      "qtr": 4,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.074,
+      "yardline100": 7,
+      "ydstogo": 7
+    }
+  ],
+  "season": 2026,
+  "week": 8
+}
