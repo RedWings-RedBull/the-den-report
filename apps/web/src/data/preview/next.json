@@ -7,18 +7,9 @@
   "gameId": "2026_09_DET_MIA",
   "injuries": [
     {
-      "gsisId": "00-0037236",
-      "name": "Aidan Hutchinson",
-      "position": "DE",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0036624",
-      "name": "Alim McNeill",
-      "position": "DT",
+      "gsisId": "00-0036716",
+      "name": "Amen Ogbongbemiga",
+      "position": "LB",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
@@ -28,18 +19,45 @@
       "gsisId": "00-0036963",
       "name": "Amon-Ra St. Brown",
       "position": "WR",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": "Rib",
+      "reportStatus": "Questionable",
+      "team": "DET"
+    },
+    {
+      "gsisId": "00-0039141",
+      "name": "Brian Branch",
+      "position": "S",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "DET"
     },
     {
+      "gsisId": "00-0037297",
+      "name": "Cade Mays",
+      "position": "C",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": "Ankle",
+      "reportStatus": "Out",
+      "team": "DET"
+    },
+    {
+      "gsisId": "00-0034384",
+      "name": "D.J. Reed",
+      "position": "CB",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": "Hip",
+      "reportStatus": "Out",
+      "team": "DET"
+    },
+    {
       "gsisId": "00-0036335",
       "name": "DJ Wonnum",
       "position": "DE",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": "Concussion",
+      "reportStatus": "Out",
       "team": "DET"
     },
     {
@@ -55,18 +73,9 @@
       "gsisId": "00-0038896",
       "name": "Jacob Saylors",
       "position": "RB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0039139",
-      "name": "Jahmyr Gibbs",
-      "position": "RB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": "Neck",
+      "reportStatus": "Questionable",
       "team": "DET"
     },
     {
@@ -79,13 +88,49 @@
       "team": "DET"
     },
     {
-      "gsisId": "00-0036880",
-      "name": "Penei Sewell",
-      "position": "T",
+      "gsisId": "00-0035637",
+      "name": "Rock Ya-Sin",
+      "position": "CB",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "DET"
+    },
+    {
+      "gsisId": "00-0039364",
+      "name": "Sione Vaki",
+      "position": "RB",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": "Ankle",
+      "reportStatus": "Questionable",
+      "team": "DET"
+    },
+    {
+      "gsisId": "00-0039911",
+      "name": "Chop Robinson",
+      "position": "LB",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0040182",
+      "name": "Dante Trader Jr.",
+      "position": "S",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": "Knee",
+      "reportStatus": "Out",
+      "team": "DET"
+    },
+    {
+      "gsisId": "00-0041521",
+      "name": "Kadyn Proctor",
+      "position": "T",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
     },
     {
       "gsisId": "00-0038125",
@@ -103,7 +148,7 @@
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "DET"
+      "team": "MIA"
     },
     {
       "gsisId": "00-0040182",
@@ -178,13 +223,22 @@
       "team": "MIN"
     },
     {
-      "gsisId": "00-0040215",
-      "name": "Gavin Bartholomew",
+      "gsisId": "00-0037686",
+      "name": "Tucker Addington",
+      "position": "LS",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "MIA"
+    },
+    {
+      "gsisId": "00-0041524",
+      "name": "Will Kacmarek",
       "position": "TE",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIN"
+      "team": "MIA"
     },
     {
       "gsisId": "00-0029606",
@@ -562,7 +616,7 @@
     },
     "team": "DET"
   },
-  "throughWeek": 8,
+  "throughWeek": 9,
   "venue": {
     "roof": "outdoors",
     "stadium": "Hard Rock Stadium",

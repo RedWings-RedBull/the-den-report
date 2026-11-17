@@ -362,8 +362,8 @@
           "conv": 8
         },
         "passEpaPerDropback": {
-          "leaguePercentile": 85.938,
-          "leagueRank": 5,
+          "leaguePercentile": 82.813,
+          "leagueRank": 6,
           "n": 325,
           "value": -0.052
         },
@@ -443,8 +443,8 @@
           "value": 0.404
         },
         "thirdDownRate": {
-          "leaguePercentile": 39.063,
-          "leagueRank": 20,
+          "leaguePercentile": 42.188,
+          "leagueRank": 19,
           "n": 107,
           "value": 0.383
         },
@@ -696,7 +696,7 @@
       "w": 5
     }
   ],
-  "throughWeek": 8,
+  "throughWeek": 9,
   "upcoming": [
     {
       "away": "DET",
