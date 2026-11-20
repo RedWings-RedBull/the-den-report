@@ -1,97 +1,61 @@
 {
   "coaches": {
-    "opponent": "Jeff Hafley",
+    "opponent": "Todd Bowles",
     "team": "Dan Campbell"
   },
   "divGame": false,
-  "gameId": "2026_09_DET_MIA",
+  "gameId": "2026_11_TB_DET",
   "injuries": [
-    {
-      "gsisId": "00-0036716",
-      "name": "Amen Ogbongbemiga",
-      "position": "LB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0036963",
-      "name": "Amon-Ra St. Brown",
-      "position": "WR",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": "Rib",
-      "reportStatus": "Questionable",
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0039141",
-      "name": "Brian Branch",
-      "position": "S",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "DET"
-    },
     {
       "gsisId": "00-0037297",
       "name": "Cade Mays",
       "position": "C",
       "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Ankle",
-      "reportStatus": "Out",
+      "primary": null,
+      "reportStatus": null,
       "team": "DET"
     },
     {
       "gsisId": "00-0034384",
       "name": "D.J. Reed",
       "position": "CB",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Hip",
-      "reportStatus": "Out",
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0036335",
-      "name": "DJ Wonnum",
-      "position": "DE",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Concussion",
-      "reportStatus": "Out",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
       "team": "DET"
     },
     {
       "gsisId": "00-0039862",
       "name": "Ennis Rakestraw Jr.",
       "position": "CB",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "DET"
     },
     {
-      "gsisId": "00-0038896",
-      "name": "Jacob Saylors",
-      "position": "RB",
+      "gsisId": "00-0035895",
+      "name": "Joe Bachie",
+      "position": "LB",
       "practiceStatus": "Limited Participation in Practice",
-      "primary": "Neck",
-      "reportStatus": "Questionable",
+      "primary": null,
+      "reportStatus": null,
       "team": "DET"
     },
     {
       "gsisId": "00-0037667",
       "name": "Kerby Joseph",
       "position": "S",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": "Knee",
-      "reportStatus": "Out",
+      "practiceStatus": "Full Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
       "team": "DET"
     },
     {
-      "gsisId": "00-0035637",
-      "name": "Rock Ya-Sin",
+      "gsisId": "00-0036124",
+      "name": "Khalil Dorsey",
       "position": "CB",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
       "team": "DET"
@@ -100,529 +64,439 @@
       "gsisId": "00-0039364",
       "name": "Sione Vaki",
       "position": "RB",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Ankle",
-      "reportStatus": "Questionable",
-      "team": "DET"
-    },
-    {
-      "gsisId": "00-0039911",
-      "name": "Chop Robinson",
-      "position": "LB",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0040182",
-      "name": "Dante Trader Jr.",
-      "position": "S",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": "Knee",
-      "reportStatus": "Out",
       "team": "DET"
     },
     {
-      "gsisId": "00-0041521",
-      "name": "Kadyn Proctor",
-      "position": "T",
-      "practiceStatus": "Full Participation in Practice",
+      "gsisId": "00-0038940",
+      "name": "Tyler Lacy",
+      "position": "DE",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0038125",
-      "name": "Roger McCreary",
-      "position": "CB",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": "Foot",
-      "reportStatus": "Questionable",
       "team": "DET"
     },
     {
-      "gsisId": "00-0040672",
-      "name": "Tyleik Williams",
+      "gsisId": "00-0032889",
+      "name": "A'Shawn Robinson",
       "position": "DT",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     },
     {
-      "gsisId": "00-0040182",
-      "name": "Dante Trader Jr.",
+      "gsisId": "00-0036411",
+      "name": "Antoine Winfield Jr.",
       "position": "S",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Did Not Participate In Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     },
     {
-      "gsisId": "00-0037252",
-      "name": "Greg Dulcich",
+      "gsisId": "00-0034855",
+      "name": "Baker Mayfield",
+      "position": "QB",
+      "practiceStatus": "Limited Participation in Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "TB"
+    },
+    {
+      "gsisId": "00-0039361",
+      "name": "Bucky Irving",
+      "position": "RB",
+      "practiceStatus": "Did Not Participate In Practice",
+      "primary": null,
+      "reportStatus": null,
+      "team": "TB"
+    },
+    {
+      "gsisId": "00-0038129",
+      "name": "Cade Otton",
       "position": "TE",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     },
     {
-      "gsisId": "00-0038728",
-      "name": "Jared Wayne",
+      "gsisId": "00-0033921",
+      "name": "Chris Godwin Jr.",
       "position": "WR",
-      "practiceStatus": "Full Participation in Practice",
+      "practiceStatus": "Did Not Participate In Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     },
     {
-      "gsisId": "00-0039874",
-      "name": "Jaylen Wright",
-      "position": "RB",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0039156",
-      "name": "Julius Brents",
+      "gsisId": "00-0039051",
+      "name": "Josh Hayes",
       "position": "CB",
       "practiceStatus": "Full Participation in Practice",
-      "primary": "Neck",
-      "reportStatus": "Questionable",
-      "team": "MIA"
+      "primary": null,
+      "reportStatus": null,
+      "team": "TB"
     },
     {
-      "gsisId": "00-0041521",
-      "name": "Kadyn Proctor",
+      "gsisId": "00-0036406",
+      "name": "Tristan Wirfs",
       "position": "T",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": "Concussion",
-      "reportStatus": "Out",
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0039880",
-      "name": "Malik Washington",
-      "position": "WR",
       "practiceStatus": "Full Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     },
     {
-      "gsisId": "00-0036616",
-      "name": "Christian Darrisaw",
-      "position": "T",
-      "practiceStatus": "Did Not Participate In Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIN"
-    },
-    {
-      "gsisId": "00-0037686",
-      "name": "Tucker Addington",
-      "position": "LS",
+      "gsisId": "00-0039068",
+      "name": "Yaya Diaby",
+      "position": "LB",
       "practiceStatus": "Limited Participation in Practice",
       "primary": null,
       "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0041524",
-      "name": "Will Kacmarek",
-      "position": "TE",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0029606",
-      "name": "Harrison Smith",
-      "position": "S",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0038578",
-      "name": "Jay Ward",
-      "position": "S",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": "Knee",
-      "reportStatus": "Questionable",
-      "team": "MIN"
-    },
-    {
-      "gsisId": "00-0040500",
-      "name": "Joe Huber",
-      "position": "G",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0037686",
-      "name": "Tucker Addington",
-      "position": "LS",
-      "practiceStatus": "Limited Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
-    },
-    {
-      "gsisId": "00-0041524",
-      "name": "Will Kacmarek",
-      "position": "TE",
-      "practiceStatus": "Full Participation in Practice",
-      "primary": null,
-      "reportStatus": null,
-      "team": "MIA"
+      "team": "TB"
     }
   ],
-  "isHome": false,
+  "isHome": true,
   "keyMatchups": [
     {
-      "edge": "team",
+      "edge": "even",
       "label": "Pass offense vs pass defense",
-      "oppRank": 32,
-      "teamRank": 4
+      "oppRank": 2,
+      "teamRank": 5
     },
     {
       "edge": "even",
       "label": "Run offense vs run defense",
-      "oppRank": 18,
-      "teamRank": 15
+      "oppRank": 3,
+      "teamRank": 7
     },
     {
-      "edge": "opponent",
+      "edge": "even",
       "label": "Pass defense vs pass offense",
-      "oppRank": 21,
-      "teamRank": 29
+      "oppRank": 30,
+      "teamRank": 24
     },
     {
-      "edge": "team",
+      "edge": "even",
       "label": "Run defense vs run offense",
-      "oppRank": 21,
-      "teamRank": 13
+      "oppRank": 8,
+      "teamRank": 8
     },
     {
-      "edge": "team",
+      "edge": "even",
       "label": "Explosive plays",
-      "oppRank": 26,
-      "teamRank": 3
+      "oppRank": 4,
+      "teamRank": 4
     },
     {
-      "edge": "team",
+      "edge": "even",
       "label": "Third downs",
-      "oppRank": 31,
-      "teamRank": 15
+      "oppRank": 7,
+      "teamRank": 14
     }
   ],
-  "kickoffUtc": "2026-11-08T18:00:00Z",
+  "kickoffUtc": "2026-11-22T18:00:00Z",
   "lastMeetings": [
     {
-      "gameId": "2022_08_MIA_DET",
+      "gameId": "2025_07_TB_DET",
       "home": true,
-      "oppScore": 31,
-      "result": "L",
-      "season": 2022,
-      "teamScore": 27,
-      "week": 8
-    },
-    {
-      "gameId": "2018_07_DET_MIA",
-      "home": false,
-      "oppScore": 21,
+      "oppScore": 9,
       "result": "W",
-      "season": 2018,
-      "teamScore": 32,
+      "season": 2025,
+      "teamScore": 24,
       "week": 7
     },
     {
-      "gameId": "2014_10_MIA_DET",
+      "gameId": "2024_02_TB_DET",
       "home": true,
-      "oppScore": 16,
-      "result": "W",
-      "season": 2014,
-      "teamScore": 20,
-      "week": 10
-    },
-    {
-      "gameId": "2010_16_DET_MIA",
-      "home": false,
-      "oppScore": 27,
-      "result": "W",
-      "season": 2010,
-      "teamScore": 34,
-      "week": 16
-    },
-    {
-      "gameId": "2006_12_MIA_DET",
-      "home": true,
-      "oppScore": 27,
+      "oppScore": 20,
       "result": "L",
-      "season": 2006,
-      "teamScore": 10,
-      "week": 12
+      "season": 2024,
+      "teamScore": 16,
+      "week": 2
+    },
+    {
+      "gameId": "2023_20_TB_DET",
+      "home": true,
+      "oppScore": 23,
+      "result": "W",
+      "season": 2023,
+      "teamScore": 31,
+      "week": 20
+    },
+    {
+      "gameId": "2023_06_DET_TB",
+      "home": false,
+      "oppScore": 6,
+      "result": "W",
+      "season": 2023,
+      "teamScore": 20,
+      "week": 6
+    },
+    {
+      "gameId": "2020_16_TB_DET",
+      "home": true,
+      "oppScore": 47,
+      "result": "L",
+      "season": 2020,
+      "teamScore": 7,
+      "week": 16
     }
   ],
   "line": {
-    "spread": -7,
-    "total": 50.5
+    "spread": -5.5,
+    "total": 45.5
   },
   "opp": {
     "defense": {
       "epaPerPlay": {
-        "leaguePercentile": 1.563,
-        "leagueRank": 32,
-        "n": 399,
-        "value": 0.131
+        "leaguePercentile": 95.313,
+        "leagueRank": 2,
+        "n": 515,
+        "value": -0.123
       },
       "explosiveRate": {
-        "leaguePercentile": 20.313,
-        "leagueRank": 26,
-        "n": 399,
-        "value": 0.105
+        "leaguePercentile": 89.063,
+        "leagueRank": 4,
+        "n": 515,
+        "value": 0.072
       },
       "fourthDown": {
-        "att": 7,
-        "conv": 6
+        "att": 15,
+        "conv": 7
       },
       "passEpaPerDropback": {
-        "leaguePercentile": 1.563,
-        "leagueRank": 32,
-        "n": 217,
-        "value": 0.302
+        "leaguePercentile": 95.313,
+        "leagueRank": 2,
+        "n": 335,
+        "value": -0.122
       },
       "penalties": {
-        "count": 49,
-        "yards": 336
+        "count": 63,
+        "yards": 449
       },
       "rushEpaPerAtt": {
-        "leaguePercentile": 45.313,
-        "leagueRank": 18,
-        "n": 182,
-        "value": -0.073
+        "leaguePercentile": 92.188,
+        "leagueRank": 3,
+        "n": 180,
+        "value": -0.125
       },
       "sackRate": {
-        "leaguePercentile": 17.188,
-        "leagueRank": 27,
-        "n": 217,
-        "value": 0.041
+        "leaguePercentile": 23.438,
+        "leagueRank": 25,
+        "n": 335,
+        "value": 0.051
       },
       "successRate": {
-        "leaguePercentile": 1.563,
-        "leagueRank": 32,
-        "n": 399,
-        "value": 0.494
+        "leaguePercentile": 82.813,
+        "leagueRank": 6,
+        "n": 515,
+        "value": 0.4
       },
       "thirdDownRate": {
-        "leaguePercentile": 4.688,
-        "leagueRank": 31,
-        "n": 85,
-        "value": 0.506
+        "leaguePercentile": 79.688,
+        "leagueRank": 7,
+        "n": 113,
+        "value": 0.345
       },
-      "turnovers": 6
+      "turnovers": 20
     },
     "offense": {
       "epaPerPlay": {
-        "leaguePercentile": 29.688,
-        "leagueRank": 23,
-        "n": 397,
-        "value": -0.045
-      },
-      "explosiveRate": {
-        "leaguePercentile": 82.813,
-        "leagueRank": 6,
-        "n": 397,
-        "value": 0.106
-      },
-      "fourthDown": {
-        "att": 10,
-        "conv": 5
-      },
-      "passEpaPerDropback": {
-        "leaguePercentile": 35.938,
-        "leagueRank": 21,
-        "n": 227,
-        "value": 0.008
-      },
-      "penalties": {
-        "count": 49,
-        "yards": 336
-      },
-      "rushEpaPerAtt": {
-        "leaguePercentile": 35.938,
-        "leagueRank": 21,
-        "n": 170,
-        "value": -0.117
-      },
-      "sackRate": {
-        "leaguePercentile": 4.688,
-        "leagueRank": 31,
-        "n": 227,
-        "value": 0.093
-      },
-      "successRate": {
         "leaguePercentile": 14.063,
         "leagueRank": 28,
-        "n": 397,
-        "value": 0.401
+        "n": 556,
+        "value": -0.081
+      },
+      "explosiveRate": {
+        "leaguePercentile": 64.063,
+        "leagueRank": 12,
+        "n": 556,
+        "value": 0.097
+      },
+      "fourthDown": {
+        "att": 12,
+        "conv": 4
+      },
+      "passEpaPerDropback": {
+        "leaguePercentile": 7.813,
+        "leagueRank": 30,
+        "n": 293,
+        "value": -0.154
+      },
+      "penalties": {
+        "count": 63,
+        "yards": 449
+      },
+      "rushEpaPerAtt": {
+        "leaguePercentile": 76.563,
+        "leagueRank": 8,
+        "n": 263,
+        "value": 0
+      },
+      "sackRate": {
+        "leaguePercentile": 7.813,
+        "leagueRank": 30,
+        "n": 293,
+        "value": 0.092
+      },
+      "successRate": {
+        "leaguePercentile": 17.188,
+        "leagueRank": 27,
+        "n": 556,
+        "value": 0.405
       },
       "thirdDownRate": {
-        "leaguePercentile": 73.438,
-        "leagueRank": 9,
-        "n": 89,
-        "value": 0.427
+        "leaguePercentile": 32.813,
+        "leagueRank": 22,
+        "n": 124,
+        "value": 0.363
       },
-      "turnovers": 9
+      "turnovers": 15
     },
     "record": {
       "l": 6,
       "t": 0,
-      "w": 1
+      "w": 3
     },
-    "team": "MIA"
+    "team": "TB"
   },
-  "opponent": "MIA",
+  "opponent": "TB",
   "quarterbacks": {
-    "opponent": "Malik Willis",
+    "opponent": "Baker Mayfield",
     "team": "Jared Goff"
   },
   "referee": null,
   "rest": {
-    "opponent": 7,
+    "opponent": 14,
     "team": 7
   },
   "season": 2026,
   "team": {
     "defense": {
       "epaPerPlay": {
-        "leaguePercentile": 7.813,
-        "leagueRank": 30,
-        "n": 470,
-        "value": 0.11
+        "leaguePercentile": 26.563,
+        "leagueRank": 24,
+        "n": 573,
+        "value": 0.041
       },
       "explosiveRate": {
-        "leaguePercentile": 7.813,
-        "leagueRank": 30,
-        "n": 470,
-        "value": 0.113
+        "leaguePercentile": 18.75,
+        "leagueRank": 27,
+        "n": 573,
+        "value": 0.106
       },
       "fourthDown": {
-        "att": 13,
-        "conv": 10
+        "att": 15,
+        "conv": 11
       },
       "passEpaPerDropback": {
-        "leaguePercentile": 10.938,
-        "leagueRank": 29,
-        "n": 325,
-        "value": 0.199
+        "leaguePercentile": 26.563,
+        "leagueRank": 24,
+        "n": 391,
+        "value": 0.105
       },
       "penalties": {
-        "count": 47,
-        "yards": 384
+        "count": 63,
+        "yards": 522
       },
       "rushEpaPerAtt": {
-        "leaguePercentile": 60.938,
-        "leagueRank": 13,
-        "n": 145,
-        "value": -0.09
+        "leaguePercentile": 76.563,
+        "leagueRank": 8,
+        "n": 182,
+        "value": -0.097
       },
       "sackRate": {
-        "leaguePercentile": 79.688,
-        "leagueRank": 7,
-        "n": 325,
-        "value": 0.074
+        "leaguePercentile": 89.063,
+        "leagueRank": 4,
+        "n": 391,
+        "value": 0.082
       },
       "successRate": {
-        "leaguePercentile": 23.438,
-        "leagueRank": 25,
-        "n": 470,
-        "value": 0.455
+        "leaguePercentile": 54.688,
+        "leagueRank": 15,
+        "n": 573,
+        "value": 0.436
       },
       "thirdDownRate": {
-        "leaguePercentile": 17.188,
-        "leagueRank": 27,
-        "n": 96,
-        "value": 0.458
+        "leaguePercentile": 23.438,
+        "leagueRank": 25,
+        "n": 121,
+        "value": 0.43
       },
-      "turnovers": 7
+      "turnovers": 9
     },
     "offense": {
       "epaPerPlay": {
         "leaguePercentile": 82.813,
         "leagueRank": 6,
-        "n": 462,
-        "value": 0.113
+        "n": 582,
+        "value": 0.107
       },
       "explosiveRate": {
-        "leaguePercentile": 92.188,
-        "leagueRank": 3,
-        "n": 462,
-        "value": 0.115
-      },
-      "fourthDown": {
-        "att": 13,
-        "conv": 8
-      },
-      "passEpaPerDropback": {
         "leaguePercentile": 89.063,
         "leagueRank": 4,
-        "n": 269,
-        "value": 0.236
+        "n": 582,
+        "value": 0.112
+      },
+      "fourthDown": {
+        "att": 17,
+        "conv": 12
+      },
+      "passEpaPerDropback": {
+        "leaguePercentile": 85.938,
+        "leagueRank": 5,
+        "n": 333,
+        "value": 0.183
       },
       "penalties": {
-        "count": 47,
-        "yards": 384
+        "count": 63,
+        "yards": 522
       },
       "rushEpaPerAtt": {
-        "leaguePercentile": 54.688,
-        "leagueRank": 15,
-        "n": 193,
-        "value": -0.059
+        "leaguePercentile": 79.688,
+        "leagueRank": 7,
+        "n": 249,
+        "value": 0.006
       },
       "sackRate": {
         "leaguePercentile": 48.438,
         "leagueRank": 17,
-        "n": 269,
-        "value": 0.059
+        "n": 333,
+        "value": 0.063
       },
       "successRate": {
         "leaguePercentile": 92.188,
         "leagueRank": 3,
-        "n": 462,
-        "value": 0.494
+        "n": 582,
+        "value": 0.488
       },
       "thirdDownRate": {
-        "leaguePercentile": 54.688,
-        "leagueRank": 15,
-        "n": 82,
-        "value": 0.39
+        "leaguePercentile": 57.813,
+        "leagueRank": 14,
+        "n": 109,
+        "value": 0.394
       },
-      "turnovers": 4
+      "turnovers": 7
     },
     "record": {
       "l": 2,
       "t": 0,
-      "w": 5
+      "w": 7
     },
     "team": "DET"
   },
-  "throughWeek": 9,
+  "throughWeek": 11,
   "venue": {
-    "roof": "outdoors",
-    "stadium": "Hard Rock Stadium",
-    "surface": "grass",
+    "roof": "dome",
+    "stadium": "Ford Field",
+    "surface": "fieldturf",
     "temp": null,
     "wind": null
   },
-  "week": 9
+  "week": 11
 }
