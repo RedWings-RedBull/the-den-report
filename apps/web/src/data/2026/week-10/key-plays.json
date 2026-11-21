@@ -1,0 +1,188 @@
+{
+  "gameId": "2026_10_NE_DET",
+  "plays": [
+    {
+      "clock": "12:03",
+      "desc": "(12:03) 10-D.Maye pass short left to 85-H.Henry to DET 33 for 12 yards (55-D.Barnes).",
+      "down": 2,
+      "epa": 0.723,
+      "playId": 183,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [],
+      "wpa": 0.063,
+      "yardline100": 45,
+      "ydstogo": 4
+    },
+    {
+      "clock": "11:28",
+      "desc": "(11:28) 10-D.Maye pass short left to 13-M.Hollins pushed ob at DET 7 for 26 yards (36-C.Clark).",
+      "down": 1,
+      "epa": 1.487,
+      "playId": 208,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [
+        "explosive"
+      ],
+      "wpa": 0.057,
+      "yardline100": 33,
+      "ydstogo": 10
+    },
+    {
+      "clock": "09:43",
+      "desc": "(9:43) (Shotgun) 10-D.Maye sacked at DET 15 for -2 yards (97-A.Hutchinson). DET-97-A.Hutchinson was injured during the play. NE-10-D.Maye was injured during the play.",
+      "down": 3,
+      "epa": -0.699,
+      "playId": 333,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [
+        "sack"
+      ],
+      "wpa": -0.053,
+      "yardline100": 13,
+      "ydstogo": 13
+    },
+    {
+      "clock": "09:15",
+      "desc": "(9:15) 8-A.Borregales 33 yard field goal is GOOD, Center-47-J.Ashby, Holder-19-M.Wishnowsky.",
+      "down": 4,
+      "epa": 0.124,
+      "playId": 353,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": 0.013,
+      "yardline100": 15,
+      "ydstogo": 15
+    },
+    {
+      "clock": "06:26",
+      "desc": "(6:26) (Shotgun) 16-J.Goff pass short right to 14-A.St. Brown for 56 yards, TOUCHDOWN.",
+      "down": 3,
+      "epa": 5.268,
+      "playId": 518,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "td",
+        "explosive"
+      ],
+      "wpa": 0.184,
+      "yardline100": 56,
+      "ydstogo": 9
+    },
+    {
+      "clock": "05:12",
+      "desc": "(5:12) (Shotgun) 16-T.DeVito pass incomplete deep right to 3-D.Douglas. PENALTY on DET-2-E.Rakestraw, Defensive Pass Interference, 30 yards, enforced at NE 16 - No Play.",
+      "down": 3,
+      "epa": 2.475,
+      "playId": 675,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [
+        "penalty"
+      ],
+      "wpa": 0.063,
+      "yardline100": 84,
+      "ydstogo": 5
+    },
+    {
+      "clock": "04:16",
+      "desc": "(4:16) (Shotgun) 16-T.DeVito sacked at NE 40 for -11 yards (8-D.Moore).",
+      "down": 3,
+      "epa": -2.08,
+      "playId": 754,
+      "posteam": "NE",
+      "qtr": 1,
+      "tags": [
+        "sack"
+      ],
+      "wpa": -0.053,
+      "yardline100": 49,
+      "ydstogo": 5
+    },
+    {
+      "clock": "13:02",
+      "desc": "(13:02) (Shotgun) 16-J.Goff pass short left to 18-I.TeSlaa for 12 yards, TOUCHDOWN.",
+      "down": 2,
+      "epa": 2.199,
+      "playId": 1061,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.045,
+      "yardline100": 12,
+      "ydstogo": 8
+    },
+    {
+      "clock": "02:12",
+      "desc": "(2:12) 0-J.Gibbs left guard for 5 yards, TOUCHDOWN.",
+      "down": 1,
+      "epa": 1.064,
+      "playId": 1842,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "td"
+      ],
+      "wpa": -0.006,
+      "yardline100": 5,
+      "ydstogo": 5
+    },
+    {
+      "clock": "00:12",
+      "desc": "(:12) (Shotgun) 16-J.Goff pass short middle intended for 1-J.Williams INTERCEPTED by 31-K.Byard at NE -8. Touchback. NE-14-R.Spillane was injured during the play.",
+      "down": 3,
+      "epa": -3.75,
+      "playId": 2223,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "turnover"
+      ],
+      "wpa": -0.044,
+      "yardline100": 3,
+      "ydstogo": 3
+    },
+    {
+      "clock": "08:28",
+      "desc": "(8:28) (Shotgun) 16-J.Goff pass short middle to 14-A.St. Brown for 28 yards, TOUCHDOWN.",
+      "down": 3,
+      "epa": 3.515,
+      "playId": 2700,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "td",
+        "explosive"
+      ],
+      "wpa": 0.025,
+      "yardline100": 28,
+      "ydstogo": 10
+    },
+    {
+      "clock": "12:46",
+      "desc": "(12:46) (Shotgun) 16-T.DeVito pass short right to 34-L.Larison for 10 yards, TOUCHDOWN.",
+      "down": 3,
+      "epa": 2.574,
+      "playId": 3528,
+      "posteam": "NE",
+      "qtr": 4,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.005,
+      "yardline100": 10,
+      "ydstogo": 5
+    }
+  ],
+  "season": 2026,
+  "week": 10
+}
