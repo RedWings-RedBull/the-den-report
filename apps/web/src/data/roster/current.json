@@ -171,11 +171,7 @@
         "espn": "4383429",
         "pfr": "SaylJa00"
       },
-      "injury": {
-        "practiceStatus": "Limited Participation in Practice",
-        "primary": "Neck",
-        "reportStatus": "Questionable"
-      },
+      "injury": null,
       "jersey": 25,
       "lastName": "Saylors",
       "position": "RB",
@@ -226,7 +222,7 @@
         "pfr": "VakiSi00"
       },
       "injury": {
-        "practiceStatus": "Did Not Participate In Practice",
+        "practiceStatus": "Limited Participation in Practice",
         "primary": "Ankle",
         "reportStatus": "Questionable"
       },
@@ -306,11 +302,7 @@
         "espn": "4374302",
         "pfr": "StxxAm00"
       },
-      "injury": {
-        "practiceStatus": "Limited Participation in Practice",
-        "primary": "Rib",
-        "reportStatus": "Questionable"
-      },
+      "injury": null,
       "jersey": 14,
       "lastName": "St. Brown",
       "position": "WR",
@@ -489,7 +481,7 @@
       "position": "TE",
       "positionGroup": "TE",
       "rookieYear": 2025,
-      "status": "INA",
+      "status": "DEV",
       "weightLb": 235,
       "yearsExp": 1
     },
@@ -743,7 +735,7 @@
       "position": "C",
       "positionGroup": "OL",
       "rookieYear": 2025,
-      "status": "INA",
+      "status": "ACT",
       "weightLb": 305,
       "yearsExp": 1
     },
@@ -845,7 +837,11 @@
         "espn": null,
         "pfr": null
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Did Not Participate In Practice",
+        "primary": null,
+        "reportStatus": null
+      },
       "jersey": 71,
       "lastName": "Frazier",
       "position": "G",
@@ -1137,6 +1133,37 @@
       "yearsExp": 1
     },
     {
+      "birthDate": "1999-11-10",
+      "college": "Oklahoma State",
+      "depthChartPosition": "DE",
+      "draft": {
+        "club": "JAX",
+        "overall": 130,
+        "year": 2023
+      },
+      "firstName": "Tyler",
+      "fullName": "Tyler Lacy",
+      "gsisId": "00-0038940",
+      "heightIn": 76,
+      "ids": {
+        "espn": "4361861",
+        "pfr": "LacyTy00"
+      },
+      "injury": {
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Shoulder",
+        "reportStatus": "Questionable"
+      },
+      "jersey": 93,
+      "lastName": "Lacy",
+      "position": "DE",
+      "positionGroup": "DL",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 300,
+      "yearsExp": 3
+    },
+    {
       "birthDate": "2003-04-17",
       "college": "LSU; Missouri",
       "depthChartPosition": "DT",
@@ -1159,7 +1186,7 @@
       "position": "DT",
       "positionGroup": "DL",
       "rookieYear": 2024,
-      "status": "INA",
+      "status": "ACT",
       "weightLb": 282,
       "yearsExp": 2
     },
@@ -1209,7 +1236,7 @@
       "position": "DE",
       "positionGroup": "DL",
       "rookieYear": 2022,
-      "status": "DEV",
+      "status": "CUT",
       "weightLb": 293,
       "yearsExp": 4
     },
@@ -1253,7 +1280,11 @@
         "espn": "4036507",
         "pfr": "BachJo01"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Knee",
+        "reportStatus": "Questionable"
+      },
       "jersey": 35,
       "lastName": "Bachie",
       "position": "LB",
@@ -1262,6 +1293,29 @@
       "status": "ACT",
       "weightLb": 235,
       "yearsExp": 6
+    },
+    {
+      "birthDate": "1998-11-07",
+      "college": "Saginaw Valley State",
+      "depthChartPosition": "OLB",
+      "draft": null,
+      "firstName": "Trevor",
+      "fullName": "Trevor Nowaske",
+      "gsisId": "00-0038660",
+      "heightIn": 75,
+      "ids": {
+        "espn": "5144894",
+        "pfr": "NowaTr00"
+      },
+      "injury": null,
+      "jersey": 53,
+      "lastName": "Nowaske",
+      "position": "LB",
+      "positionGroup": "EDGE",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 235,
+      "yearsExp": 3
     },
     {
       "birthDate": "2004-10-08",
@@ -1310,6 +1364,29 @@
       "yearsExp": 0
     },
     {
+      "birthDate": "1999-12-08",
+      "college": "Mississippi State",
+      "depthChartPosition": "OLB",
+      "draft": null,
+      "firstName": "Tyrus",
+      "fullName": "Tyrus Wheat",
+      "gsisId": "00-0038742",
+      "heightIn": 74,
+      "ids": {
+        "espn": "4689333",
+        "pfr": "WheaTy02"
+      },
+      "injury": null,
+      "jersey": 90,
+      "lastName": "Wheat",
+      "position": "LB",
+      "positionGroup": "EDGE",
+      "rookieYear": 2023,
+      "status": "ACT",
+      "weightLb": 260,
+      "yearsExp": 3
+    },
+    {
       "birthDate": "1999-01-07",
       "college": "Houston",
       "depthChartPosition": "DE",
@@ -1337,33 +1414,6 @@
       "yearsExp": 5
     },
     {
-      "birthDate": "1999-11-10",
-      "college": "Oklahoma State",
-      "depthChartPosition": "DE",
-      "draft": {
-        "club": "JAX",
-        "overall": 130,
-        "year": 2023
-      },
-      "firstName": "Tyler",
-      "fullName": "Tyler Lacy",
-      "gsisId": "00-0038940",
-      "heightIn": 76,
-      "ids": {
-        "espn": "4361861",
-        "pfr": "LacyTy00"
-      },
-      "injury": null,
-      "jersey": 93,
-      "lastName": "Lacy",
-      "position": "DE",
-      "positionGroup": "EDGE",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 300,
-      "yearsExp": 3
-    },
-    {
       "birthDate": "2000-08-09",
       "college": "Michigan",
       "depthChartPosition": "DE",
@@ -1386,7 +1436,7 @@
       "position": "DE",
       "positionGroup": "EDGE",
       "rookieYear": 2022,
-      "status": "ACT",
+      "status": "RES",
       "weightLb": 265,
       "yearsExp": 4
     },
@@ -1407,11 +1457,7 @@
         "espn": "4038849",
         "pfr": "WonnDJ00"
       },
-      "injury": {
-        "practiceStatus": "Did Not Participate In Practice",
-        "primary": "Concussion",
-        "reportStatus": "Out"
-      },
+      "injury": null,
       "jersey": 98,
       "lastName": "Wonnum",
       "position": "DE",
@@ -1444,7 +1490,7 @@
       "position": "DE",
       "positionGroup": "EDGE",
       "rookieYear": 2025,
-      "status": "INA",
+      "status": "ACT",
       "weightLb": 275,
       "yearsExp": 1
     },
@@ -1600,17 +1646,13 @@
         "espn": "4569465",
         "pfr": "CampJa04"
       },
-      "injury": {
-        "practiceStatus": "Did Not Participate In Practice",
-        "primary": "Neck",
-        "reportStatus": "Out"
-      },
+      "injury": null,
       "jersey": 46,
       "lastName": "Campbell",
       "position": "LB",
       "positionGroup": "LB",
       "rookieYear": 2023,
-      "status": "ACT",
+      "status": "RES",
       "weightLb": 243,
       "yearsExp": 3
     },
@@ -1681,11 +1723,7 @@
         "espn": "4038432",
         "pfr": "OgboAm00"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 57,
       "lastName": "Ogbongbemiga",
       "position": "LB",
@@ -1713,9 +1751,9 @@
         "pfr": "RakeEn00"
       },
       "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Shoulder",
+        "reportStatus": "Questionable"
       },
       "jersey": 2,
       "lastName": "Rakestraw",
@@ -1744,9 +1782,9 @@
         "pfr": "ReedD.00"
       },
       "injury": {
-        "practiceStatus": "Did Not Participate In Practice",
+        "practiceStatus": "Limited Participation in Practice",
         "primary": "Hip",
-        "reportStatus": "Out"
+        "reportStatus": "Questionable"
       },
       "jersey": 4,
       "lastName": "Reed",
@@ -1774,11 +1812,7 @@
         "espn": "4371973",
         "pfr": "McCrRo01"
       },
-      "injury": {
-        "practiceStatus": "Limited Participation in Practice",
-        "primary": "Foot",
-        "reportStatus": "Questionable"
-      },
+      "injury": null,
       "jersey": 21,
       "lastName": "McCreary",
       "position": "CB",
@@ -1805,11 +1839,7 @@
         "espn": "3910229",
         "pfr": "Ya-SRo00"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 23,
       "lastName": "Ya-Sin",
       "position": "CB",
@@ -1855,7 +1885,11 @@
         "espn": "4027919",
         "pfr": "DorsKh00"
       },
-      "injury": null,
+      "injury": {
+        "practiceStatus": "Limited Participation in Practice",
+        "primary": "Ankle",
+        "reportStatus": "Questionable"
+      },
       "jersey": 30,
       "lastName": "Dorsey",
       "position": "CB",
@@ -1886,29 +1920,6 @@
       "rookieYear": 2023,
       "status": "DEV",
       "weightLb": 200,
-      "yearsExp": 3
-    },
-    {
-      "birthDate": "1998-11-07",
-      "college": "Saginaw Valley State",
-      "depthChartPosition": "OLB",
-      "draft": null,
-      "firstName": "Trevor",
-      "fullName": "Trevor Nowaske",
-      "gsisId": "00-0038660",
-      "heightIn": 75,
-      "ids": {
-        "espn": "5144894",
-        "pfr": "NowaTr00"
-      },
-      "injury": null,
-      "jersey": 53,
-      "lastName": "Nowaske",
-      "position": "LB",
-      "positionGroup": "CB",
-      "rookieYear": 2023,
-      "status": "ACT",
-      "weightLb": 235,
       "yearsExp": 3
     },
     {
@@ -2008,6 +2019,33 @@
       "yearsExp": 0
     },
     {
+      "birthDate": "2000-03-23",
+      "college": "Syracuse",
+      "depthChartPosition": "SS",
+      "draft": {
+        "club": "JAX",
+        "overall": 65,
+        "year": 2021
+      },
+      "firstName": "Andre",
+      "fullName": "Andre Cisco",
+      "gsisId": "00-0036941",
+      "heightIn": 72,
+      "ids": {
+        "espn": "4361939",
+        "pfr": "CiscAn00"
+      },
+      "injury": null,
+      "jersey": 28,
+      "lastName": "Cisco",
+      "position": "SAF",
+      "positionGroup": "S",
+      "rookieYear": 2021,
+      "status": "ACT",
+      "weightLb": 210,
+      "yearsExp": 5
+    },
+    {
       "birthDate": "1996-03-31",
       "college": "Pittsburgh",
       "depthChartPosition": "FS",
@@ -2052,16 +2090,16 @@
         "pfr": "JoseKe03"
       },
       "injury": {
-        "practiceStatus": "Limited Participation in Practice",
-        "primary": "Knee",
-        "reportStatus": "Out"
+        "practiceStatus": "Full Participation in Practice",
+        "primary": null,
+        "reportStatus": null
       },
       "jersey": 31,
       "lastName": "Joseph",
       "position": "SAF",
       "positionGroup": "S",
       "rookieYear": 2022,
-      "status": "RES",
+      "status": "ACT",
       "weightLb": 210,
       "yearsExp": 4
     },
@@ -2082,11 +2120,7 @@
         "espn": "4692025",
         "pfr": "BranBr00"
       },
-      "injury": {
-        "practiceStatus": "Full Participation in Practice",
-        "primary": null,
-        "reportStatus": null
-      },
+      "injury": null,
       "jersey": 32,
       "lastName": "Branch",
       "position": "CB",
@@ -2095,29 +2129,6 @@
       "status": "ACT",
       "weightLb": 203,
       "yearsExp": 3
-    },
-    {
-      "birthDate": "2003-07-14",
-      "college": "USC; N.C. State; Coffeyville CC",
-      "depthChartPosition": "SS",
-      "draft": null,
-      "firstName": "Bishop",
-      "fullName": "Bishop Fitzgerald",
-      "gsisId": "00-0040914",
-      "heightIn": 71,
-      "ids": {
-        "espn": null,
-        "pfr": null
-      },
-      "injury": null,
-      "jersey": 34,
-      "lastName": "Fitzgerald",
-      "position": "SAF",
-      "positionGroup": "S",
-      "rookieYear": 2026,
-      "status": "INA",
-      "weightLb": 201,
-      "yearsExp": 0
     },
     {
       "birthDate": "1995-04-19",
@@ -2218,5 +2229,5 @@
   ],
   "season": 2026,
   "team": "DET",
-  "week": 9
+  "week": 11
 }
