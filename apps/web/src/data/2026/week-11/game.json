@@ -1,0 +1,32 @@
+{
+  "away": {
+    "score": 21,
+    "team": "TB"
+  },
+  "gameId": "2026_11_TB_DET",
+  "home": {
+    "score": 31,
+    "team": "DET"
+  },
+  "kickoffUtc": "2026-11-22T18:00:00Z",
+  "line": {
+    "spread": 3.5,
+    "total": 48.5
+  },
+  "overtime": false,
+  "season": 2026,
+  "team": {
+    "opponent": "TB",
+    "result": "W",
+    "side": "home"
+  },
+  "tier": "provisional",
+  "venue": {
+    "roof": "dome",
+    "stadium": "Ford Field",
+    "surface": "",
+    "temp": null,
+    "wind": null
+  },
+  "week": 11
+}

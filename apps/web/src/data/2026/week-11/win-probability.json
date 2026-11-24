@@ -1,0 +1,1447 @@
+{
+  "gameId": "2026_11_TB_DET",
+  "points": [
+    {
+      "oppScore": 0,
+      "playId": 40,
+      "qtr": 1,
+      "secondsRemaining": 3600,
+      "teamScore": 0,
+      "teamWp": 0.566,
+      "vegasTeamWp": 0.618
+    },
+    {
+      "oppScore": 0,
+      "playId": 57,
+      "qtr": 1,
+      "secondsRemaining": 3600,
+      "teamScore": 0,
+      "teamWp": 0.551,
+      "vegasTeamWp": 0.61
+    },
+    {
+      "oppScore": 0,
+      "playId": 94,
+      "qtr": 1,
+      "secondsRemaining": 3552,
+      "teamScore": 0,
+      "teamWp": 0.596,
+      "vegasTeamWp": 0.648
+    },
+    {
+      "oppScore": 0,
+      "playId": 119,
+      "qtr": 1,
+      "secondsRemaining": 3508,
+      "teamScore": 0,
+      "teamWp": 0.595,
+      "vegasTeamWp": 0.634
+    },
+    {
+      "oppScore": 0,
+      "playId": 141,
+      "qtr": 1,
+      "secondsRemaining": 3478,
+      "teamScore": 0,
+      "teamWp": 0.617,
+      "vegasTeamWp": 0.65
+    },
+    {
+      "oppScore": 0,
+      "playId": 167,
+      "qtr": 1,
+      "secondsRemaining": 3466,
+      "teamScore": 0,
+      "teamWp": 0.603,
+      "vegasTeamWp": 0.636
+    },
+    {
+      "oppScore": 0,
+      "playId": 200,
+      "qtr": 1,
+      "secondsRemaining": 3462,
+      "teamScore": 0,
+      "teamWp": 0.593,
+      "vegasTeamWp": 0.624
+    },
+    {
+      "oppScore": 0,
+      "playId": 230,
+      "qtr": 1,
+      "secondsRemaining": 3421,
+      "teamScore": 0,
+      "teamWp": 0.683,
+      "vegasTeamWp": 0.694
+    },
+    {
+      "oppScore": 0,
+      "playId": 253,
+      "qtr": 1,
+      "secondsRemaining": 3417,
+      "teamScore": 0,
+      "teamWp": 0.672,
+      "vegasTeamWp": 0.683
+    },
+    {
+      "oppScore": 0,
+      "playId": 275,
+      "qtr": 1,
+      "secondsRemaining": 3373,
+      "teamScore": 0,
+      "teamWp": 0.667,
+      "vegasTeamWp": 0.679
+    },
+    {
+      "oppScore": 0,
+      "playId": 298,
+      "qtr": 1,
+      "secondsRemaining": 3369,
+      "teamScore": 0,
+      "teamWp": 0.63,
+      "vegasTeamWp": 0.652
+    },
+    {
+      "oppScore": 0,
+      "playId": 319,
+      "qtr": 1,
+      "secondsRemaining": 3364,
+      "teamScore": 0,
+      "teamWp": 0.538,
+      "vegasTeamWp": 0.592
+    },
+    {
+      "oppScore": 0,
+      "playId": 348,
+      "qtr": 1,
+      "secondsRemaining": 3326,
+      "teamScore": 0,
+      "teamWp": 0.556,
+      "vegasTeamWp": 0.601
+    },
+    {
+      "oppScore": 0,
+      "playId": 370,
+      "qtr": 1,
+      "secondsRemaining": 3287,
+      "teamScore": 0,
+      "teamWp": 0.52,
+      "vegasTeamWp": 0.569
+    },
+    {
+      "oppScore": 0,
+      "playId": 392,
+      "qtr": 1,
+      "secondsRemaining": 3245,
+      "teamScore": 0,
+      "teamWp": 0.503,
+      "vegasTeamWp": 0.57
+    },
+    {
+      "oppScore": 0,
+      "playId": 414,
+      "qtr": 1,
+      "secondsRemaining": 3201,
+      "teamScore": 0,
+      "teamWp": 0.506,
+      "vegasTeamWp": 0.576
+    },
+    {
+      "oppScore": 0,
+      "playId": 444,
+      "qtr": 1,
+      "secondsRemaining": 3161,
+      "teamScore": 0,
+      "teamWp": 0.468,
+      "vegasTeamWp": 0.545
+    },
+    {
+      "oppScore": 0,
+      "playId": 466,
+      "qtr": 1,
+      "secondsRemaining": 3116,
+      "teamScore": 0,
+      "teamWp": 0.483,
+      "vegasTeamWp": 0.557
+    },
+    {
+      "oppScore": 0,
+      "playId": 496,
+      "qtr": 1,
+      "secondsRemaining": 3079,
+      "teamScore": 0,
+      "teamWp": 0.469,
+      "vegasTeamWp": 0.553
+    },
+    {
+      "oppScore": 0,
+      "playId": 521,
+      "qtr": 1,
+      "secondsRemaining": 3033,
+      "teamScore": 0,
+      "teamWp": 0.431,
+      "vegasTeamWp": 0.518
+    },
+    {
+      "oppScore": 0,
+      "playId": 548,
+      "qtr": 1,
+      "secondsRemaining": 2996,
+      "teamScore": 0,
+      "teamWp": 0.447,
+      "vegasTeamWp": 0.523
+    },
+    {
+      "oppScore": 0,
+      "playId": 584,
+      "qtr": 1,
+      "secondsRemaining": 2969,
+      "teamScore": 0,
+      "teamWp": 0.42,
+      "vegasTeamWp": 0.505
+    },
+    {
+      "oppScore": 0,
+      "playId": 606,
+      "qtr": 1,
+      "secondsRemaining": 2927,
+      "teamScore": 0,
+      "teamWp": 0.422,
+      "vegasTeamWp": 0.518
+    },
+    {
+      "oppScore": 0,
+      "playId": 628,
+      "qtr": 1,
+      "secondsRemaining": 2885,
+      "teamScore": 0,
+      "teamWp": 0.462,
+      "vegasTeamWp": 0.545
+    },
+    {
+      "oppScore": 0,
+      "playId": 652,
+      "qtr": 1,
+      "secondsRemaining": 2879,
+      "teamScore": 0,
+      "teamWp": 0.596,
+      "vegasTeamWp": 0.626
+    },
+    {
+      "oppScore": 0,
+      "playId": 681,
+      "qtr": 1,
+      "secondsRemaining": 2838,
+      "teamScore": 0,
+      "teamWp": 0.586,
+      "vegasTeamWp": 0.627
+    },
+    {
+      "oppScore": 0,
+      "playId": 711,
+      "qtr": 1,
+      "secondsRemaining": 2804,
+      "teamScore": 0,
+      "teamWp": 0.586,
+      "vegasTeamWp": 0.62
+    },
+    {
+      "oppScore": 0,
+      "playId": 733,
+      "qtr": 1,
+      "secondsRemaining": 2760,
+      "teamScore": 0,
+      "teamWp": 0.593,
+      "vegasTeamWp": 0.637
+    },
+    {
+      "oppScore": 0,
+      "playId": 756,
+      "qtr": 1,
+      "secondsRemaining": 2753,
+      "teamScore": 0,
+      "teamWp": 0.582,
+      "vegasTeamWp": 0.624
+    },
+    {
+      "oppScore": 0,
+      "playId": 781,
+      "qtr": 1,
+      "secondsRemaining": 2712,
+      "teamScore": 0,
+      "teamWp": 0.627,
+      "vegasTeamWp": 0.657
+    },
+    {
+      "oppScore": 0,
+      "playId": 806,
+      "qtr": 1,
+      "secondsRemaining": 2700,
+      "teamScore": 0,
+      "teamWp": 0.635,
+      "vegasTeamWp": 0.672
+    },
+    {
+      "oppScore": 0,
+      "playId": 826,
+      "qtr": 2,
+      "secondsRemaining": 2700,
+      "teamScore": 0,
+      "teamWp": 0.635,
+      "vegasTeamWp": 0.672
+    },
+    {
+      "oppScore": 0,
+      "playId": 856,
+      "qtr": 2,
+      "secondsRemaining": 2669,
+      "teamScore": 0,
+      "teamWp": 0.687,
+      "vegasTeamWp": 0.698
+    },
+    {
+      "oppScore": 0,
+      "playId": 881,
+      "qtr": 2,
+      "secondsRemaining": 2628,
+      "teamScore": 0,
+      "teamWp": 0.703,
+      "vegasTeamWp": 0.708
+    },
+    {
+      "oppScore": 0,
+      "playId": 903,
+      "qtr": 2,
+      "secondsRemaining": 2591,
+      "teamScore": 0,
+      "teamWp": 0.685,
+      "vegasTeamWp": 0.698
+    },
+    {
+      "oppScore": 0,
+      "playId": 925,
+      "qtr": 2,
+      "secondsRemaining": 2549,
+      "teamScore": 0,
+      "teamWp": 0.703,
+      "vegasTeamWp": 0.716
+    },
+    {
+      "oppScore": 0,
+      "playId": 950,
+      "qtr": 2,
+      "secondsRemaining": 2515,
+      "teamScore": 0,
+      "teamWp": 0.696,
+      "vegasTeamWp": 0.716
+    },
+    {
+      "oppScore": 0,
+      "playId": 975,
+      "qtr": 2,
+      "secondsRemaining": 2478,
+      "teamScore": 0,
+      "teamWp": 0.701,
+      "vegasTeamWp": 0.716
+    },
+    {
+      "oppScore": 0,
+      "playId": 997,
+      "qtr": 2,
+      "secondsRemaining": 2441,
+      "teamScore": 6,
+      "teamWp": 0.709,
+      "vegasTeamWp": 0.734
+    },
+    {
+      "oppScore": 0,
+      "playId": 1023,
+      "qtr": 2,
+      "secondsRemaining": 2437,
+      "teamScore": 7,
+      "teamWp": 0.755,
+      "vegasTeamWp": 0.768
+    },
+    {
+      "oppScore": 0,
+      "playId": 1043,
+      "qtr": 2,
+      "secondsRemaining": 2437,
+      "teamScore": 7,
+      "teamWp": 0.756,
+      "vegasTeamWp": 0.769
+    },
+    {
+      "oppScore": 0,
+      "playId": 1073,
+      "qtr": 2,
+      "secondsRemaining": 2432,
+      "teamScore": 7,
+      "teamWp": 0.761,
+      "vegasTeamWp": 0.78
+    },
+    {
+      "oppScore": 0,
+      "playId": 1105,
+      "qtr": 2,
+      "secondsRemaining": 2432,
+      "teamScore": 7,
+      "teamWp": 0.78,
+      "vegasTeamWp": 0.791
+    },
+    {
+      "oppScore": 0,
+      "playId": 1128,
+      "qtr": 2,
+      "secondsRemaining": 2428,
+      "teamScore": 7,
+      "teamWp": 0.79,
+      "vegasTeamWp": 0.801
+    },
+    {
+      "oppScore": 0,
+      "playId": 1153,
+      "qtr": 2,
+      "secondsRemaining": 2385,
+      "teamScore": 7,
+      "teamWp": 0.767,
+      "vegasTeamWp": 0.788
+    },
+    {
+      "oppScore": 0,
+      "playId": 1183,
+      "qtr": 2,
+      "secondsRemaining": 2345,
+      "teamScore": 7,
+      "teamWp": 0.74,
+      "vegasTeamWp": 0.764
+    },
+    {
+      "oppScore": 0,
+      "playId": 1210,
+      "qtr": 2,
+      "secondsRemaining": 2303,
+      "teamScore": 7,
+      "teamWp": 0.726,
+      "vegasTeamWp": 0.752
+    },
+    {
+      "oppScore": 0,
+      "playId": 1232,
+      "qtr": 2,
+      "secondsRemaining": 2259,
+      "teamScore": 7,
+      "teamWp": 0.741,
+      "vegasTeamWp": 0.772
+    },
+    {
+      "oppScore": 0,
+      "playId": 1257,
+      "qtr": 2,
+      "secondsRemaining": 2218,
+      "teamScore": 7,
+      "teamWp": 0.725,
+      "vegasTeamWp": 0.752
+    },
+    {
+      "oppScore": 0,
+      "playId": 1279,
+      "qtr": 2,
+      "secondsRemaining": 2174,
+      "teamScore": 7,
+      "teamWp": 0.732,
+      "vegasTeamWp": 0.755
+    },
+    {
+      "oppScore": 0,
+      "playId": 1302,
+      "qtr": 2,
+      "secondsRemaining": 2170,
+      "teamScore": 7,
+      "teamWp": 0.748,
+      "vegasTeamWp": 0.77
+    },
+    {
+      "oppScore": 0,
+      "playId": 1326,
+      "qtr": 2,
+      "secondsRemaining": 2170,
+      "teamScore": 7,
+      "teamWp": 0.765,
+      "vegasTeamWp": 0.783
+    },
+    {
+      "oppScore": 0,
+      "playId": 1346,
+      "qtr": 2,
+      "secondsRemaining": 2140,
+      "teamScore": 7,
+      "teamWp": 0.804,
+      "vegasTeamWp": 0.826
+    },
+    {
+      "oppScore": 0,
+      "playId": 1374,
+      "qtr": 2,
+      "secondsRemaining": 2136,
+      "teamScore": 7,
+      "teamWp": 0.822,
+      "vegasTeamWp": 0.831
+    },
+    {
+      "oppScore": 0,
+      "playId": 1411,
+      "qtr": 2,
+      "secondsRemaining": 2126,
+      "teamScore": 7,
+      "teamWp": 0.781,
+      "vegasTeamWp": 0.801
+    },
+    {
+      "oppScore": 0,
+      "playId": 1446,
+      "qtr": 2,
+      "secondsRemaining": 2077,
+      "teamScore": 7,
+      "teamWp": 0.811,
+      "vegasTeamWp": 0.819
+    },
+    {
+      "oppScore": 0,
+      "playId": 1471,
+      "qtr": 2,
+      "secondsRemaining": 2038,
+      "teamScore": 7,
+      "teamWp": 0.814,
+      "vegasTeamWp": 0.822
+    },
+    {
+      "oppScore": 0,
+      "playId": 1496,
+      "qtr": 2,
+      "secondsRemaining": 1990,
+      "teamScore": 7,
+      "teamWp": 0.854,
+      "vegasTeamWp": 0.856
+    },
+    {
+      "oppScore": 0,
+      "playId": 1520,
+      "qtr": 2,
+      "secondsRemaining": 1974,
+      "teamScore": 7,
+      "teamWp": 0.845,
+      "vegasTeamWp": 0.845
+    },
+    {
+      "oppScore": 0,
+      "playId": 1545,
+      "qtr": 2,
+      "secondsRemaining": 1931,
+      "teamScore": 7,
+      "teamWp": 0.83,
+      "vegasTeamWp": 0.831
+    },
+    {
+      "oppScore": 0,
+      "playId": 1570,
+      "qtr": 2,
+      "secondsRemaining": 1920,
+      "teamScore": 7,
+      "teamWp": 0.827,
+      "vegasTeamWp": 0.836
+    },
+    {
+      "oppScore": 0,
+      "playId": 1600,
+      "qtr": 2,
+      "secondsRemaining": 1913,
+      "teamScore": 10,
+      "teamWp": 0.808,
+      "vegasTeamWp": 0.817
+    },
+    {
+      "oppScore": 0,
+      "playId": 1620,
+      "qtr": 2,
+      "secondsRemaining": 1908,
+      "teamScore": 10,
+      "teamWp": 0.825,
+      "vegasTeamWp": 0.847
+    },
+    {
+      "oppScore": 0,
+      "playId": 1644,
+      "qtr": 2,
+      "secondsRemaining": 1908,
+      "teamScore": 10,
+      "teamWp": 0.825,
+      "vegasTeamWp": 0.843
+    },
+    {
+      "oppScore": 0,
+      "playId": 1669,
+      "qtr": 2,
+      "secondsRemaining": 1871,
+      "teamScore": 10,
+      "teamWp": 0.838,
+      "vegasTeamWp": 0.851
+    },
+    {
+      "oppScore": 0,
+      "playId": 1692,
+      "qtr": 2,
+      "secondsRemaining": 1867,
+      "teamScore": 10,
+      "teamWp": 0.852,
+      "vegasTeamWp": 0.862
+    },
+    {
+      "oppScore": 0,
+      "playId": 1714,
+      "qtr": 2,
+      "secondsRemaining": 1859,
+      "teamScore": 10,
+      "teamWp": 0.811,
+      "vegasTeamWp": 0.833
+    },
+    {
+      "oppScore": 0,
+      "playId": 1746,
+      "qtr": 2,
+      "secondsRemaining": 1836,
+      "teamScore": 10,
+      "teamWp": 0.809,
+      "vegasTeamWp": 0.821
+    },
+    {
+      "oppScore": 0,
+      "playId": 1769,
+      "qtr": 2,
+      "secondsRemaining": 1830,
+      "teamScore": 10,
+      "teamWp": 0.819,
+      "vegasTeamWp": 0.831
+    },
+    {
+      "oppScore": 0,
+      "playId": 1792,
+      "qtr": 2,
+      "secondsRemaining": 1820,
+      "teamScore": 10,
+      "teamWp": 0.846,
+      "vegasTeamWp": 0.838
+    },
+    {
+      "oppScore": 0,
+      "playId": 1829,
+      "qtr": 2,
+      "secondsRemaining": 1814,
+      "teamScore": 10,
+      "teamWp": 0.775,
+      "vegasTeamWp": 0.795
+    },
+    {
+      "oppScore": 6,
+      "playId": 1852,
+      "qtr": 2,
+      "secondsRemaining": 1810,
+      "teamScore": 10,
+      "teamWp": 0.787,
+      "vegasTeamWp": 0.805
+    },
+    {
+      "oppScore": 7,
+      "playId": 1878,
+      "qtr": 2,
+      "secondsRemaining": 1804,
+      "teamScore": 10,
+      "teamWp": 0.736,
+      "vegasTeamWp": 0.705
+    },
+    {
+      "oppScore": 7,
+      "playId": 1893,
+      "qtr": 2,
+      "secondsRemaining": 1804,
+      "teamScore": 10,
+      "teamWp": 0.735,
+      "vegasTeamWp": 0.703
+    },
+    {
+      "oppScore": 7,
+      "playId": 1921,
+      "qtr": 2,
+      "secondsRemaining": 1804,
+      "teamScore": 10,
+      "teamWp": 0.735,
+      "vegasTeamWp": 0.703
+    },
+    {
+      "oppScore": 7,
+      "playId": 1963,
+      "qtr": 3,
+      "secondsRemaining": 1800,
+      "teamScore": 10,
+      "teamWp": 0.684,
+      "vegasTeamWp": 0.702
+    },
+    {
+      "oppScore": 7,
+      "playId": 1986,
+      "qtr": 3,
+      "secondsRemaining": 1795,
+      "teamScore": 10,
+      "teamWp": 0.684,
+      "vegasTeamWp": 0.701
+    },
+    {
+      "oppScore": 7,
+      "playId": 2011,
+      "qtr": 3,
+      "secondsRemaining": 1755,
+      "teamScore": 10,
+      "teamWp": 0.707,
+      "vegasTeamWp": 0.71
+    },
+    {
+      "oppScore": 7,
+      "playId": 2033,
+      "qtr": 3,
+      "secondsRemaining": 1715,
+      "teamScore": 10,
+      "teamWp": 0.692,
+      "vegasTeamWp": 0.699
+    },
+    {
+      "oppScore": 7,
+      "playId": 2056,
+      "qtr": 3,
+      "secondsRemaining": 1710,
+      "teamScore": 10,
+      "teamWp": 0.651,
+      "vegasTeamWp": 0.665
+    },
+    {
+      "oppScore": 7,
+      "playId": 2080,
+      "qtr": 3,
+      "secondsRemaining": 1710,
+      "teamScore": 10,
+      "teamWp": 0.636,
+      "vegasTeamWp": 0.651
+    },
+    {
+      "oppScore": 7,
+      "playId": 2098,
+      "qtr": 3,
+      "secondsRemaining": 1701,
+      "teamScore": 10,
+      "teamWp": 0.639,
+      "vegasTeamWp": 0.671
+    },
+    {
+      "oppScore": 7,
+      "playId": 2144,
+      "qtr": 3,
+      "secondsRemaining": 1687,
+      "teamScore": 10,
+      "teamWp": 0.672,
+      "vegasTeamWp": 0.702
+    },
+    {
+      "oppScore": 7,
+      "playId": 2166,
+      "qtr": 3,
+      "secondsRemaining": 1645,
+      "teamScore": 10,
+      "teamWp": 0.68,
+      "vegasTeamWp": 0.707
+    },
+    {
+      "oppScore": 7,
+      "playId": 2189,
+      "qtr": 3,
+      "secondsRemaining": 1642,
+      "teamScore": 10,
+      "teamWp": 0.711,
+      "vegasTeamWp": 0.726
+    },
+    {
+      "oppScore": 7,
+      "playId": 2225,
+      "qtr": 3,
+      "secondsRemaining": 1631,
+      "teamScore": 10,
+      "teamWp": 0.685,
+      "vegasTeamWp": 0.707
+    },
+    {
+      "oppScore": 7,
+      "playId": 2245,
+      "qtr": 3,
+      "secondsRemaining": 1616,
+      "teamScore": 10,
+      "teamWp": 0.674,
+      "vegasTeamWp": 0.684
+    },
+    {
+      "oppScore": 7,
+      "playId": 2276,
+      "qtr": 3,
+      "secondsRemaining": 1577,
+      "teamScore": 10,
+      "teamWp": 0.69,
+      "vegasTeamWp": 0.699
+    },
+    {
+      "oppScore": 7,
+      "playId": 2299,
+      "qtr": 3,
+      "secondsRemaining": 1572,
+      "teamScore": 10,
+      "teamWp": 0.674,
+      "vegasTeamWp": 0.684
+    },
+    {
+      "oppScore": 7,
+      "playId": 2321,
+      "qtr": 3,
+      "secondsRemaining": 1533,
+      "teamScore": 10,
+      "teamWp": 0.656,
+      "vegasTeamWp": 0.672
+    },
+    {
+      "oppScore": 7,
+      "playId": 2343,
+      "qtr": 3,
+      "secondsRemaining": 1488,
+      "teamScore": 10,
+      "teamWp": 0.714,
+      "vegasTeamWp": 0.719
+    },
+    {
+      "oppScore": 7,
+      "playId": 2365,
+      "qtr": 3,
+      "secondsRemaining": 1450,
+      "teamScore": 16,
+      "teamWp": 0.731,
+      "vegasTeamWp": 0.719
+    },
+    {
+      "oppScore": 7,
+      "playId": 2391,
+      "qtr": 3,
+      "secondsRemaining": 1441,
+      "teamScore": 17,
+      "teamWp": 0.832,
+      "vegasTeamWp": 0.85
+    },
+    {
+      "oppScore": 7,
+      "playId": 2406,
+      "qtr": 3,
+      "secondsRemaining": 1441,
+      "teamScore": 17,
+      "teamWp": 0.833,
+      "vegasTeamWp": 0.851
+    },
+    {
+      "oppScore": 7,
+      "playId": 2436,
+      "qtr": 3,
+      "secondsRemaining": 1436,
+      "teamScore": 17,
+      "teamWp": 0.833,
+      "vegasTeamWp": 0.852
+    },
+    {
+      "oppScore": 7,
+      "playId": 2458,
+      "qtr": 3,
+      "secondsRemaining": 1391,
+      "teamScore": 17,
+      "teamWp": 0.842,
+      "vegasTeamWp": 0.859
+    },
+    {
+      "oppScore": 7,
+      "playId": 2480,
+      "qtr": 3,
+      "secondsRemaining": 1345,
+      "teamScore": 17,
+      "teamWp": 0.823,
+      "vegasTeamWp": 0.851
+    },
+    {
+      "oppScore": 7,
+      "playId": 2518,
+      "qtr": 3,
+      "secondsRemaining": 1338,
+      "teamScore": 17,
+      "teamWp": 0.838,
+      "vegasTeamWp": 0.862
+    },
+    {
+      "oppScore": 7,
+      "playId": 2550,
+      "qtr": 3,
+      "secondsRemaining": 1297,
+      "teamScore": 17,
+      "teamWp": 0.809,
+      "vegasTeamWp": 0.844
+    },
+    {
+      "oppScore": 7,
+      "playId": 2572,
+      "qtr": 3,
+      "secondsRemaining": 1257,
+      "teamScore": 17,
+      "teamWp": 0.825,
+      "vegasTeamWp": 0.853
+    },
+    {
+      "oppScore": 7,
+      "playId": 2602,
+      "qtr": 3,
+      "secondsRemaining": 1241,
+      "teamScore": 17,
+      "teamWp": 0.822,
+      "vegasTeamWp": 0.849
+    },
+    {
+      "oppScore": 7,
+      "playId": 2624,
+      "qtr": 3,
+      "secondsRemaining": 1200,
+      "teamScore": 17,
+      "teamWp": 0.792,
+      "vegasTeamWp": 0.842
+    },
+    {
+      "oppScore": 7,
+      "playId": 2654,
+      "qtr": 3,
+      "secondsRemaining": 1159,
+      "teamScore": 17,
+      "teamWp": 0.739,
+      "vegasTeamWp": 0.801
+    },
+    {
+      "oppScore": 7,
+      "playId": 2684,
+      "qtr": 3,
+      "secondsRemaining": 1154,
+      "teamScore": 17,
+      "teamWp": 0.754,
+      "vegasTeamWp": 0.813
+    },
+    {
+      "oppScore": 7,
+      "playId": 2709,
+      "qtr": 3,
+      "secondsRemaining": 1105,
+      "teamScore": 17,
+      "teamWp": 0.737,
+      "vegasTeamWp": 0.802
+    },
+    {
+      "oppScore": 13,
+      "playId": 2731,
+      "qtr": 3,
+      "secondsRemaining": 1063,
+      "teamScore": 17,
+      "teamWp": 0.706,
+      "vegasTeamWp": 0.763
+    },
+    {
+      "oppScore": 14,
+      "playId": 2758,
+      "qtr": 3,
+      "secondsRemaining": 1061,
+      "teamScore": 17,
+      "teamWp": 0.73,
+      "vegasTeamWp": 0.741
+    },
+    {
+      "oppScore": 14,
+      "playId": 2773,
+      "qtr": 3,
+      "secondsRemaining": 1061,
+      "teamScore": 17,
+      "teamWp": 0.729,
+      "vegasTeamWp": 0.74
+    },
+    {
+      "oppScore": 14,
+      "playId": 2814,
+      "qtr": 3,
+      "secondsRemaining": 1057,
+      "teamScore": 17,
+      "teamWp": 0.712,
+      "vegasTeamWp": 0.711
+    },
+    {
+      "oppScore": 14,
+      "playId": 2839,
+      "qtr": 3,
+      "secondsRemaining": 1017,
+      "teamScore": 17,
+      "teamWp": 0.727,
+      "vegasTeamWp": 0.736
+    },
+    {
+      "oppScore": 14,
+      "playId": 2861,
+      "qtr": 3,
+      "secondsRemaining": 975,
+      "teamScore": 17,
+      "teamWp": 0.73,
+      "vegasTeamWp": 0.743
+    },
+    {
+      "oppScore": 14,
+      "playId": 2891,
+      "qtr": 3,
+      "secondsRemaining": 938,
+      "teamScore": 17,
+      "teamWp": 0.738,
+      "vegasTeamWp": 0.735
+    },
+    {
+      "oppScore": 14,
+      "playId": 2918,
+      "qtr": 3,
+      "secondsRemaining": 900,
+      "teamScore": 17,
+      "teamWp": 0.744,
+      "vegasTeamWp": 0.759
+    },
+    {
+      "oppScore": 14,
+      "playId": 2938,
+      "qtr": 4,
+      "secondsRemaining": 900,
+      "teamScore": 17,
+      "teamWp": 0.744,
+      "vegasTeamWp": 0.759
+    },
+    {
+      "oppScore": 14,
+      "playId": 2960,
+      "qtr": 4,
+      "secondsRemaining": 862,
+      "teamScore": 17,
+      "teamWp": 0.759,
+      "vegasTeamWp": 0.761
+    },
+    {
+      "oppScore": 14,
+      "playId": 2980,
+      "qtr": 4,
+      "secondsRemaining": 814,
+      "teamScore": 17,
+      "teamWp": 0.726,
+      "vegasTeamWp": 0.735
+    },
+    {
+      "oppScore": 14,
+      "playId": 3003,
+      "qtr": 4,
+      "secondsRemaining": 810,
+      "teamScore": 17,
+      "teamWp": 0.684,
+      "vegasTeamWp": 0.695
+    },
+    {
+      "oppScore": 14,
+      "playId": 3023,
+      "qtr": 4,
+      "secondsRemaining": 803,
+      "teamScore": 17,
+      "teamWp": 0.673,
+      "vegasTeamWp": 0.726
+    },
+    {
+      "oppScore": 14,
+      "playId": 3052,
+      "qtr": 4,
+      "secondsRemaining": 764,
+      "teamScore": 17,
+      "teamWp": 0.657,
+      "vegasTeamWp": 0.706
+    },
+    {
+      "oppScore": 14,
+      "playId": 3074,
+      "qtr": 4,
+      "secondsRemaining": 715,
+      "teamScore": 17,
+      "teamWp": 0.669,
+      "vegasTeamWp": 0.704
+    },
+    {
+      "oppScore": 14,
+      "playId": 3098,
+      "qtr": 4,
+      "secondsRemaining": 715,
+      "teamScore": 17,
+      "teamWp": 0.699,
+      "vegasTeamWp": 0.723
+    },
+    {
+      "oppScore": 14,
+      "playId": 3120,
+      "qtr": 4,
+      "secondsRemaining": 674,
+      "teamScore": 17,
+      "teamWp": 0.716,
+      "vegasTeamWp": 0.731
+    },
+    {
+      "oppScore": 14,
+      "playId": 3142,
+      "qtr": 4,
+      "secondsRemaining": 628,
+      "teamScore": 17,
+      "teamWp": 0.739,
+      "vegasTeamWp": 0.748
+    },
+    {
+      "oppScore": 14,
+      "playId": 3165,
+      "qtr": 4,
+      "secondsRemaining": 624,
+      "teamScore": 17,
+      "teamWp": 0.772,
+      "vegasTeamWp": 0.784
+    },
+    {
+      "oppScore": 14,
+      "playId": 3184,
+      "qtr": 4,
+      "secondsRemaining": 616,
+      "teamScore": 17,
+      "teamWp": 0.795,
+      "vegasTeamWp": 0.78
+    },
+    {
+      "oppScore": 14,
+      "playId": 3213,
+      "qtr": 4,
+      "secondsRemaining": 582,
+      "teamScore": 17,
+      "teamWp": 0.78,
+      "vegasTeamWp": 0.774
+    },
+    {
+      "oppScore": 14,
+      "playId": 3238,
+      "qtr": 4,
+      "secondsRemaining": 541,
+      "teamScore": 17,
+      "teamWp": 0.796,
+      "vegasTeamWp": 0.776
+    },
+    {
+      "oppScore": 14,
+      "playId": 3268,
+      "qtr": 4,
+      "secondsRemaining": 505,
+      "teamScore": 17,
+      "teamWp": 0.821,
+      "vegasTeamWp": 0.817
+    },
+    {
+      "oppScore": 14,
+      "playId": 3290,
+      "qtr": 4,
+      "secondsRemaining": 473,
+      "teamScore": 17,
+      "teamWp": 0.843,
+      "vegasTeamWp": 0.816
+    },
+    {
+      "oppScore": 14,
+      "playId": 3326,
+      "qtr": 4,
+      "secondsRemaining": 446,
+      "teamScore": 17,
+      "teamWp": 0.872,
+      "vegasTeamWp": 0.859
+    },
+    {
+      "oppScore": 14,
+      "playId": 3348,
+      "qtr": 4,
+      "secondsRemaining": 416,
+      "teamScore": 17,
+      "teamWp": 0.893,
+      "vegasTeamWp": 0.884
+    },
+    {
+      "oppScore": 14,
+      "playId": 3375,
+      "qtr": 4,
+      "secondsRemaining": 371,
+      "teamScore": 17,
+      "teamWp": 0.895,
+      "vegasTeamWp": 0.891
+    },
+    {
+      "oppScore": 14,
+      "playId": 3404,
+      "qtr": 4,
+      "secondsRemaining": 327,
+      "teamScore": 23,
+      "teamWp": 0.911,
+      "vegasTeamWp": 0.908
+    },
+    {
+      "oppScore": 14,
+      "playId": 3441,
+      "qtr": 4,
+      "secondsRemaining": 324,
+      "teamScore": 24,
+      "teamWp": 0.936,
+      "vegasTeamWp": 0.937
+    },
+    {
+      "oppScore": 14,
+      "playId": 3456,
+      "qtr": 4,
+      "secondsRemaining": 324,
+      "teamScore": 24,
+      "teamWp": 0.936,
+      "vegasTeamWp": 0.939
+    },
+    {
+      "oppScore": 14,
+      "playId": 3474,
+      "qtr": 4,
+      "secondsRemaining": 324,
+      "teamScore": 24,
+      "teamWp": 0.936,
+      "vegasTeamWp": 0.935
+    },
+    {
+      "oppScore": 14,
+      "playId": 3499,
+      "qtr": 4,
+      "secondsRemaining": 302,
+      "teamScore": 24,
+      "teamWp": 0.931,
+      "vegasTeamWp": 0.927
+    },
+    {
+      "oppScore": 14,
+      "playId": 3522,
+      "qtr": 4,
+      "secondsRemaining": 297,
+      "teamScore": 24,
+      "teamWp": 0.941,
+      "vegasTeamWp": 0.934
+    },
+    {
+      "oppScore": 14,
+      "playId": 3544,
+      "qtr": 4,
+      "secondsRemaining": 252,
+      "teamScore": 24,
+      "teamWp": 0.945,
+      "vegasTeamWp": 0.943
+    },
+    {
+      "oppScore": 14,
+      "playId": 3564,
+      "qtr": 4,
+      "secondsRemaining": 203,
+      "teamScore": 24,
+      "teamWp": 0.971,
+      "vegasTeamWp": 0.972
+    },
+    {
+      "oppScore": 14,
+      "playId": 3584,
+      "qtr": 4,
+      "secondsRemaining": 196,
+      "teamScore": 24,
+      "teamWp": 0.991,
+      "vegasTeamWp": 0.992
+    },
+    {
+      "oppScore": 14,
+      "playId": 3606,
+      "qtr": 4,
+      "secondsRemaining": 191,
+      "teamScore": 24,
+      "teamWp": 0.988,
+      "vegasTeamWp": 0.991
+    },
+    {
+      "oppScore": 14,
+      "playId": 3635,
+      "qtr": 4,
+      "secondsRemaining": 178,
+      "teamScore": 24,
+      "teamWp": 0.993,
+      "vegasTeamWp": 0.998
+    },
+    {
+      "oppScore": 14,
+      "playId": 3675,
+      "qtr": 4,
+      "secondsRemaining": 172,
+      "teamScore": 24,
+      "teamWp": 0.993,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3699,
+      "qtr": 4,
+      "secondsRemaining": 128,
+      "teamScore": 24,
+      "teamWp": 0.997,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3721,
+      "qtr": 4,
+      "secondsRemaining": 120,
+      "teamScore": 30,
+      "teamWp": 0.997,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3753,
+      "qtr": 4,
+      "secondsRemaining": 115,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3768,
+      "qtr": 4,
+      "secondsRemaining": 115,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3785,
+      "qtr": 4,
+      "secondsRemaining": 115,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3810,
+      "qtr": 4,
+      "secondsRemaining": 95,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3835,
+      "qtr": 4,
+      "secondsRemaining": 71,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3869,
+      "qtr": 4,
+      "secondsRemaining": 66,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3892,
+      "qtr": 4,
+      "secondsRemaining": 60,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 14,
+      "playId": 3926,
+      "qtr": 4,
+      "secondsRemaining": 55,
+      "teamScore": 31,
+      "teamWp": 0.999,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3948,
+      "qtr": 4,
+      "secondsRemaining": 30,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 14,
+      "playId": 3973,
+      "qtr": 4,
+      "secondsRemaining": 14,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 20,
+      "playId": 3996,
+      "qtr": 4,
+      "secondsRemaining": 13,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 0.999
+    },
+    {
+      "oppScore": 21,
+      "playId": 4022,
+      "qtr": 4,
+      "secondsRemaining": 8,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 21,
+      "playId": 4037,
+      "qtr": 4,
+      "secondsRemaining": 8,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 1
+    },
+    {
+      "oppScore": 21,
+      "playId": 4060,
+      "qtr": 4,
+      "secondsRemaining": 7,
+      "teamScore": 31,
+      "teamWp": 0.998,
+      "vegasTeamWp": 1
+    }
+  ],
+  "season": 2026,
+  "week": 11
+}

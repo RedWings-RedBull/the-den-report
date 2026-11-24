@@ -1,0 +1,118 @@
+{
+  "gameId": "2026_11_TB_DET",
+  "opponent": {
+    "epaPerPlay": {
+      "leaguePercentile": 71.154,
+      "leagueRank": 8,
+      "n": 64,
+      "value": 0.065
+    },
+    "explosiveRate": {
+      "leaguePercentile": 17.308,
+      "leagueRank": 22,
+      "n": 64,
+      "value": 0.063
+    },
+    "fourthDown": {
+      "att": 2,
+      "conv": 0
+    },
+    "passEpaPerDropback": {
+      "leaguePercentile": 71.154,
+      "leagueRank": 8,
+      "n": 42,
+      "value": 0.147
+    },
+    "penalties": {
+      "count": 8,
+      "yards": 58
+    },
+    "rushEpaPerAtt": {
+      "leaguePercentile": 32.692,
+      "leagueRank": 18,
+      "n": 22,
+      "value": -0.09
+    },
+    "sackRate": {
+      "leaguePercentile": 25,
+      "leagueRank": 20,
+      "n": 42,
+      "value": 0.095
+    },
+    "successRate": {
+      "leaguePercentile": 63.462,
+      "leagueRank": 10,
+      "n": 64,
+      "value": 0.469
+    },
+    "thirdDownRate": {
+      "leaguePercentile": 80.769,
+      "leagueRank": 5,
+      "n": 14,
+      "value": 0.571
+    },
+    "turnovers": 0
+  },
+  "season": 2026,
+  "team": {
+    "epaPerPlay": {
+      "leaguePercentile": 90.385,
+      "leagueRank": 3,
+      "n": 56,
+      "value": 0.287
+    },
+    "explosiveRate": {
+      "leaguePercentile": 82.692,
+      "leagueRank": 5,
+      "n": 56,
+      "value": 0.107
+    },
+    "fourthDown": {
+      "att": 0,
+      "conv": 0
+    },
+    "passEpaPerDropback": {
+      "leaguePercentile": 82.692,
+      "leagueRank": 5,
+      "n": 30,
+      "value": 0.34
+    },
+    "penalties": {
+      "count": 8,
+      "yards": 72
+    },
+    "rushEpaPerAtt": {
+      "leaguePercentile": 94.231,
+      "leagueRank": 2,
+      "n": 26,
+      "value": 0.227
+    },
+    "sackRate": {
+      "leaguePercentile": 75,
+      "leagueRank": 7,
+      "n": 30,
+      "value": 0.033
+    },
+    "successRate": {
+      "leaguePercentile": 94.231,
+      "leagueRank": 2,
+      "n": 56,
+      "value": 0.607
+    },
+    "thirdDownRate": {
+      "leaguePercentile": 86.538,
+      "leagueRank": 4,
+      "n": 11,
+      "value": 0.636
+    },
+    "turnovers": 0
+  },
+  "teamGrade": {
+    "defense": 28.846,
+    "offense": 90.385,
+    "overall": 59.231,
+    "specialTeams": 55.769
+  },
+  "tier": "provisional",
+  "week": 11
+}

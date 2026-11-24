@@ -220,7 +220,7 @@
       "away": {
         "l": 2,
         "t": 0,
-        "w": 1
+        "w": 2
       },
       "division": {
         "l": 0,
@@ -230,12 +230,12 @@
       "favorite": {
         "l": 1,
         "t": 0,
-        "w": 5
+        "w": 8
       },
       "home": {
         "l": 0,
         "t": 0,
-        "w": 4
+        "w": 6
       },
       "oneScore": {
         "l": 1,
@@ -250,7 +250,7 @@
       "regular": {
         "l": 2,
         "t": 0,
-        "w": 5
+        "w": 8
       },
       "season": 2026,
       "underdog": {
@@ -267,19 +267,19 @@
       "decisions": 124,
       "goRate": 0.29,
       "goes": 36,
-      "index": 4.353,
+      "index": 4.352,
       "leagueGoRate": 0.18,
       "rank": 5,
       "season": 2021
     },
     {
-      "conversions": 19,
-      "decisions": 111,
-      "goRate": 0.297,
-      "goes": 33,
-      "index": 7.442,
+      "conversions": 18,
+      "decisions": 110,
+      "goRate": 0.291,
+      "goes": 32,
+      "index": 6.4,
       "leagueGoRate": 0.157,
-      "rank": 2,
+      "rank": 4,
       "season": 2022
     },
     {
@@ -287,7 +287,7 @@
       "decisions": 114,
       "goRate": 0.325,
       "goes": 37,
-      "index": 11.189,
+      "index": 11.185,
       "leagueGoRate": 0.163,
       "rank": 1,
       "season": 2023
@@ -297,7 +297,7 @@
       "decisions": 96,
       "goRate": 0.292,
       "goes": 28,
-      "index": 11.721,
+      "index": 11.709,
       "leagueGoRate": 0.172,
       "rank": 1,
       "season": 2024
@@ -307,212 +307,212 @@
       "decisions": 110,
       "goRate": 0.255,
       "goes": 28,
-      "index": 4.985,
+      "index": 4.997,
       "leagueGoRate": 0.2,
       "rank": 3,
       "season": 2025
     },
     {
-      "conversions": 7,
-      "decisions": 45,
-      "goRate": 0.244,
-      "goes": 11,
-      "index": 4.223,
-      "leagueGoRate": 0.17,
-      "rank": 5,
+      "conversions": 11,
+      "decisions": 62,
+      "goRate": 0.242,
+      "goes": 15,
+      "index": 8.609,
+      "leagueGoRate": 0.167,
+      "rank": 1,
       "season": 2026
     }
   ],
   "league": [
     {
-      "goRate": 0.243,
-      "index": 6.12,
+      "goRate": 0.242,
+      "index": 8.609,
       "rank": 1,
+      "team": "DET"
+    },
+    {
+      "goRate": 0.237,
+      "index": 7.847,
+      "rank": 2,
       "team": "BUF"
     },
     {
-      "goRate": 0.224,
-      "index": 5.294,
-      "rank": 2,
-      "team": "GB"
-    },
-    {
-      "goRate": 0.245,
-      "index": 5.233,
+      "goRate": 0.243,
+      "index": 5.666,
       "rank": 3,
       "team": "CAR"
     },
     {
-      "goRate": 0.193,
-      "index": 4.916,
+      "goRate": 0.208,
+      "index": 5.312,
       "rank": 4,
+      "team": "GB"
+    },
+    {
+      "goRate": 0.162,
+      "index": 4.467,
+      "rank": 5,
       "team": "PHI"
     },
     {
-      "goRate": 0.244,
-      "index": 4.223,
-      "rank": 5,
-      "team": "DET"
-    },
-    {
-      "goRate": 0.2,
-      "index": 3.32,
+      "goRate": 0.194,
+      "index": 2.956,
       "rank": 6,
       "team": "MIA"
     },
     {
-      "goRate": 0.213,
-      "index": 2.907,
+      "goRate": 0.132,
+      "index": 2.445,
       "rank": 7,
-      "team": "NE"
-    },
-    {
-      "goRate": 0.105,
-      "index": 2.632,
-      "rank": 8,
       "team": "PIT"
     },
     {
-      "goRate": 0.105,
-      "index": 2.326,
-      "rank": 9,
-      "team": "JAX"
+      "goRate": 0.167,
+      "index": 1.577,
+      "rank": 8,
+      "team": "NE"
     },
     {
-      "goRate": 0.218,
-      "index": 0.882,
+      "goRate": 0.22,
+      "index": 1.298,
+      "rank": 9,
+      "team": "LA"
+    },
+    {
+      "goRate": 0.258,
+      "index": 0.602,
       "rank": 10,
+      "team": "CHI"
+    },
+    {
+      "goRate": 0.178,
+      "index": 0.478,
+      "rank": 11,
       "team": "LV"
     },
     {
-      "goRate": 0.229,
-      "index": 0.877,
-      "rank": 11,
-      "team": "NO"
-    },
-    {
-      "goRate": 0.222,
-      "index": 0.796,
+      "goRate": 0.238,
+      "index": 0.068,
       "rank": 12,
       "team": "DAL"
     },
     {
-      "goRate": 0.14,
-      "index": 0.612,
+      "goRate": 0.208,
+      "index": -0.023,
       "rank": 13,
-      "team": "NYG"
+      "team": "SF"
     },
     {
-      "goRate": 0.2,
-      "index": 0.143,
+      "goRate": 0.132,
+      "index": -0.213,
       "rank": 14,
-      "team": "LA"
-    },
-    {
-      "goRate": 0.291,
-      "index": 0.092,
-      "rank": 15,
-      "team": "CHI"
-    },
-    {
-      "goRate": 0.107,
-      "index": 0,
-      "rank": 16,
       "team": "MIN"
     },
     {
       "goRate": 0.2,
-      "index": -0.367,
+      "index": -0.234,
+      "rank": 15,
+      "team": "KC"
+    },
+    {
+      "goRate": 0.133,
+      "index": -0.4,
+      "rank": 16,
+      "team": "JAX"
+    },
+    {
+      "goRate": 0.178,
+      "index": -0.486,
       "rank": 17,
-      "team": "SF"
-    },
-    {
-      "goRate": 0.148,
-      "index": -0.5,
-      "rank": 18,
-      "team": "CLE"
-    },
-    {
-      "goRate": 0.146,
-      "index": -0.713,
-      "rank": 19,
       "team": "LAC"
     },
     {
-      "goRate": 0.111,
-      "index": -0.857,
+      "goRate": 0.229,
+      "index": -0.49,
+      "rank": 18,
+      "team": "NO"
+    },
+    {
+      "goRate": 0.141,
+      "index": -0.724,
+      "rank": 19,
+      "team": "NYG"
+    },
+    {
+      "goRate": 0.135,
+      "index": -0.754,
       "rank": 20,
       "team": "CIN"
     },
     {
-      "goRate": 0.143,
-      "index": -1.01,
+      "goRate": 0.158,
+      "index": -1.335,
       "rank": 21,
       "team": "BAL"
     },
     {
-      "goRate": 0.213,
-      "index": -1.089,
+      "goRate": 0.143,
+      "index": -1.479,
       "rank": 22,
-      "team": "KC"
+      "team": "CLE"
     },
     {
-      "goRate": 0.185,
-      "index": -2.086,
+      "goRate": 0.198,
+      "index": -2.156,
       "rank": 23,
-      "team": "ATL"
-    },
-    {
-      "goRate": 0.13,
-      "index": -2.127,
-      "rank": 24,
-      "team": "TEN"
-    },
-    {
-      "goRate": 0.232,
-      "index": -2.205,
-      "rank": 25,
       "team": "IND"
     },
     {
-      "goRate": 0.155,
-      "index": -2.468,
-      "rank": 26,
-      "team": "NYJ"
+      "goRate": 0.159,
+      "index": -2.377,
+      "rank": 24,
+      "team": "ATL"
     },
     {
-      "goRate": 0.127,
-      "index": -2.754,
+      "goRate": 0.082,
+      "index": -2.58,
+      "rank": 25,
+      "team": "DEN"
+    },
+    {
+      "goRate": 0.136,
+      "index": -2.667,
+      "rank": 26,
+      "team": "TEN"
+    },
+    {
+      "goRate": 0.108,
+      "index": -2.761,
       "rank": 27,
       "team": "SEA"
     },
     {
-      "goRate": 0.07,
-      "index": -3.182,
+      "goRate": 0.141,
+      "index": -3.267,
       "rank": 28,
+      "team": "NYJ"
+    },
+    {
+      "goRate": 0.097,
+      "index": -3.486,
+      "rank": 29,
       "team": "TB"
     },
     {
-      "goRate": 0.081,
-      "index": -3.335,
-      "rank": 29,
-      "team": "DEN"
-    },
-    {
-      "goRate": 0.143,
-      "index": -4.192,
+      "goRate": 0.165,
+      "index": -3.946,
       "rank": 30,
       "team": "ARI"
     },
     {
-      "goRate": 0.118,
-      "index": -4.392,
+      "goRate": 0.1,
+      "index": -4.113,
       "rank": 31,
       "team": "HOU"
     },
     {
-      "goRate": 0.111,
-      "index": -4.865,
+      "goRate": 0.095,
+      "index": -4.255,
       "rank": 32,
       "team": "WAS"
     }
@@ -521,14 +521,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.45,
+        "goWp": 0.451,
         "puntWp": 0.478,
         "recommended": "punt"
       },
       "clock": "13:08",
       "decision": "punt",
       "desc": "(13:08) 3-J.Fox punts 56 yards to NO 20, Center-49-H.Hatten. 19-B.Brown to NO 23 for 3 yards (53-T.Nowaske; 30-K.Dorsey).",
-      "epa": 0.373,
+      "epa": 0.121,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -545,14 +545,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.679,
-        "puntWp": 0.714,
+        "goWp": 0.68,
+        "puntWp": 0.715,
         "recommended": "punt"
       },
       "clock": "13:47",
       "decision": "punt",
       "desc": "(13:47) 3-J.Fox punts 45 yards to NO 13, Center-49-H.Hatten, fair catch by 19-B.Brown.",
-      "epa": 0.356,
+      "epa": -0.052,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -569,14 +569,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.68,
+        "goWp": 0.679,
         "puntWp": 0.697,
         "recommended": "punt"
       },
       "clock": "09:31",
       "decision": "punt",
       "desc": "(9:31) 3-J.Fox punts 56 yards to NO 12, Center-49-H.Hatten. 19-B.Brown to NO 14 for 2 yards (17-T.Martin).",
-      "epa": 0.551,
+      "epa": 0.159,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -594,13 +594,13 @@
       "calc": {
         "fgWp": null,
         "goWp": 0.71,
-        "puntWp": 0.726,
+        "puntWp": 0.725,
         "recommended": "punt"
       },
       "clock": "03:21",
       "decision": "punt",
       "desc": "(3:21) 3-J.Fox punts 47 yards to NO 14, Center-49-H.Hatten. 19-B.Brown to NO 14 for no gain (17-T.Martin).",
-      "epa": 0.178,
+      "epa": -0.003,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -617,14 +617,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.96,
-        "puntWp": 0.96,
-        "recommended": "punt"
+        "goWp": 0.961,
+        "puntWp": 0.961,
+        "recommended": "go"
       },
       "clock": "03:34",
       "decision": "punt",
       "desc": "(3:34) 3-J.Fox punts 45 yards to NO 30, Center-49-H.Hatten. 19-B.Brown to NO 46 for 16 yards (30-K.Dorsey).",
-      "epa": -1.206,
+      "epa": -1.072,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -641,14 +641,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.821,
-        "puntWp": 0.636,
+        "goWp": 0.82,
+        "puntWp": 0.638,
         "recommended": "go"
       },
       "clock": "13:12",
       "decision": "punt",
       "desc": "(13:12) 3-J.Fox punts 31 yards to NO 24, Center-49-H.Hatten, downed by DET-35-J.Bachie.",
-      "epa": -0.788,
+      "epa": -0.885,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -665,14 +665,14 @@
     {
       "calc": {
         "fgWp": 0.889,
-        "goWp": 0.869,
-        "puntWp": 0.774,
+        "goWp": 0.868,
+        "puntWp": 0.773,
         "recommended": "fg"
       },
       "clock": "02:35",
       "decision": "fg",
       "desc": "(2:35) 39-J.Bates 23 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.026,
+      "epa": 0.041,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -682,21 +682,21 @@
       "scoreDiff": 4,
       "week": 1,
       "wpPre": 0.868,
-      "wpa": 0.015,
+      "wpa": 0.005,
       "yardline100": 5,
       "ydstogo": 5
     },
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.529,
-        "puntWp": 0.501,
+        "goWp": 0.54,
+        "puntWp": 0.46,
         "recommended": "go"
       },
       "clock": "00:37",
       "decision": "punt",
       "desc": "(:37) 3-J.Fox punts 56 yards to end zone, Center-49-H.Hatten, Touchback.",
-      "epa": -0.58,
+      "epa": -0.491,
       "forced": false,
       "gameId": "2026_01_NO_DET",
       "opponent": "NO",
@@ -720,7 +720,7 @@
       "clock": "07:16",
       "decision": "punt",
       "desc": "(7:16) 3-J.Fox punts 49 yards to BUF 21, Center-49-H.Hatten, fair catch by 19-G.Dortch.",
-      "epa": 0.599,
+      "epa": 0.162,
       "forced": false,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -744,7 +744,7 @@
       "clock": "01:09",
       "decision": "punt",
       "desc": "(1:09) 3-J.Fox punts 44 yards to BUF 18, Center-49-H.Hatten. 19-G.Dortch pushed ob at BUF 43 for 25 yards (55-D.Barnes).",
-      "epa": -1.486,
+      "epa": -1.407,
       "forced": false,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -768,7 +768,7 @@
       "clock": "01:51",
       "decision": "punt",
       "desc": "(1:51) 3-J.Fox punts 62 yards to BUF 7, Center-49-H.Hatten. 19-G.Dortch to BUF 18 for 11 yards (53-T.Nowaske; 17-T.Martin).",
-      "epa": 0.254,
+      "epa": -0.016,
       "forced": false,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -784,15 +784,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.052,
-        "goWp": 0.072,
+        "fgWp": 0.053,
+        "goWp": 0.073,
         "puntWp": 0.045,
         "recommended": "go"
       },
       "clock": "11:40",
       "decision": "go",
       "desc": "(11:40) (Shotgun) 16-J.Goff pass short middle to 87-S.LaPorta to BUF 22 for 18 yards (37-J.Hancock).",
-      "epa": 4.302,
+      "epa": 3.143,
       "forced": false,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -816,7 +816,7 @@
       "clock": "07:36",
       "decision": "punt",
       "desc": "(7:36) 3-J.Fox punts 51 yards to BUF 39, Center-49-H.Hatten. 19-G.Dortch ran ob at BUF 39 for no gain.",
-      "epa": -0.008,
+      "epa": 0.26,
       "forced": false,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -840,7 +840,7 @@
       "clock": "02:12",
       "decision": "go",
       "desc": "(2:12) (Shotgun) 16-J.Goff pass deep left to 18-I.TeSlaa pushed ob at DET 44 for 20 yards (47-C.Benford).",
-      "epa": 2.934,
+      "epa": 2.425,
       "forced": true,
       "gameId": "2026_02_DET_BUF",
       "opponent": "BUF",
@@ -857,14 +857,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.464,
-        "puntWp": 0.495,
+        "goWp": 0.465,
+        "puntWp": 0.494,
         "recommended": "punt"
       },
       "clock": "08:21",
       "decision": "punt",
       "desc": "(8:21) 3-J.Fox punts 43 yards to NYJ 9, Center-49-H.Hatten, downed by DET-17-T.Martin.",
-      "epa": 0.216,
+      "epa": -0.185,
       "forced": false,
       "gameId": "2026_03_NYJ_DET",
       "opponent": "NYJ",
@@ -882,13 +882,13 @@
       "calc": {
         "fgWp": null,
         "goWp": 0.438,
-        "puntWp": 0.501,
+        "puntWp": 0.5,
         "recommended": "punt"
       },
       "clock": "00:23",
       "decision": "punt",
       "desc": "(:23) 3-J.Fox punts 42 yards to NYJ 20, Center-49-H.Hatten, fair catch by 18-I.Williams.",
-      "epa": 0.019,
+      "epa": -0.412,
       "forced": false,
       "gameId": "2026_03_NYJ_DET",
       "opponent": "NYJ",
@@ -904,15 +904,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.574,
-        "goWp": 0.545,
+        "fgWp": 0.575,
+        "goWp": 0.548,
         "puntWp": 0.49,
         "recommended": "fg"
       },
       "clock": "09:38",
       "decision": "fg",
       "desc": "(9:38) 39-J.Bates 30 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.122,
+      "epa": 0.084,
       "forced": false,
       "gameId": "2026_03_NYJ_DET",
       "opponent": "NYJ",
@@ -928,7 +928,7 @@
     },
     {
       "calc": {
-        "fgWp": 0.399,
+        "fgWp": 0.4,
         "goWp": 0.438,
         "puntWp": 0.342,
         "recommended": "go"
@@ -936,7 +936,7 @@
       "clock": "01:47",
       "decision": "go",
       "desc": "(1:47) (Shotgun) 16-J.Goff pass short left to 18-I.TeSlaa to NYJ 4 for 5 yards (8-A.Cisco).",
-      "epa": 2.674,
+      "epa": 2.206,
       "forced": false,
       "gameId": "2026_03_NYJ_DET",
       "opponent": "NYJ",
@@ -952,15 +952,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.854,
-        "goWp": 0.873,
-        "puntWp": 0.651,
-        "recommended": "go"
+        "fgWp": 0.895,
+        "goWp": 0.879,
+        "puntWp": 0.649,
+        "recommended": "fg"
       },
       "clock": "08:37",
       "decision": "go",
       "desc": "(8:37) 0-J.Gibbs left tackle to NYJ 45 for no gain (52-K.Enagbare). Penalty on DET, Illegal Formation, declined.",
-      "epa": -3.541,
+      "epa": -2.975,
       "forced": false,
       "gameId": "2026_03_NYJ_DET",
       "opponent": "NYJ",
@@ -976,15 +976,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.535,
-        "goWp": 0.508,
-        "puntWp": 0.477,
+        "fgWp": 0.534,
+        "goWp": 0.509,
+        "puntWp": 0.476,
         "recommended": "fg"
       },
       "clock": "12:09",
       "decision": "fg",
       "desc": "(12:09) 39-J.Bates 54 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 2.086,
+      "epa": 1.339,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -994,7 +994,7 @@
       "scoreDiff": 0,
       "week": 4,
       "wpPre": 0.417,
-      "wpa": 0.067,
+      "wpa": 0.058,
       "yardline100": 36,
       "ydstogo": 12
     },
@@ -1002,13 +1002,13 @@
       "calc": {
         "fgWp": null,
         "goWp": 0.513,
-        "puntWp": 0.53,
+        "puntWp": 0.529,
         "recommended": "punt"
       },
       "clock": "05:59",
       "decision": "punt",
       "desc": "(5:59) 3-J.Fox punts 47 yards to CAR 38, Center-49-H.Hatten, out of bounds. PENALTY on CAR-38-R.Rochell, Offensive Holding, 10 yards, enforced at CAR 38. Penalty on CAR-27-I.Simmons, Offensive Holding, declined.",
-      "epa": 0.698,
+      "epa": 0.636,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1025,14 +1025,14 @@
     {
       "calc": {
         "fgWp": 0.472,
-        "goWp": 0.406,
+        "goWp": 0.405,
         "puntWp": 0.352,
         "recommended": "fg"
       },
       "clock": "12:41",
       "decision": "fg",
       "desc": "(12:41) 39-J.Bates 43 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.844,
+      "epa": 0.647,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1042,21 +1042,21 @@
       "scoreDiff": -4,
       "week": 4,
       "wpPre": 0.321,
-      "wpa": 0.01,
+      "wpa": 0.002,
       "yardline100": 25,
       "ydstogo": 7
     },
     {
       "calc": {
         "fgWp": 0.336,
-        "goWp": 0.162,
+        "goWp": 0.167,
         "puntWp": 0.244,
         "recommended": "fg"
       },
       "clock": "06:24",
       "decision": "fg",
       "desc": "(6:24) 39-J.Bates 26 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.084,
+      "epa": 0.05,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1066,7 +1066,7 @@
       "scoreDiff": -6,
       "week": 4,
       "wpPre": 0.333,
-      "wpa": -0.039,
+      "wpa": -0.046,
       "yardline100": 8,
       "ydstogo": 6
     },
@@ -1074,13 +1074,13 @@
       "calc": {
         "fgWp": 0.105,
         "goWp": 0.124,
-        "puntWp": 0.175,
+        "puntWp": 0.177,
         "recommended": "punt"
       },
       "clock": "14:49",
       "decision": "punt",
       "desc": "(14:49) 3-J.Fox punts 34 yards to CAR 14, Center-49-H.Hatten, fair catch by 83-D.Moore.",
-      "epa": 0.26,
+      "epa": -0.313,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1104,7 +1104,7 @@
       "clock": "07:10",
       "decision": "go",
       "desc": "(7:10) (Shotgun) 16-J.Goff pass short right to 14-A.St. Brown to CAR 21 for 4 yards. Lateral to 0-J.Gibbs to CAR 12 for 9 yards (55-D.Lloyd).",
-      "epa": -2.148,
+      "epa": -1.579,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1120,7 +1120,7 @@
     },
     {
       "calc": {
-        "fgWp": 0.062,
+        "fgWp": 0.063,
         "goWp": 0.005,
         "puntWp": 0.001,
         "recommended": "fg"
@@ -1128,7 +1128,7 @@
       "clock": "04:05",
       "decision": "go",
       "desc": "(4:05) (Shotgun) 16-J.Goff pass short right to 87-S.LaPorta to CAR 3 for 7 yards (55-D.Lloyd; 20-Z.Wheatley).",
-      "epa": 3.097,
+      "epa": 3.043,
       "forced": false,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1146,13 +1146,13 @@
       "calc": {
         "fgWp": null,
         "goWp": 0.048,
-        "puntWp": 0.046,
-        "recommended": "go"
+        "puntWp": 0.075,
+        "recommended": "punt"
       },
       "clock": "01:29",
       "decision": "go",
       "desc": "(1:29) (Shotgun) 16-J.Goff pass short middle to 18-I.TeSlaa to DET 22 for 12 yards (22-L.Ransom; 24-W.Lee).",
-      "epa": -2.509,
+      "epa": -1.803,
       "forced": true,
       "gameId": "2026_04_DET_CAR",
       "opponent": "CAR",
@@ -1176,7 +1176,7 @@
       "clock": "13:08",
       "decision": "punt",
       "desc": "(13:08) 3-J.Fox punts 49 yards to ARI 27, Center-49-H.Hatten, fair catch by 81-D.Duvernay.",
-      "epa": 0.414,
+      "epa": 0.007,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1193,14 +1193,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.239,
+        "goWp": 0.238,
         "puntWp": 0.254,
         "recommended": "punt"
       },
       "clock": "03:46",
       "decision": "punt",
       "desc": "(3:46) 3-J.Fox punts 57 yards to ARI 20, Center-49-H.Hatten. 81-D.Duvernay pushed ob at ARI 34 for 14 yards (55-D.Barnes). PENALTY on ARI-35-K.King, Illegal Block Above the Waist, 10 yards, enforced at ARI 28.",
-      "epa": 1.128,
+      "epa": 0.654,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1216,15 +1216,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.307,
-        "goWp": 0.287,
-        "puntWp": 0.292,
+        "fgWp": 0.309,
+        "goWp": 0.288,
+        "puntWp": 0.294,
         "recommended": "fg"
       },
       "clock": "00:28",
       "decision": "punt",
       "desc": "(:28) 3-J.Fox punts 29 yards to ARI 13, Center-49-H.Hatten, fair catch by 81-D.Duvernay.",
-      "epa": -0.343,
+      "epa": -0.413,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1240,15 +1240,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.266,
-        "goWp": 0.294,
+        "fgWp": 0.265,
+        "goWp": 0.293,
         "puntWp": 0.283,
         "recommended": "go"
       },
       "clock": "13:37",
       "decision": "go",
       "desc": "(13:37) (Shotgun) 16-J.Goff pass short middle to 87-S.LaPorta to ARI 35 for 12 yards (29-D.Burke). PENALTY on ARI-1-Ma.Wilson, Unnecessary Roughness, 15 yards, enforced at ARI 35.",
-      "epa": 4.459,
+      "epa": 3.365,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1264,15 +1264,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.538,
-        "goWp": 0.566,
-        "puntWp": 0.487,
+        "fgWp": 0.539,
+        "goWp": 0.565,
+        "puntWp": 0.489,
         "recommended": "go"
       },
       "clock": "09:38",
       "decision": "go",
       "desc": "(9:38) 16-J.Goff pass short right to 87-S.LaPorta for 38 yards, TOUCHDOWN.",
-      "epa": 5.574,
+      "epa": 4.495,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1282,21 +1282,21 @@
       "scoreDiff": 0,
       "week": 5,
       "wpPre": 0.463,
-      "wpa": 0.172,
+      "wpa": 0.164,
       "yardline100": 38,
       "ydstogo": 1
     },
     {
       "calc": {
-        "fgWp": 0.797,
+        "fgWp": 0.796,
         "goWp": 0.738,
-        "puntWp": 0.712,
+        "puntWp": 0.713,
         "recommended": "fg"
       },
       "clock": "04:55",
       "decision": "go",
       "desc": "(4:55) (Shotgun) 16-J.Goff pass short left to 1-J.Williams for 8 yards, TOUCHDOWN.",
-      "epa": 4.04,
+      "epa": 3.822,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1306,21 +1306,21 @@
       "scoreDiff": 7,
       "week": 5,
       "wpPre": 0.759,
-      "wpa": 0.073,
+      "wpa": 0.068,
       "yardline100": 8,
       "ydstogo": 4
     },
     {
       "calc": {
-        "fgWp": 0.912,
-        "goWp": 0.928,
+        "fgWp": 0.911,
+        "goWp": 0.927,
         "puntWp": 0.634,
         "recommended": "go"
       },
       "clock": "00:57",
       "decision": "fg",
       "desc": "(:57) 39-J.Bates 46 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.745,
+      "epa": 0.506,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1330,7 +1330,7 @@
       "scoreDiff": 14,
       "week": 5,
       "wpPre": 0.903,
-      "wpa": 0.002,
+      "wpa": -0.001,
       "yardline100": 27,
       "ydstogo": 7
     },
@@ -1344,7 +1344,7 @@
       "clock": "01:07",
       "decision": "go",
       "desc": "(1:07) 16-J.Goff up the middle for 1 yard, TOUCHDOWN.",
-      "epa": 2.296,
+      "epa": 1.937,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1368,7 +1368,7 @@
       "clock": "00:34",
       "decision": "punt",
       "desc": "(:34) 3-J.Fox punts 65 yards to ARI 2, Center-49-H.Hatten, downed by DET-17-T.Martin.",
-      "epa": 0.121,
+      "epa": 0.377,
       "forced": false,
       "gameId": "2026_05_DET_ARI",
       "opponent": "ARI",
@@ -1384,7 +1384,7 @@
     },
     {
       "calc": {
-        "fgWp": 0.567,
+        "fgWp": 0.568,
         "goWp": 0.541,
         "puntWp": 0.489,
         "recommended": "fg"
@@ -1392,7 +1392,7 @@
       "clock": "12:40",
       "decision": "fg",
       "desc": "(12:40) 39-J.Bates 40 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.76,
+      "epa": 0.268,
       "forced": false,
       "gameId": "2026_07_GB_DET",
       "opponent": "GB",
@@ -1402,7 +1402,7 @@
       "scoreDiff": 0,
       "week": 7,
       "wpPre": 0.641,
-      "wpa": 0.023,
+      "wpa": 0.022,
       "yardline100": 22,
       "ydstogo": 7
     },
@@ -1410,13 +1410,13 @@
       "calc": {
         "fgWp": null,
         "goWp": 0.521,
-        "puntWp": 0.584,
+        "puntWp": 0.582,
         "recommended": "punt"
       },
       "clock": "09:26",
       "decision": "punt",
       "desc": "(9:26) 3-J.Fox punts 62 yards to end zone, Center-49-H.Hatten, Touchback.",
-      "epa": -0.306,
+      "epa": -0.358,
       "forced": false,
       "gameId": "2026_07_GB_DET",
       "opponent": "GB",
@@ -1434,13 +1434,13 @@
       "calc": {
         "fgWp": 0.734,
         "goWp": 0.905,
-        "puntWp": 0.609,
+        "puntWp": 0.608,
         "recommended": "go"
       },
       "clock": "01:09",
       "decision": "go",
       "desc": "(1:09) (Shotgun) 16-J.Goff pass incomplete short middle to 1-J.Williams (2-B.Cisse).",
-      "epa": -2.974,
+      "epa": -1.681,
       "forced": false,
       "gameId": "2026_07_GB_DET",
       "opponent": "GB",
@@ -1457,14 +1457,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.632,
-        "puntWp": 0.636,
+        "goWp": 0.634,
+        "puntWp": 0.638,
         "recommended": "punt"
       },
       "clock": "13:51",
       "decision": "punt",
       "desc": "(13:51) 3-J.Fox punts 42 yards to GB 14, Center-49-H.Hatten, fair catch by 13-C.Owen.",
-      "epa": 0.136,
+      "epa": -0.23,
       "forced": false,
       "gameId": "2026_07_GB_DET",
       "opponent": "GB",
@@ -1481,14 +1481,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.454,
-        "puntWp": 0.447,
+        "goWp": 0.457,
+        "puntWp": 0.407,
         "recommended": "go"
       },
       "clock": "04:53",
       "decision": "go",
       "desc": "(4:53) 0-J.Gibbs up the middle to DET 22 for -2 yards (25-K.Nixon).",
-      "epa": -3.578,
+      "epa": -2.792,
       "forced": false,
       "gameId": "2026_07_GB_DET",
       "opponent": "GB",
@@ -1504,15 +1504,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.474,
+        "fgWp": 0.473,
         "goWp": 0.477,
-        "puntWp": 0.495,
+        "puntWp": 0.494,
         "recommended": "punt"
       },
       "clock": "09:35",
       "decision": "punt",
       "desc": "(9:35) 3-J.Fox punts 39 yards to MIN 10, Center-49-H.Hatten, fair catch by 4-M.Price.",
-      "epa": -0.052,
+      "epa": -0.508,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1529,14 +1529,14 @@
     {
       "calc": {
         "fgWp": 0.565,
-        "goWp": 0.586,
+        "goWp": 0.585,
         "puntWp": 0.484,
         "recommended": "go"
       },
       "clock": "02:21",
       "decision": "fg",
       "desc": "(2:21) 39-J.Bates 25 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": 0.045,
+      "epa": 0.046,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1553,14 +1553,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.32,
-        "puntWp": 0.327,
+        "goWp": 0.319,
+        "puntWp": 0.328,
         "recommended": "punt"
       },
       "clock": "06:45",
       "decision": "punt",
       "desc": "(6:45) 3-J.Fox punts 53 yards to MIN 21, impetus ends at MIN 21, Center-49-H.Hatten. 4-M.Price to MIN 21 for no gain (30-K.Dorsey).",
-      "epa": 0.251,
+      "epa": 0.001,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1576,15 +1576,15 @@
     },
     {
       "calc": {
-        "fgWp": 0.315,
-        "goWp": 0.326,
-        "puntWp": 0.357,
+        "fgWp": 0.314,
+        "goWp": 0.327,
+        "puntWp": 0.358,
         "recommended": "punt"
       },
       "clock": "03:17",
       "decision": "punt",
       "desc": "(3:17) 3-J.Fox punts 40 yards to MIN 10, Center-49-H.Hatten, fair catch by 4-M.Price.",
-      "epa": 0.043,
+      "epa": -0.316,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1602,13 +1602,13 @@
       "calc": {
         "fgWp": 0.52,
         "goWp": 0.519,
-        "puntWp": 0.049,
+        "puntWp": 0.047,
         "recommended": "fg"
       },
       "clock": "09:54",
       "decision": "fg",
       "desc": "(9:54) 39-J.Bates 46 yard field goal is No Good, Hit Left Upright, Center-49-H.Hatten, Holder-3-J.Fox.",
-      "epa": -3.464,
+      "epa": -2.469,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1625,14 +1625,14 @@
     {
       "calc": {
         "fgWp": null,
-        "goWp": 0.652,
+        "goWp": 0.653,
         "puntWp": 0.72,
         "recommended": "punt"
       },
       "clock": "12:48",
       "decision": "punt",
       "desc": "(12:48) 3-J.Fox punts 54 yards to MIN 16, Center-49-H.Hatten, fair catch by 4-M.Price.",
-      "epa": 0.27,
+      "epa": 0.14,
       "forced": false,
       "gameId": "2026_08_MIN_DET",
       "opponent": "MIN",
@@ -1645,6 +1645,414 @@
       "wpa": 0.049,
       "yardline100": 70,
       "ydstogo": 5
+    },
+    {
+      "calc": {
+        "fgWp": 0.546,
+        "goWp": 0.547,
+        "puntWp": 0.476,
+        "recommended": "go"
+      },
+      "clock": "11:36",
+      "decision": "go",
+      "desc": "(11:36) (Shotgun) 16-J.Goff pass short left to 18-I.TeSlaa to MIA 22 for 9 yards (9-J.Uche).",
+      "epa": 2.181,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 238,
+      "qtr": 1,
+      "result": "converted",
+      "scoreDiff": 0,
+      "week": 9,
+      "wpPre": 0.45,
+      "wpa": 0.111,
+      "yardline100": 31,
+      "ydstogo": 3
+    },
+    {
+      "calc": {
+        "fgWp": 0.563,
+        "goWp": 0.526,
+        "puntWp": 0.482,
+        "recommended": "fg"
+      },
+      "clock": "08:25",
+      "decision": "fg",
+      "desc": "(8:25) 39-J.Bates 28 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": 0.067,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 359,
+      "qtr": 1,
+      "result": "made",
+      "scoreDiff": 0,
+      "week": 9,
+      "wpPre": 0.504,
+      "wpa": -0.024,
+      "yardline100": 10,
+      "ydstogo": 10
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.439,
+        "puntWp": 0.489,
+        "recommended": "punt"
+      },
+      "clock": "14:55",
+      "decision": "go",
+      "desc": "(14:55) (Punt formation) 3-J.Fox pass short left to 17-T.Martin to DET 41 for 11 yards (4-J.Marshall).",
+      "epa": 2.507,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 970,
+      "qtr": 2,
+      "result": "converted",
+      "scoreDiff": 0,
+      "week": 9,
+      "wpPre": 0.363,
+      "wpa": 0.098,
+      "yardline100": 70,
+      "ydstogo": 7
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.431,
+        "puntWp": 0.489,
+        "recommended": "punt"
+      },
+      "clock": "12:27",
+      "decision": "punt",
+      "desc": "(12:27) 3-J.Fox punts 54 yards to MIA 11, Center-49-H.Hatten, downed by DET-40-K.Britt. PENALTY on MIA-25-J.Wood, Offensive Holding, 5 yards, enforced at MIA 11.",
+      "epa": 0.71,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 1100,
+      "qtr": 2,
+      "result": "punt 54 yds",
+      "scoreDiff": 0,
+      "week": 9,
+      "wpPre": 0.371,
+      "wpa": 0.057,
+      "yardline100": 65,
+      "ydstogo": 16
+    },
+    {
+      "calc": {
+        "fgWp": 0.573,
+        "goWp": 0.522,
+        "puntWp": 0.486,
+        "recommended": "fg"
+      },
+      "clock": "03:33",
+      "decision": "fg",
+      "desc": "(3:33) 39-J.Bates 40 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": 0.415,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 1608,
+      "qtr": 2,
+      "result": "made",
+      "scoreDiff": 0,
+      "week": 9,
+      "wpPre": 0.492,
+      "wpa": 0.006,
+      "yardline100": 22,
+      "ydstogo": 10
+    },
+    {
+      "calc": {
+        "fgWp": 0.709,
+        "goWp": 0.636,
+        "puntWp": 0.596,
+        "recommended": "fg"
+      },
+      "clock": "09:17",
+      "decision": "fg",
+      "desc": "(9:17) 39-J.Bates 33 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": 0.124,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 2370,
+      "qtr": 3,
+      "result": "made",
+      "scoreDiff": 3,
+      "week": 9,
+      "wpPre": 0.652,
+      "wpa": 0.027,
+      "yardline100": 14,
+      "ydstogo": 10
+    },
+    {
+      "calc": {
+        "fgWp": 0.734,
+        "goWp": 0.877,
+        "puntWp": 0.608,
+        "recommended": "go"
+      },
+      "clock": "01:25",
+      "decision": "go",
+      "desc": "(1:25) 79-L.Borom reported in as eligible. 0-J.Gibbs right end for 8 yards, TOUCHDOWN.",
+      "epa": 2.708,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 2872,
+      "qtr": 3,
+      "result": "touchdown",
+      "scoreDiff": 3,
+      "week": 9,
+      "wpPre": 0.744,
+      "wpa": 0.069,
+      "yardline100": 8,
+      "ydstogo": 1
+    },
+    {
+      "calc": {
+        "fgWp": 0.957,
+        "goWp": 0.915,
+        "puntWp": 0.889,
+        "recommended": "fg"
+      },
+      "clock": "04:31",
+      "decision": "fg",
+      "desc": "(4:31) 39-J.Bates 43 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": 0.596,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 3547,
+      "qtr": 4,
+      "result": "made",
+      "scoreDiff": 7,
+      "week": 9,
+      "wpPre": 0.917,
+      "wpa": 0.008,
+      "yardline100": 25,
+      "ydstogo": 7
+    },
+    {
+      "calc": {
+        "fgWp": 0.996,
+        "goWp": 0.966,
+        "puntWp": 0.967,
+        "recommended": "fg"
+      },
+      "clock": "01:53",
+      "decision": "go",
+      "desc": "(1:53) 16-J.Goff up the middle to MIA 12 for 1 yard (94-J.Phillips).",
+      "epa": 1.001,
+      "forced": false,
+      "gameId": "2026_09_DET_MIA",
+      "opponent": "MIA",
+      "playId": 3830,
+      "qtr": 4,
+      "result": "converted",
+      "scoreDiff": 10,
+      "week": 9,
+      "wpPre": 0.996,
+      "wpa": 0.003,
+      "yardline100": 13,
+      "ydstogo": 1
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.773,
+        "puntWp": 0.802,
+        "recommended": "punt"
+      },
+      "clock": "09:54",
+      "decision": "punt",
+      "desc": "(9:54) 3-J.Fox punts 34 yards to NE 33, Center-49-H.Hatten, out of bounds.",
+      "epa": -0.449,
+      "forced": false,
+      "gameId": "2026_10_NE_DET",
+      "opponent": "NE",
+      "playId": 1301,
+      "qtr": 2,
+      "result": "punt 34 yds",
+      "scoreDiff": 11,
+      "week": 10,
+      "wpPre": 0.854,
+      "wpa": -0.013,
+      "yardline100": 67,
+      "ydstogo": 7
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.925,
+        "puntWp": 0.928,
+        "recommended": "punt"
+      },
+      "clock": "13:51",
+      "decision": "punt",
+      "desc": "(13:51) 3-J.Fox punts 47 yards to NE 18, Center-49-H.Hatten, fair catch by 25-M.Jones.",
+      "epa": 0.232,
+      "forced": false,
+      "gameId": "2026_10_NE_DET",
+      "opponent": "NE",
+      "playId": 2415,
+      "qtr": 3,
+      "result": "punt 47 yds",
+      "scoreDiff": 18,
+      "week": 10,
+      "wpPre": 0.926,
+      "wpa": 0.007,
+      "yardline100": 65,
+      "ydstogo": 2
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.961,
+        "puntWp": 0.966,
+        "recommended": "punt"
+      },
+      "clock": "04:19",
+      "decision": "punt",
+      "desc": "(4:19) 3-J.Fox punts 47 yards to NE 9, Center-49-H.Hatten. 25-M.Jones to NE 13 for 4 yards (53-T.Nowaske).",
+      "epa": 0.367,
+      "forced": false,
+      "gameId": "2026_10_NE_DET",
+      "opponent": "NE",
+      "playId": 3025,
+      "qtr": 3,
+      "result": "punt 47 yds",
+      "scoreDiff": 25,
+      "week": 10,
+      "wpPre": 0.999,
+      "wpa": -0.003,
+      "yardline100": 56,
+      "ydstogo": 11
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.984,
+        "puntWp": 0.986,
+        "recommended": "punt"
+      },
+      "clock": "05:05",
+      "decision": "punt",
+      "desc": "(5:05) 3-J.Fox punts 48 yards to NE 28, Center-49-H.Hatten. 25-M.Jones to NE 35 for 7 yards (30-K.Dorsey).",
+      "epa": -0.173,
+      "forced": false,
+      "gameId": "2026_10_NE_DET",
+      "opponent": "NE",
+      "playId": 3995,
+      "qtr": 4,
+      "result": "punt 48 yds",
+      "scoreDiff": 25,
+      "week": 10,
+      "wpPre": 1,
+      "wpa": 0,
+      "yardline100": 76,
+      "ydstogo": 7
+    },
+    {
+      "calc": {
+        "fgWp": 0.542,
+        "goWp": 0.526,
+        "puntWp": 0.476,
+        "recommended": "fg"
+      },
+      "clock": "11:09",
+      "decision": "fg",
+      "desc": "(11:09) 39-J.Bates 53 yard field goal is No Good, Wide Right, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": -2.437,
+      "forced": false,
+      "gameId": "2026_11_TB_DET",
+      "opponent": "TB",
+      "playId": 298,
+      "qtr": 1,
+      "result": "missed",
+      "scoreDiff": 0,
+      "week": 11,
+      "wpPre": 0.63,
+      "wpa": -0.092,
+      "yardline100": 35,
+      "ydstogo": 6
+    },
+    {
+      "calc": {
+        "fgWp": 0.761,
+        "goWp": 0.728,
+        "puntWp": 0.725,
+        "recommended": "fg"
+      },
+      "clock": "01:53",
+      "decision": "fg",
+      "desc": "(1:53) 39-J.Bates 56 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "epa": 1.203,
+      "forced": false,
+      "gameId": "2026_11_TB_DET",
+      "opponent": "TB",
+      "playId": 1600,
+      "qtr": 2,
+      "result": "made",
+      "scoreDiff": 7,
+      "week": 11,
+      "wpPre": 0.808,
+      "wpa": 0.017,
+      "yardline100": 38,
+      "ydstogo": 11
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.592,
+        "puntWp": 0.586,
+        "recommended": "go"
+      },
+      "clock": "13:30",
+      "decision": "punt",
+      "desc": "(13:30) 3-J.Fox punts 65 yards to end zone, Center-49-H.Hatten, Touchback.",
+      "epa": -0.331,
+      "forced": false,
+      "gameId": "2026_11_TB_DET",
+      "opponent": "TB",
+      "playId": 2080,
+      "qtr": 3,
+      "result": "touchback",
+      "scoreDiff": 3,
+      "week": 11,
+      "wpPre": 0.636,
+      "wpa": 0.004,
+      "yardline100": 65,
+      "ydstogo": 5
+    },
+    {
+      "calc": {
+        "fgWp": null,
+        "goWp": 0.624,
+        "puntWp": 0.638,
+        "recommended": "punt"
+      },
+      "clock": "13:30",
+      "decision": "punt",
+      "desc": "(13:30) 3-J.Fox punts 49 yards to TB 9, Center-49-H.Hatten, fair catch by 15-T.Johnson.",
+      "epa": 0.243,
+      "forced": false,
+      "gameId": "2026_11_TB_DET",
+      "opponent": "TB",
+      "playId": 3003,
+      "qtr": 4,
+      "result": "punt 49 yds",
+      "scoreDiff": 3,
+      "week": 11,
+      "wpPre": 0.684,
+      "wpa": -0.011,
+      "yardline100": 58,
+      "ydstogo": 7
     }
   ],
   "season": 2026,
@@ -1660,165 +2068,165 @@
     "conversion": {
       "1": {
         "21-40": {
-          "n": 463,
-          "rate": 0.697
+          "n": 481,
+          "rate": 0.7
         },
         "41-60": {
-          "n": 484,
-          "rate": 0.695
+          "n": 500,
+          "rate": 0.697
         },
         "own": {
-          "n": 252,
-          "rate": 0.689
+          "n": 262,
+          "rate": 0.686
         },
         "red-zone": {
-          "n": 529,
-          "rate": 0.642
+          "n": 539,
+          "rate": 0.643
         }
       },
       "2": {
         "21-40": {
-          "n": 189,
-          "rate": 0.602
+          "n": 193,
+          "rate": 0.595
         },
         "41-60": {
-          "n": 194,
-          "rate": 0.607
+          "n": 205,
+          "rate": 0.604
         },
         "own": {
           "n": 59,
           "rate": 0.525
         },
         "red-zone": {
-          "n": 207,
-          "rate": 0.593
+          "n": 216,
+          "rate": 0.592
         }
       },
       "10+": {
         "21-40": {
-          "n": 116,
-          "rate": 0.22
+          "n": 120,
+          "rate": 0.221
         },
         "41-60": {
-          "n": 170,
-          "rate": 0.203
+          "n": 174,
+          "rate": 0.205
         },
         "own": {
-          "n": 168,
-          "rate": 0.259
+          "n": 173,
+          "rate": 0.257
         },
         "red-zone": {
-          "n": 48,
-          "rate": 0.16
+          "n": 51,
+          "rate": 0.17
         }
       },
       "3-5": {
         "21-40": {
-          "n": 340,
-          "rate": 0.5
+          "n": 346,
+          "rate": 0.503
         },
         "41-60": {
-          "n": 304,
-          "rate": 0.52
+          "n": 309,
+          "rate": 0.518
         },
         "own": {
-          "n": 105,
-          "rate": 0.551
+          "n": 106,
+          "rate": 0.556
         },
         "red-zone": {
-          "n": 236,
-          "rate": 0.466
+          "n": 237,
+          "rate": 0.464
         }
       },
       "6-9": {
         "21-40": {
-          "n": 147,
-          "rate": 0.349
+          "n": 152,
+          "rate": 0.344
         },
         "41-60": {
           "n": 135,
-          "rate": 0.401
+          "rate": 0.409
         },
         "own": {
-          "n": 88,
-          "rate": 0.422
+          "n": 89,
+          "rate": 0.429
         },
         "red-zone": {
-          "n": 78,
-          "rate": 0.313
+          "n": 81,
+          "rate": 0.325
         }
       }
     },
     "fieldGoal": [
       {
-        "n": 258,
+        "n": 262,
         "rate": 0.996
       },
       {
-        "n": 690,
-        "rate": 0.981
+        "n": 708,
+        "rate": 0.982
       },
       {
-        "n": 743,
-        "rate": 0.976
+        "n": 760,
+        "rate": 0.975
       },
       {
-        "n": 840,
-        "rate": 0.951
+        "n": 865,
+        "rate": 0.952
       },
       {
-        "n": 792,
-        "rate": 0.892
+        "n": 819,
+        "rate": 0.893
       },
       {
-        "n": 811,
+        "n": 835,
         "rate": 0.797
       },
       {
-        "n": 851,
-        "rate": 0.767
+        "n": 887,
+        "rate": 0.771
       },
       {
-        "n": 598,
-        "rate": 0.697
+        "n": 625,
+        "rate": 0.699
       },
       {
-        "n": 133,
-        "rate": 0.615
+        "n": 134,
+        "rate": 0.618
       },
       {
-        "n": 29,
-        "rate": 0.355
+        "n": 30,
+        "rate": 0.344
       }
     ],
     "punt": [
       {
-        "n": 123,
-        "yards": 26.146
+        "n": 124,
+        "yards": 26.089
       },
       {
-        "n": 1417,
-        "yards": 33.078
+        "n": 1450,
+        "yards": 33.05
       },
       {
-        "n": 2219,
-        "yards": 39.664
+        "n": 2279,
+        "yards": 39.643
       },
       {
-        "n": 2987,
-        "yards": 43.505
+        "n": 3068,
+        "yards": 43.535
       },
       {
-        "n": 2738,
-        "yards": 43.784
+        "n": 2827,
+        "yards": 43.828
       },
       {
-        "n": 1461,
-        "yards": 43.921
+        "n": 1505,
+        "yards": 44.002
       },
       {
-        "n": 486,
-        "yards": 42.667
+        "n": 502,
+        "yards": 42.873
       }
     ],
     "winProbability": [
@@ -1915,7 +2323,7 @@
             null,
             0.353,
             0.358,
-            0.343,
+            0.344,
             0.317,
             null,
             null
@@ -1962,9 +2370,9 @@
             null,
             null,
             null,
-            0.462,
-            0.452,
-            0.432,
+            0.464,
+            0.454,
+            0.434,
             null,
             null
           ],
@@ -1993,16 +2401,16 @@
             null
           ],
           [
-            0.654,
+            0.653,
             0.633,
             0.616,
             0.595,
-            0.549,
+            0.55,
             0.54,
             0.522,
             0.504,
-            0.517,
-            0.523
+            0.518,
+            0.524
           ],
           [
             null,
@@ -2262,10 +2670,10 @@
             0.434,
             0.417,
             0.404,
-            0.386,
+            0.385,
             0.363,
-            0.357,
-            0.336,
+            0.358,
+            0.337,
             0.317,
             0.302,
             null
@@ -2301,18 +2709,18 @@
             null,
             null,
             null,
-            0.393,
-            0.37,
+            0.392,
+            0.371,
             null,
             null
           ],
           [
             0.588,
-            0.563,
-            0.56,
-            0.54,
-            0.508,
-            0.47,
+            0.565,
+            0.561,
+            0.541,
+            0.509,
+            0.471,
             0.45,
             0.435,
             0.405,
@@ -2344,14 +2752,14 @@
           ],
           [
             0.665,
-            0.639,
-            0.637,
+            0.638,
+            0.636,
             0.617,
-            0.575,
-            0.563,
-            0.54,
-            0.519,
-            0.505,
+            0.574,
+            0.564,
+            0.539,
+            0.518,
+            0.506,
             0.492
           ],
           [
@@ -2381,13 +2789,13 @@
           [
             null,
             null,
-            0.719,
-            0.688,
+            0.714,
+            0.684,
             0.661,
-            0.637,
+            0.633,
             0.63,
-            0.617,
-            0.62,
+            0.618,
+            0.616,
             null
           ],
           [
@@ -2397,7 +2805,7 @@
             null,
             null,
             null,
-            0.674,
+            0.668,
             0.628,
             null,
             null
@@ -2431,11 +2839,11 @@
             0.805,
             0.787,
             0.786,
-            0.759,
-            0.756,
+            0.76,
+            0.757,
             0.737,
             0.716,
-            0.702,
+            0.703,
             0.701
           ],
           [
@@ -2578,9 +2986,9 @@
             null,
             null,
             null,
-            0.263,
-            0.25,
-            0.237,
+            0.266,
+            0.251,
+            0.239,
             null,
             null
           ],
@@ -2613,11 +3021,11 @@
             0.403,
             0.397,
             0.36,
-            0.355,
-            0.345,
-            0.331,
+            0.357,
+            0.344,
+            0.332,
             0.31,
-            0.288,
+            0.289,
             null
           ],
           [
@@ -2647,12 +3055,12 @@
           [
             null,
             null,
-            0.499,
-            0.454,
-            0.426,
+            0.495,
+            0.459,
+            0.418,
             0.407,
             0.387,
-            0.377,
+            0.376,
             0.367,
             null
           ],
@@ -2661,7 +3069,7 @@
             0.566,
             0.553,
             0.536,
-            0.5,
+            0.502,
             0.47,
             0.443,
             0.434,
@@ -2696,13 +3104,13 @@
             0.669,
             0.643,
             0.628,
-            0.606,
+            0.605,
             0.563,
             0.55,
-            0.533,
+            0.534,
             0.516,
-            0.499,
-            0.486
+            0.5,
+            0.487
           ],
           [
             null,
@@ -2729,15 +3137,15 @@
             null
           ],
           [
-            0.743,
+            0.741,
             0.716,
             0.699,
-            0.681,
-            0.674,
-            0.66,
-            0.66,
+            0.682,
+            0.675,
+            0.662,
+            0.661,
             0.623,
-            0.62,
+            0.618,
             0.607
           ],
           [
@@ -2745,11 +3153,11 @@
             0.731,
             0.727,
             0.705,
-            0.698,
-            0.68,
-            0.671,
-            0.649,
-            0.642,
+            0.696,
+            0.677,
+            0.669,
+            0.648,
+            0.645,
             null
           ],
           [
@@ -2777,7 +3185,7 @@
             null
           ],
           [
-            0.822,
+            0.823,
             0.813,
             0.794,
             0.776,
@@ -2786,7 +3194,7 @@
             0.746,
             0.722,
             0.71,
-            0.708
+            0.706
           ],
           [
             null,
@@ -2879,9 +3287,9 @@
           [
             null,
             0.194,
-            0.192,
-            0.176,
-            0.172,
+            0.193,
+            0.174,
+            0.171,
             0.164,
             0.141,
             0.129,
@@ -2919,20 +3327,20 @@
             null,
             null,
             null,
-            0.213,
+            0.211,
             0.209,
             null,
             null
           ],
           [
-            0.341,
+            0.342,
             null,
-            0.316,
+            0.317,
             0.283,
-            0.259,
-            0.255,
+            0.261,
+            0.256,
             0.239,
-            0.228,
+            0.229,
             null,
             null
           ],
@@ -2961,15 +3369,15 @@
             null
           ],
           [
-            0.423,
+            0.424,
             0.396,
-            0.396,
-            0.376,
-            0.347,
-            0.348,
+            0.397,
+            0.375,
+            0.346,
+            0.349,
             0.323,
-            0.294,
-            0.286,
+            0.296,
+            0.285,
             null
           ],
           [
@@ -3011,12 +3419,12 @@
           [
             0.581,
             0.558,
-            0.555,
-            0.521,
+            0.554,
+            0.518,
             0.51,
-            0.454,
-            0.444,
-            0.424,
+            0.456,
+            0.445,
+            0.423,
             0.401,
             null
           ],
@@ -3038,22 +3446,22 @@
             null,
             null,
             null,
-            0.537,
-            0.52,
+            0.532,
+            0.515,
             null,
             null,
             null
           ],
           [
-            0.66,
-            0.64,
-            0.628,
-            0.614,
-            0.565,
+            0.659,
+            0.641,
+            0.629,
+            0.615,
+            0.564,
             0.55,
             0.529,
             0.511,
-            0.499,
+            0.5,
             0.482
           ],
           [
@@ -3081,27 +3489,27 @@
             null
           ],
           [
-            0.736,
+            0.738,
             0.719,
             0.695,
             0.694,
             0.683,
             0.664,
             0.658,
-            0.624,
-            0.618,
+            0.625,
+            0.616,
             null
           ],
           [
             0.757,
+            0.738,
+            0.738,
             0.736,
-            0.736,
-            0.739,
-            0.715,
-            0.679,
-            0.666,
+            0.719,
+            0.681,
+            0.667,
             0.648,
-            0.642,
+            0.644,
             null
           ],
           [
@@ -3135,7 +3543,7 @@
             0.789,
             0.781,
             0.764,
-            0.74,
+            0.739,
             0.726,
             0.717,
             0.704
@@ -3169,10 +3577,10 @@
             null,
             null,
             null,
-            0.834,
+            0.833,
             null,
-            0.804,
-            0.782,
+            0.803,
+            0.779,
             null,
             null
           ],
@@ -3220,21 +3628,21 @@
             0.903,
             0.9,
             0.901,
-            0.904,
+            0.903,
             null,
             null
           ]
         ],
         [
           [
-            0.182,
+            0.181,
             0.161,
             0.17,
             0.152,
-            0.128,
+            0.129,
             0.132,
             0.11,
-            0.111,
+            0.112,
             null,
             null
           ],
@@ -3268,20 +3676,20 @@
             null,
             null,
             null,
-            null,
-            0.205,
-            0.201,
+            0.22,
+            0.2,
+            0.198,
             null,
             null
           ],
           [
-            0.321,
+            0.323,
             0.327,
             0.301,
             0.283,
-            0.262,
-            0.249,
-            0.237,
+            0.263,
+            0.25,
+            0.238,
             0.223,
             null,
             null
@@ -3312,13 +3720,13 @@
           ],
           [
             0.429,
-            0.401,
+            0.4,
             0.39,
-            0.35,
+            0.351,
             0.336,
             0.341,
             0.316,
-            0.302,
+            0.303,
             0.306,
             0.268
           ],
@@ -3349,8 +3757,8 @@
           [
             null,
             0.508,
-            0.491,
-            0.464,
+            0.495,
+            0.467,
             0.436,
             0.416,
             0.4,
@@ -3359,15 +3767,15 @@
             null
           ],
           [
-            0.593,
+            0.591,
             0.579,
             0.564,
-            0.536,
-            0.494,
+            0.537,
+            0.495,
             0.451,
-            0.444,
-            0.424,
-            0.416,
+            0.445,
+            0.423,
+            0.418,
             null
           ],
           [
@@ -3395,16 +3803,16 @@
             null
           ],
           [
-            0.672,
-            0.644,
-            0.626,
-            0.604,
-            0.562,
+            0.671,
+            0.645,
+            0.625,
+            0.603,
+            0.561,
             0.55,
-            0.521,
+            0.522,
             0.51,
-            0.513,
-            0.511
+            0.511,
+            0.506
           ],
           [
             null,
@@ -3413,7 +3821,7 @@
             null,
             null,
             null,
-            null,
+            0.608,
             0.597,
             null,
             null
@@ -3436,20 +3844,20 @@
             0.718,
             0.698,
             0.686,
-            0.66,
-            0.65,
+            0.662,
+            0.648,
+            0.635,
             0.633,
-            0.636,
             null
           ],
           [
-            0.782,
-            0.748,
-            0.743,
-            0.731,
-            0.72,
-            0.697,
-            0.673,
+            0.784,
+            0.746,
+            0.746,
+            0.735,
+            0.718,
+            0.696,
+            0.672,
             0.666,
             null,
             null
@@ -3481,13 +3889,13 @@
           [
             0.838,
             0.821,
-            0.806,
+            0.805,
             0.799,
             0.774,
-            0.767,
-            0.759,
-            0.731,
-            0.723,
+            0.766,
+            0.758,
+            0.732,
+            0.724,
             null
           ],
           [
@@ -3516,12 +3924,12 @@
           ],
           [
             null,
+            0.877,
             null,
-            null,
-            0.867,
-            0.85,
+            0.866,
+            0.849,
             0.848,
-            0.833,
+            0.832,
             0.82,
             null,
             null
@@ -3566,33 +3974,33 @@
             0.95,
             0.931,
             0.92,
-            0.918,
-            0.918,
             0.917,
+            0.918,
             0.916,
-            0.907,
+            0.914,
+            0.906,
             0.908,
             null
           ]
         ],
         [
           [
-            0.149,
-            0.136,
-            0.133,
-            0.112,
-            0.106,
+            0.153,
+            0.137,
+            0.134,
+            0.114,
+            0.107,
             0.104,
-            0.094,
-            0.086,
-            0.103,
+            0.095,
+            0.087,
+            0.104,
             null
           ],
           [
             null,
             null,
             null,
-            null,
+            0.158,
             0.162,
             0.159,
             0.142,
@@ -3618,21 +4026,21 @@
             0.237,
             0.217,
             0.204,
-            0.196,
-            0.184,
+            0.195,
+            0.183,
             0.177,
             null,
             null
           ],
           [
-            0.315,
-            0.308,
-            0.293,
-            0.257,
-            0.234,
-            0.234,
-            0.207,
-            0.201,
+            0.318,
+            0.309,
+            0.292,
+            0.256,
+            0.236,
+            0.235,
+            0.208,
+            0.202,
             0.203,
             null
           ],
@@ -3656,20 +4064,20 @@
             null,
             0.251,
             null,
-            0.219,
+            0.224,
             null,
             null
           ],
           [
             0.417,
-            0.383,
+            0.384,
             0.38,
             0.345,
-            0.336,
+            0.335,
             0.323,
             0.301,
-            0.288,
-            0.274,
+            0.287,
+            0.275,
             null
           ],
           [
@@ -3680,7 +4088,7 @@
             0.357,
             0.349,
             0.327,
-            0.307,
+            0.308,
             null,
             null
           ],
@@ -3697,11 +4105,11 @@
             null
           ],
           [
-            0.549,
+            0.55,
             0.511,
             0.492,
             0.457,
-            0.413,
+            0.412,
             0.393,
             0.381,
             0.365,
@@ -3710,14 +4118,14 @@
           ],
           [
             0.591,
-            0.56,
+            0.558,
             0.53,
-            0.525,
+            0.526,
             0.487,
             0.444,
-            0.424,
-            0.417,
-            0.395,
+            0.425,
+            0.416,
+            0.399,
             0.366
           ],
           [
@@ -3746,15 +4154,15 @@
           ],
           [
             0.675,
-            0.648,
-            0.634,
-            0.608,
+            0.647,
+            0.633,
+            0.607,
             0.574,
             0.549,
-            0.537,
+            0.536,
+            0.514,
             0.515,
-            0.515,
-            0.482
+            0.485
           ],
           [
             0.732,
@@ -3764,7 +4172,7 @@
             0.657,
             0.64,
             0.617,
-            0.6,
+            0.599,
             null,
             null
           ],
@@ -3781,19 +4189,19 @@
             null
           ],
           [
-            0.767,
+            0.766,
             0.733,
-            0.719,
-            0.704,
-            0.698,
-            0.676,
+            0.718,
+            0.702,
+            0.696,
+            0.673,
             0.655,
             0.641,
-            0.608,
+            0.606,
             null
           ],
           [
-            0.798,
+            0.797,
             0.773,
             0.762,
             0.751,
@@ -3801,7 +4209,7 @@
             0.699,
             0.682,
             0.658,
-            0.643,
+            0.642,
             null
           ],
           [
@@ -3830,14 +4238,14 @@
           ],
           [
             0.858,
-            0.846,
+            0.845,
             0.829,
             0.813,
             0.797,
-            0.785,
-            0.768,
-            0.747,
-            0.743,
+            0.784,
+            0.767,
+            0.746,
+            0.741,
             0.725
           ],
           [
@@ -3873,19 +4281,19 @@
             0.854,
             0.849,
             0.834,
-            0.815,
+            0.816,
             null
           ],
           [
             null,
-            0.898,
+            0.9,
             null,
-            0.884,
-            0.875,
-            0.879,
-            0.872,
+            0.885,
+            0.877,
+            0.881,
+            0.873,
             0.857,
-            null,
+            0.842,
             null
           ],
           [
@@ -3917,26 +4325,26 @@
             0.955,
             0.949,
             0.943,
-            0.94,
-            0.943,
+            0.939,
+            0.942,
             0.929,
             0.923,
             0.92,
-            0.916
+            0.917
           ]
         ]
       ],
       [
         [
           [
-            0.12,
+            0.122,
             0.115,
-            0.11,
-            0.099,
+            0.109,
+            0.1,
             0.086,
             0.085,
-            0.081,
-            0.071,
+            0.082,
+            0.072,
             0.07,
             null
           ],
@@ -3972,14 +4380,14 @@
             0.202,
             0.192,
             0.174,
-            0.177,
+            0.176,
             null,
             null
           ],
           [
             null,
             null,
-            null,
+            0.288,
             0.244,
             0.229,
             0.223,
@@ -4017,20 +4425,20 @@
             null,
             0.369,
             0.33,
-            0.308,
+            0.309,
             0.299,
             0.281,
             0.269,
-            0.264,
+            0.263,
             null
           ],
           [
             null,
             null,
             null,
-            0.377,
-            0.355,
-            0.344,
+            0.379,
+            0.358,
+            0.345,
             0.316,
             0.31,
             null,
@@ -4050,26 +4458,26 @@
           ],
           [
             null,
-            0.505,
+            0.508,
             0.493,
-            0.459,
-            0.419,
-            0.394,
-            0.381,
+            0.461,
+            0.42,
+            0.395,
+            0.382,
             0.365,
             null,
             null
           ],
           [
             null,
-            0.551,
-            0.539,
-            0.516,
-            0.479,
-            0.437,
-            0.422,
-            0.413,
-            0.406,
+            0.553,
+            0.54,
+            0.515,
+            0.478,
+            0.438,
+            0.423,
+            0.414,
+            0.402,
             null
           ],
           [
@@ -4091,20 +4499,20 @@
             null,
             null,
             null,
-            0.496,
-            0.505,
+            0.494,
+            0.503,
             null,
             null
           ],
           [
-            0.677,
+            0.675,
             0.637,
             0.626,
             0.598,
             0.556,
-            0.545,
+            0.544,
             0.518,
-            0.51,
+            0.509,
             0.499,
             null
           ],
@@ -4128,32 +4536,32 @@
             null,
             null,
             null,
-            null,
+            0.616,
             null,
             null
           ],
           [
             null,
-            0.752,
-            0.723,
+            0.75,
+            0.718,
             0.708,
-            0.702,
-            0.679,
-            0.652,
+            0.701,
+            0.678,
+            0.653,
             0.627,
-            0.625,
+            0.626,
             null
           ],
           [
             null,
             null,
             0.763,
-            0.75,
+            0.749,
             0.725,
             0.702,
             0.677,
             0.659,
-            0.64,
+            0.639,
             null
           ],
           [
@@ -4175,7 +4583,7 @@
             null,
             0.788,
             0.78,
-            0.765,
+            0.766,
             0.745,
             null,
             null
@@ -4183,12 +4591,12 @@
           [
             0.866,
             0.857,
-            0.831,
+            0.83,
             0.82,
-            0.805,
+            0.804,
             0.798,
             0.78,
-            0.761,
+            0.76,
             null,
             null
           ],
@@ -4222,8 +4630,8 @@
             null,
             null,
             0.876,
-            0.874,
-            0.851,
+            0.873,
+            0.849,
             0.839,
             null,
             null
@@ -4232,10 +4640,10 @@
             null,
             null,
             null,
-            0.896,
+            0.897,
             0.892,
-            0.889,
-            0.877,
+            0.89,
+            0.878,
             0.867,
             null,
             null
@@ -4265,26 +4673,26 @@
             null
           ],
           [
-            0.964,
+            0.963,
             0.961,
-            0.969,
+            0.967,
             0.958,
             0.955,
-            0.956,
+            0.955,
             0.947,
             0.944,
-            0.948,
+            0.947,
             0.955
           ]
         ],
         [
           [
-            0.103,
+            0.106,
             0.095,
-            0.084,
+            0.086,
             0.076,
             0.066,
-            0.069,
+            0.068,
             0.058,
             0.052,
             0.046,
@@ -4320,8 +4728,8 @@
             null,
             null,
             null,
-            0.18,
-            null,
+            0.181,
+            0.168,
             0.155,
             null,
             null
@@ -4329,13 +4737,13 @@
           [
             0.296,
             0.272,
-            0.258,
+            0.26,
             0.238,
             0.221,
             0.203,
-            0.197,
-            0.184,
-            0.176,
+            0.196,
+            0.185,
+            0.178,
             null
           ],
           [
@@ -4363,14 +4771,14 @@
             null
           ],
           [
-            0.411,
-            0.38,
-            0.357,
-            0.328,
+            0.414,
+            0.382,
+            0.356,
+            0.327,
             0.308,
-            0.308,
+            0.309,
             0.272,
-            0.262,
+            0.263,
             0.247,
             null
           ],
@@ -4380,7 +4788,7 @@
             null,
             null,
             null,
-            null,
+            0.324,
             0.303,
             0.288,
             null,
@@ -4402,22 +4810,22 @@
             0.554,
             0.51,
             0.497,
-            0.452,
+            0.451,
             0.409,
-            0.386,
-            0.37,
+            0.384,
+            0.371,
             0.351,
             null,
             null
           ],
           [
             0.591,
-            0.548,
-            0.533,
-            0.504,
+            0.547,
+            0.536,
+            0.506,
             0.473,
-            0.436,
-            0.417,
+            0.437,
+            0.418,
             0.404,
             0.395,
             null
@@ -4429,7 +4837,7 @@
             null,
             null,
             null,
-            0.466,
+            0.464,
             null,
             null,
             null
@@ -4447,15 +4855,15 @@
             null
           ],
           [
-            0.667,
-            0.642,
+            0.666,
+            0.64,
             0.632,
-            0.607,
+            0.605,
             0.566,
             0.537,
             0.529,
             0.512,
-            0.503,
+            0.505,
             null
           ],
           [
@@ -4465,8 +4873,8 @@
             null,
             null,
             null,
-            0.616,
-            0.594,
+            0.615,
+            0.596,
             null,
             null
           ],
@@ -4483,11 +4891,11 @@
             null
           ],
           [
-            null,
-            0.758,
+            0.786,
+            0.757,
             0.749,
-            0.72,
-            0.716,
+            0.722,
+            0.717,
             0.692,
             0.672,
             0.662,
@@ -4502,7 +4910,7 @@
             0.741,
             0.716,
             0.708,
-            0.683,
+            0.684,
             null,
             null
           ],
@@ -4534,10 +4942,10 @@
             0.882,
             0.87,
             0.852,
-            0.842,
+            0.841,
             0.823,
             0.822,
-            0.805,
+            0.804,
             0.792,
             0.763,
             null
@@ -4581,12 +4989,12 @@
           [
             null,
             null,
+            0.913,
             null,
             null,
-            null,
-            0.901,
+            0.902,
             0.893,
-            0.886,
+            0.887,
             null,
             null
           ],
@@ -4616,28 +5024,28 @@
           ],
           [
             0.977,
-            0.975,
-            0.971,
+            0.974,
+            0.97,
             0.972,
             0.972,
             0.969,
             0.967,
-            0.96,
+            0.959,
             0.962,
-            0.951
+            0.953
           ]
         ],
         [
           [
             0.079,
-            0.063,
             0.064,
-            0.054,
-            0.045,
+            0.062,
+            0.053,
+            0.044,
             0.042,
-            0.04,
+            0.039,
             0.034,
-            0.036,
+            0.034,
             0.023
           ],
           [
@@ -4648,7 +5056,7 @@
             null,
             null,
             null,
-            null,
+            0.08,
             null,
             null
           ],
@@ -4671,20 +5079,20 @@
             null,
             0.169,
             null,
-            0.155,
-            0.131,
+            0.153,
+            0.13,
             null,
             null
           ],
           [
             null,
-            0.29,
+            0.289,
             null,
             0.215,
-            0.192,
+            0.193,
             0.189,
             0.177,
-            0.157,
+            0.159,
             null,
             null
           ],
@@ -4716,10 +5124,10 @@
             null,
             0.349,
             null,
-            0.303,
+            0.302,
             0.281,
-            0.275,
-            0.239,
+            0.276,
+            0.238,
             0.228,
             null,
             null
@@ -4762,13 +5170,13 @@
           ],
           [
             null,
-            0.564,
+            0.565,
             0.542,
             0.506,
             0.473,
             0.433,
             0.412,
-            0.391,
+            0.392,
             null,
             null
           ],
@@ -4791,18 +5199,18 @@
             null,
             null,
             0.546,
-            0.505,
-            0.499,
+            0.504,
+            0.497,
             null,
             null
           ],
           [
             null,
             0.653,
-            0.649,
-            0.623,
-            0.578,
-            0.551,
+            0.652,
+            0.624,
+            0.575,
+            0.55,
             0.532,
             0.523,
             0.505,
@@ -4839,9 +5247,9 @@
             0.751,
             0.736,
             0.71,
-            0.7,
+            0.699,
             0.67,
-            0.648,
+            0.65,
             null
           ],
           [
@@ -4851,7 +5259,7 @@
             0.776,
             0.757,
             0.741,
-            0.715,
+            0.714,
             0.693,
             null,
             null
@@ -4863,7 +5271,7 @@
             null,
             null,
             null,
-            0.752,
+            0.75,
             null,
             null,
             null
@@ -4881,13 +5289,13 @@
             null
           ],
           [
-            null,
-            null,
-            0.867,
-            0.854,
-            0.842,
+            0.889,
+            0.879,
+            0.864,
+            0.851,
+            0.841,
             0.836,
-            0.821,
+            0.82,
             0.801,
             0.781,
             null
@@ -4924,7 +5332,19 @@
             0.887,
             0.888,
             0.879,
-            0.86,
+            0.861,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            0.911,
+            null,
             null,
             null
           ],
@@ -4953,28 +5373,16 @@
             null
           ],
           [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null
-          ],
-          [
-            0.987,
+            0.988,
             0.982,
             0.984,
             0.983,
             0.982,
             0.982,
-            0.979,
+            0.98,
             0.976,
             0.976,
-            0.976
+            0.977
           ]
         ]
       ],
@@ -4982,7 +5390,7 @@
         [
           [
             0.06,
-            0.046,
+            0.048,
             0.045,
             0.034,
             0.027,
@@ -5011,7 +5419,7 @@
             null,
             null,
             null,
-            null,
+            0.092,
             0.079,
             null,
             null
@@ -5022,7 +5430,7 @@
             null,
             null,
             0.143,
-            0.132,
+            0.131,
             0.131,
             0.107,
             null,
@@ -5082,9 +5490,9 @@
             null,
             null,
             null,
-            0.264,
-            0.249,
-            0.228,
+            0.263,
+            0.248,
+            0.227,
             null,
             null
           ],
@@ -5104,9 +5512,9 @@
             null,
             null,
             0.506,
-            null,
+            0.443,
             0.402,
-            0.373,
+            0.374,
             0.351,
             0.332,
             null,
@@ -5115,13 +5523,13 @@
           [
             0.593,
             0.568,
-            0.542,
+            0.541,
             0.504,
             0.458,
             0.419,
             0.39,
-            0.379,
-            0.364,
+            0.38,
+            0.362,
             null
           ],
           [
@@ -5149,14 +5557,14 @@
             null
           ],
           [
-            0.688,
-            0.658,
+            0.686,
+            0.656,
             0.647,
             0.623,
-            0.575,
-            0.559,
+            0.574,
+            0.56,
             0.533,
-            0.515,
+            0.514,
             0.521,
             null
           ],
@@ -5168,7 +5576,7 @@
             null,
             null,
             null,
-            0.612,
+            0.609,
             null,
             null
           ],
@@ -5180,7 +5588,7 @@
             null,
             0.728,
             0.714,
-            0.69,
+            0.691,
             null,
             null
           ],
@@ -5188,11 +5596,11 @@
             0.821,
             0.81,
             0.785,
-            0.778,
+            0.779,
             0.767,
-            0.742,
-            0.725,
-            0.692,
+            0.743,
+            0.722,
+            0.69,
             null,
             null
           ],
@@ -5235,13 +5643,13 @@
           [
             null,
             0.908,
-            null,
-            0.887,
+            0.892,
+            0.888,
             0.867,
-            0.871,
+            0.87,
             0.861,
-            0.845,
-            0.825,
+            0.844,
+            0.823,
             null
           ],
           [
@@ -5251,7 +5659,7 @@
             null,
             null,
             null,
-            0.894,
+            0.895,
             0.878,
             null,
             null
@@ -5274,7 +5682,7 @@
             0.934,
             0.929,
             0.922,
-            0.92,
+            0.919,
             0.91,
             0.9,
             null,
@@ -5337,9 +5745,9 @@
             0.021,
             0.018,
             0.015,
-            0.013,
+            0.014,
             0.012,
-            0.01,
+            0.009,
             0.008
           ],
           [
@@ -5361,8 +5769,8 @@
             null,
             null,
             null,
-            null,
-            null,
+            0.056,
+            0.048,
             null,
             null
           ],
@@ -5384,7 +5792,7 @@
             0.176,
             0.139,
             0.125,
-            0.1,
+            0.099,
             0.098,
             0.091,
             null,
@@ -5407,7 +5815,7 @@
             null,
             null,
             null,
-            null,
+            0.167,
             null,
             0.143,
             0.137,
@@ -5418,11 +5826,11 @@
             0.368,
             0.335,
             null,
-            0.305,
-            0.273,
-            0.227,
-            0.217,
-            0.179,
+            0.237,
+            0.223,
+            0.206,
+            0.188,
+            0.171,
             null,
             null
           ],
@@ -5455,9 +5863,9 @@
             null,
             null,
             null,
-            null,
-            0.359,
-            0.331,
+            0.398,
+            0.36,
+            0.332,
             0.314,
             null,
             null
@@ -5465,13 +5873,13 @@
           [
             null,
             null,
-            0.558,
+            0.55,
             0.491,
-            0.463,
-            0.424,
-            0.402,
-            0.376,
-            0.349,
+            0.457,
+            0.415,
+            0.383,
+            0.356,
+            0.351,
             null
           ],
           [
@@ -5493,33 +5901,21 @@
             null,
             null,
             null,
-            0.514,
-            0.49,
+            0.516,
+            0.494,
             null,
             null
           ],
           [
-            0.766,
-            0.753,
-            0.759,
-            0.696,
-            0.63,
-            0.593,
-            0.547,
-            0.51,
-            0.454,
-            null
-          ],
-          [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            0.757,
+            0.747,
+            0.741,
+            0.693,
+            0.639,
+            0.603,
+            0.566,
+            0.54,
+            0.521,
             null
           ],
           [
@@ -5535,15 +5931,27 @@
             null
           ],
           [
-            0.867,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            0.868,
             null,
             null,
             null,
             0.808,
             0.796,
-            0.768,
+            0.767,
             0.756,
-            null,
+            0.734,
             null
           ],
           [
@@ -5589,8 +5997,8 @@
             0.924,
             0.916,
             0.907,
-            0.897,
-            0.883,
+            0.896,
+            0.884,
             null,
             null
           ],
@@ -5602,7 +6010,7 @@
             null,
             null,
             0.937,
-            0.923,
+            0.924,
             null,
             null
           ],
@@ -5681,7 +6089,7 @@
         ],
         [
           [
-            0.01,
+            0.009,
             0.005,
             0.004,
             0.003,
@@ -5719,24 +6127,24 @@
           [
             null,
             null,
+            0.067,
+            0.057,
             null,
             null,
-            null,
-            null,
-            0.035,
-            0.027,
+            0.036,
+            0.028,
             null,
             null
           ],
           [
-            0.134,
-            0.111,
-            0.076,
+            0.136,
+            0.109,
+            0.078,
             0.074,
             0.057,
             0.042,
-            0.036,
-            0.032,
+            0.037,
+            0.033,
             0.033,
             null
           ],
@@ -5755,24 +6163,24 @@
           [
             0.198,
             null,
-            0.146,
+            0.148,
             0.115,
-            0.088,
+            0.09,
             0.074,
-            0.062,
-            0.059,
+            0.061,
+            0.058,
             null,
             null
           ],
           [
-            0.356,
-            0.285,
-            0.24,
-            0.2,
-            0.186,
-            0.145,
-            0.132,
-            0.123,
+            0.308,
+            0.271,
+            0.226,
+            0.19,
+            0.166,
+            0.131,
+            0.128,
+            0.111,
             0.096,
             null
           ],
@@ -5792,46 +6200,46 @@
             0.53,
             0.474,
             0.408,
-            0.319,
+            0.32,
             0.299,
-            0.26,
+            0.261,
             0.239,
             0.229,
             0.164,
             null
           ],
           [
-            0.604,
+            0.605,
             0.531,
             0.467,
-            0.385,
-            0.322,
-            0.29,
-            0.267,
-            0.226,
+            0.384,
+            0.323,
+            0.291,
+            0.268,
+            0.227,
             null,
             null
           ],
           [
             0.654,
-            0.612,
-            0.534,
-            0.463,
-            0.402,
-            0.355,
-            0.31,
-            0.267,
-            0.249,
+            0.592,
+            0.528,
+            0.458,
+            0.398,
+            0.35,
+            0.308,
+            0.262,
+            0.246,
             0.222
           ],
           [
             null,
             null,
             null,
-            0.541,
-            0.475,
-            0.399,
-            0.331,
+            0.54,
+            0.476,
+            0.398,
+            0.332,
             0.333,
             null,
             null
@@ -5839,25 +6247,25 @@
           [
             null,
             0.709,
-            0.673,
+            0.675,
             0.626,
-            0.57,
+            0.571,
             0.516,
             0.46,
-            0.447,
+            0.446,
             null,
             null
           ],
           [
-            0.817,
-            0.8,
-            0.733,
-            0.671,
-            0.606,
-            0.589,
-            0.553,
-            0.538,
-            0.499,
+            0.816,
+            0.818,
+            0.77,
+            0.715,
+            0.66,
+            0.627,
+            0.593,
+            0.562,
+            0.54,
             null
           ],
           [
@@ -5889,10 +6297,10 @@
             null,
             0.878,
             0.872,
-            0.865,
-            0.839,
-            0.816,
-            0.791,
+            0.866,
+            0.843,
+            0.82,
+            0.789,
             null,
             null
           ],
@@ -5913,8 +6321,8 @@
             null,
             null,
             0.919,
-            0.922,
-            null,
+            0.923,
+            0.896,
             null,
             null,
             null,
@@ -5925,7 +6333,7 @@
             null,
             null,
             null,
-            0.944,
+            0.946,
             null,
             null,
             0.898,
@@ -5937,10 +6345,10 @@
             0.965,
             null,
             null,
-            0.954,
+            0.955,
             0.954,
             0.947,
-            0.937,
+            0.936,
             null,
             null
           ],
@@ -5969,9 +6377,9 @@
             null
           ],
           [
-            0.989,
+            0.99,
             null,
-            0.987,
+            0.988,
             0.987,
             0.989,
             null,
@@ -6033,5 +6441,5 @@
     ]
   },
   "team": "DET",
-  "throughWeek": 9
+  "throughWeek": 11
 }
