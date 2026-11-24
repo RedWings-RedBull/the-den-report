@@ -39,6 +39,14 @@
       "season": 2026,
       "tier": "provisional",
       "week": 8
+    },
+    {
+      "gameId": "2026_11_TB_DET",
+      "opponent": "TB",
+      "result": "W",
+      "season": 2026,
+      "tier": "provisional",
+      "week": 11
     }
   ]
 }

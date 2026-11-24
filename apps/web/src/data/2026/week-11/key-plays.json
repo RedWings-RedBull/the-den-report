@@ -1,0 +1,187 @@
+{
+  "gameId": "2026_11_TB_DET",
+  "plays": [
+    {
+      "clock": "12:42",
+      "desc": "(12:42) (Shotgun) 16-J.Goff pass deep right to 87-S.LaPorta pushed ob at TB 39 for 47 yards (23-T.Smith).",
+      "down": 2,
+      "epa": 2.546,
+      "playId": 200,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "explosive"
+      ],
+      "wpa": 0.09,
+      "yardline100": 86,
+      "ydstogo": 10
+    },
+    {
+      "clock": "11:09",
+      "desc": "(11:09) 39-J.Bates 53 yard field goal is No Good, Wide Right, Center-49-H.Hatten, Holder-3-J.Fox.",
+      "down": 4,
+      "epa": -2.437,
+      "playId": 298,
+      "posteam": "DET",
+      "qtr": 1,
+      "tags": [
+        "fourth-down",
+        "fg"
+      ],
+      "wpa": -0.092,
+      "yardline100": 35,
+      "ydstogo": 6
+    },
+    {
+      "clock": "03:05",
+      "desc": "(3:05) 77-J.Skule reported in as eligible. 7-B.Irving up the middle to DET 10 for -1 yards (40-K.Britt).",
+      "down": 4,
+      "epa": -3.472,
+      "playId": 628,
+      "posteam": "TB",
+      "qtr": 1,
+      "tags": [
+        "fourth-down"
+      ],
+      "wpa": -0.133,
+      "yardline100": 9,
+      "ydstogo": 1
+    },
+    {
+      "clock": "15:00",
+      "desc": "(15:00) 16-J.Goff pass deep left to 1-J.Williams pushed ob at TB 36 for 17 yards (21-B.Morrison).",
+      "down": 1,
+      "epa": 0.671,
+      "playId": 826,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [],
+      "wpa": 0.052,
+      "yardline100": 53,
+      "ydstogo": 10
+    },
+    {
+      "clock": "10:41",
+      "desc": "(10:41) (Shotgun) 16-J.Goff pass short middle to 14-A.St. Brown for 14 yards, TOUCHDOWN.",
+      "down": 1,
+      "epa": 1.755,
+      "playId": 997,
+      "posteam": "DET",
+      "qtr": 2,
+      "tags": [
+        "td"
+      ],
+      "wpa": 0.046,
+      "yardline100": 14,
+      "ydstogo": 10
+    },
+    {
+      "clock": "00:20",
+      "desc": "(:20) (Shotgun) 6-B.Mayfield pass short right to 7-B.Irving pushed ob at DET 23 for 16 yards (5-C.Izien).",
+      "down": 3,
+      "epa": 0.949,
+      "playId": 1792,
+      "posteam": "TB",
+      "qtr": 2,
+      "tags": [],
+      "wpa": 0.071,
+      "yardline100": 39,
+      "ydstogo": 10
+    },
+    {
+      "clock": "00:10",
+      "desc": "(:10) (Shotgun) 6-B.Mayfield pass deep right to 17-T.Hurst for 23 yards, TOUCHDOWN.",
+      "down": 2,
+      "epa": 4.161,
+      "playId": 1852,
+      "posteam": "TB",
+      "qtr": 2,
+      "tags": [
+        "td",
+        "explosive"
+      ],
+      "wpa": 0.051,
+      "yardline100": 23,
+      "ydstogo": 10
+    },
+    {
+      "clock": "10:33",
+      "desc": "(10:33) (Shotgun) 16-J.Goff scrambles right end to DET 39 for 10 yards (34-A.Anzalone; 23-T.Smith).",
+      "down": 3,
+      "epa": 1.329,
+      "playId": 2321,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "explosive"
+      ],
+      "wpa": 0.058,
+      "yardline100": 71,
+      "ydstogo": 8
+    },
+    {
+      "clock": "09:10",
+      "desc": "(9:10) (Shotgun) 16-J.Goff pass deep middle to 1-J.Williams for 57 yards, TOUCHDOWN [51-D.Walker].",
+      "down": 2,
+      "epa": 3.858,
+      "playId": 2365,
+      "posteam": "DET",
+      "qtr": 3,
+      "tags": [
+        "td",
+        "explosive"
+      ],
+      "wpa": 0.1,
+      "yardline100": 57,
+      "ydstogo": 6
+    },
+    {
+      "clock": "05:00",
+      "desc": "(5:00) 7-B.Irving up the middle pushed ob at DET 14 for 23 yards (23-R.Ya-Sin).",
+      "down": 1,
+      "epa": 1.254,
+      "playId": 2624,
+      "posteam": "TB",
+      "qtr": 3,
+      "tags": [
+        "explosive"
+      ],
+      "wpa": 0.053,
+      "yardline100": 37,
+      "ydstogo": 10
+    },
+    {
+      "clock": "02:43",
+      "desc": "(2:43) 65-D.Feeney and 50-V.Vea reported in as eligible. 7-B.Irving up the middle for 1 yard, TOUCHDOWN.",
+      "down": 1,
+      "epa": 0.556,
+      "playId": 2731,
+      "posteam": "TB",
+      "qtr": 3,
+      "tags": [
+        "td"
+      ],
+      "wpa": -0.024,
+      "yardline100": 1,
+      "ydstogo": 1
+    },
+    {
+      "clock": "05:27",
+      "desc": "(5:27) 50-S.Gill-Howard reported in as eligible. 0-J.Gibbs up the middle for 1 yard, TOUCHDOWN. PENALTY on TB-91-A.Robinson, Unnecessary Roughness, 8 yards, enforced between downs.",
+      "down": 2,
+      "epa": 0.741,
+      "playId": 3404,
+      "posteam": "DET",
+      "qtr": 4,
+      "tags": [
+        "td",
+        "penalty"
+      ],
+      "wpa": 0.025,
+      "yardline100": 1,
+      "ydstogo": 1
+    }
+  ],
+  "season": 2026,
+  "week": 11
+}
